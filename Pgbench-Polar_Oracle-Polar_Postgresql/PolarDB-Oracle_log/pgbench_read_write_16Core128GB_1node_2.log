@@ -1,0 +1,2297 @@
+nohup: ignoring input
+***********************************************************************
+Time: 20210403190347, now running pgbench with c of:  + 500
+progress: 1.0 s, 4045.8 tps, lat 48.080 ms stddev 32.970
+progress: 2.0 s, 13844.0 tps, lat 35.576 ms stddev 22.947
+progress: 3.0 s, 14860.0 tps, lat 34.183 ms stddev 23.275
+progress: 4.0 s, 14401.4 tps, lat 34.724 ms stddev 22.431
+progress: 5.0 s, 14788.4 tps, lat 33.732 ms stddev 21.859
+progress: 6.0 s, 14513.0 tps, lat 34.476 ms stddev 22.701
+progress: 7.0 s, 14741.2 tps, lat 33.969 ms stddev 22.012
+progress: 8.0 s, 14745.0 tps, lat 33.913 ms stddev 22.551
+progress: 9.0 s, 14892.6 tps, lat 33.532 ms stddev 21.722
+progress: 10.0 s, 14241.4 tps, lat 35.084 ms stddev 22.867
+progress: 11.0 s, 14071.0 tps, lat 35.574 ms stddev 23.152
+progress: 12.0 s, 14540.8 tps, lat 34.386 ms stddev 22.537
+progress: 13.0 s, 15039.2 tps, lat 33.219 ms stddev 21.518
+progress: 14.0 s, 14255.0 tps, lat 35.080 ms stddev 22.807
+progress: 15.0 s, 14611.0 tps, lat 34.210 ms stddev 21.905
+progress: 16.0 s, 14270.6 tps, lat 35.038 ms stddev 22.751
+progress: 17.0 s, 14188.5 tps, lat 35.193 ms stddev 22.609
+progress: 18.0 s, 14596.7 tps, lat 34.340 ms stddev 22.102
+progress: 19.0 s, 14547.2 tps, lat 34.133 ms stddev 23.095
+progress: 20.0 s, 14593.8 tps, lat 34.452 ms stddev 22.249
+progress: 21.0 s, 14367.3 tps, lat 34.812 ms stddev 22.370
+progress: 22.0 s, 14706.5 tps, lat 33.984 ms stddev 21.673
+progress: 23.0 s, 14547.2 tps, lat 34.390 ms stddev 21.960
+progress: 24.0 s, 14690.8 tps, lat 34.040 ms stddev 22.017
+progress: 25.0 s, 14397.4 tps, lat 34.729 ms stddev 22.833
+progress: 26.0 s, 14732.9 tps, lat 33.923 ms stddev 21.533
+progress: 27.0 s, 14365.5 tps, lat 34.825 ms stddev 22.770
+progress: 28.0 s, 14383.6 tps, lat 34.723 ms stddev 22.776
+progress: 29.0 s, 14542.0 tps, lat 34.409 ms stddev 22.482
+progress: 30.0 s, 14385.0 tps, lat 34.769 ms stddev 22.147
+progress: 31.0 s, 14674.0 tps, lat 34.051 ms stddev 22.389
+progress: 32.0 s, 14540.9 tps, lat 34.409 ms stddev 21.903
+progress: 33.0 s, 14351.8 tps, lat 34.814 ms stddev 23.651
+progress: 34.0 s, 14512.2 tps, lat 34.473 ms stddev 23.423
+progress: 35.0 s, 14399.1 tps, lat 34.663 ms stddev 23.305
+progress: 36.0 s, 14582.8 tps, lat 34.363 ms stddev 22.011
+progress: 37.0 s, 14406.4 tps, lat 34.708 ms stddev 22.829
+progress: 38.0 s, 14442.7 tps, lat 34.548 ms stddev 22.576
+progress: 39.0 s, 14595.0 tps, lat 34.310 ms stddev 22.323
+progress: 40.0 s, 14244.0 tps, lat 35.069 ms stddev 22.690
+progress: 41.0 s, 13316.0 tps, lat 37.548 ms stddev 24.788
+progress: 42.0 s, 13849.7 tps, lat 36.118 ms stddev 23.423
+progress: 43.0 s, 14405.9 tps, lat 34.706 ms stddev 22.618
+progress: 44.0 s, 14388.7 tps, lat 34.750 ms stddev 22.590
+progress: 45.0 s, 13940.7 tps, lat 35.478 ms stddev 23.310
+progress: 46.0 s, 14653.8 tps, lat 34.524 ms stddev 22.644
+progress: 47.0 s, 13981.2 tps, lat 35.730 ms stddev 23.455
+progress: 48.0 s, 14519.5 tps, lat 34.429 ms stddev 22.358
+progress: 49.0 s, 14454.5 tps, lat 34.674 ms stddev 22.653
+progress: 50.0 s, 14137.6 tps, lat 34.472 ms stddev 24.198
+progress: 51.0 s, 14856.8 tps, lat 34.442 ms stddev 24.022
+progress: 52.0 s, 14374.9 tps, lat 34.769 ms stddev 22.362
+progress: 53.0 s, 14227.5 tps, lat 35.119 ms stddev 22.941
+progress: 54.0 s, 14387.2 tps, lat 34.768 ms stddev 22.851
+progress: 55.0 s, 14060.8 tps, lat 35.596 ms stddev 23.113
+progress: 56.0 s, 14406.2 tps, lat 34.613 ms stddev 22.307
+progress: 57.0 s, 14126.6 tps, lat 35.449 ms stddev 22.780
+progress: 58.0 s, 14466.4 tps, lat 34.555 ms stddev 22.542
+progress: 59.0 s, 14621.0 tps, lat 34.269 ms stddev 22.347
+progress: 60.0 s, 14557.5 tps, lat 34.306 ms stddev 22.563
+progress: 61.0 s, 14581.1 tps, lat 34.269 ms stddev 22.001
+progress: 62.0 s, 14491.3 tps, lat 34.503 ms stddev 22.107
+progress: 63.0 s, 14556.1 tps, lat 34.376 ms stddev 22.491
+progress: 64.0 s, 14781.4 tps, lat 33.812 ms stddev 22.216
+progress: 65.0 s, 14550.6 tps, lat 34.412 ms stddev 22.175
+progress: 66.0 s, 13857.0 tps, lat 33.743 ms stddev 23.486
+progress: 67.0 s, 14807.0 tps, lat 35.863 ms stddev 28.910
+progress: 68.0 s, 14526.7 tps, lat 34.309 ms stddev 21.237
+progress: 69.0 s, 14522.3 tps, lat 34.513 ms stddev 22.336
+progress: 70.0 s, 14469.0 tps, lat 34.553 ms stddev 21.553
+progress: 71.0 s, 13827.1 tps, lat 36.236 ms stddev 24.810
+progress: 72.0 s, 14238.0 tps, lat 35.119 ms stddev 22.694
+progress: 73.0 s, 14701.9 tps, lat 34.011 ms stddev 21.530
+progress: 74.0 s, 14441.1 tps, lat 34.604 ms stddev 22.363
+progress: 75.0 s, 14294.9 tps, lat 34.973 ms stddev 22.987
+progress: 76.0 s, 14601.1 tps, lat 34.209 ms stddev 22.258
+progress: 77.0 s, 14116.9 tps, lat 35.497 ms stddev 23.266
+progress: 78.0 s, 14516.0 tps, lat 34.410 ms stddev 22.707
+progress: 79.0 s, 14529.9 tps, lat 34.395 ms stddev 21.414
+progress: 80.0 s, 14554.2 tps, lat 34.363 ms stddev 23.179
+progress: 81.0 s, 14485.9 tps, lat 34.496 ms stddev 22.617
+progress: 82.0 s, 14450.1 tps, lat 34.593 ms stddev 23.658
+progress: 83.0 s, 14627.2 tps, lat 34.195 ms stddev 22.515
+progress: 84.0 s, 14624.9 tps, lat 34.148 ms stddev 22.265
+progress: 85.0 s, 14147.9 tps, lat 35.401 ms stddev 22.382
+progress: 86.0 s, 14585.6 tps, lat 34.229 ms stddev 21.964
+progress: 87.0 s, 14347.5 tps, lat 34.820 ms stddev 22.053
+progress: 88.0 s, 14411.1 tps, lat 34.786 ms stddev 22.789
+progress: 89.0 s, 14551.8 tps, lat 34.324 ms stddev 22.166
+progress: 90.0 s, 14692.0 tps, lat 33.990 ms stddev 20.199
+progress: 91.0 s, 14408.0 tps, lat 34.784 ms stddev 22.098
+progress: 92.0 s, 14494.0 tps, lat 34.466 ms stddev 22.763
+progress: 93.0 s, 14662.0 tps, lat 34.081 ms stddev 21.727
+progress: 94.0 s, 14377.7 tps, lat 34.802 ms stddev 22.733
+progress: 95.0 s, 14343.3 tps, lat 34.848 ms stddev 22.849
+progress: 96.0 s, 14682.4 tps, lat 34.037 ms stddev 21.845
+progress: 97.0 s, 14121.5 tps, lat 35.444 ms stddev 22.700
+progress: 98.0 s, 14566.4 tps, lat 34.312 ms stddev 22.714
+progress: 99.0 s, 14556.6 tps, lat 34.371 ms stddev 22.574
+progress: 100.0 s, 14334.2 tps, lat 34.794 ms stddev 22.647
+progress: 101.0 s, 13726.7 tps, lat 36.427 ms stddev 24.028
+progress: 102.0 s, 13742.1 tps, lat 36.433 ms stddev 24.184
+progress: 103.0 s, 14385.0 tps, lat 34.778 ms stddev 22.276
+progress: 104.0 s, 14649.0 tps, lat 34.090 ms stddev 20.607
+progress: 105.0 s, 14353.0 tps, lat 34.865 ms stddev 22.158
+progress: 106.0 s, 14317.9 tps, lat 34.858 ms stddev 22.502
+progress: 107.0 s, 14335.0 tps, lat 34.943 ms stddev 21.623
+progress: 108.0 s, 14797.0 tps, lat 33.724 ms stddev 21.499
+progress: 109.0 s, 14635.3 tps, lat 34.218 ms stddev 22.955
+progress: 110.0 s, 14545.8 tps, lat 34.350 ms stddev 22.567
+progress: 111.0 s, 14454.0 tps, lat 34.614 ms stddev 22.330
+progress: 112.0 s, 14483.9 tps, lat 34.557 ms stddev 22.216
+progress: 113.0 s, 14582.0 tps, lat 34.260 ms stddev 22.552
+progress: 114.0 s, 13705.0 tps, lat 36.420 ms stddev 26.586
+progress: 115.0 s, 14276.9 tps, lat 35.096 ms stddev 22.759
+progress: 116.0 s, 14626.1 tps, lat 34.166 ms stddev 22.292
+progress: 117.0 s, 14338.2 tps, lat 34.859 ms stddev 21.884
+progress: 118.0 s, 14431.4 tps, lat 34.590 ms stddev 21.980
+progress: 119.0 s, 14559.1 tps, lat 34.313 ms stddev 21.300
+progress: 120.0 s, 14640.8 tps, lat 34.221 ms stddev 21.583
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1721904
+latency average = 34.700 ms
+latency stddev = 22.746 ms
+tps = 14316.366491 (including connections establishing)
+tps = 14319.670471 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+         4.543  BEGIN;
+         4.817  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+         4.621  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+         4.678  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+         4.744  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+         5.122  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+         6.145  END;
+***********************************************************************
+Time: 20210403190547, now running pgbench with c of:  + 1000
+progress: 1.6 s, 177.2 tps, lat 132.923 ms stddev 61.549
+progress: 2.0 s, 10133.7 tps, lat 134.737 ms stddev 96.091
+progress: 3.0 s, 12448.0 tps, lat 81.711 ms stddev 44.722
+progress: 4.0 s, 12826.0 tps, lat 78.066 ms stddev 41.852
+progress: 5.0 s, 13041.0 tps, lat 76.884 ms stddev 39.924
+progress: 6.0 s, 13030.0 tps, lat 76.544 ms stddev 40.694
+progress: 7.0 s, 13007.0 tps, lat 76.994 ms stddev 41.184
+progress: 8.0 s, 13338.0 tps, lat 74.884 ms stddev 39.842
+progress: 9.0 s, 13068.0 tps, lat 76.453 ms stddev 45.318
+progress: 10.0 s, 12643.0 tps, lat 78.185 ms stddev 41.431
+progress: 11.0 s, 12229.0 tps, lat 82.846 ms stddev 44.600
+progress: 12.0 s, 13172.0 tps, lat 76.041 ms stddev 39.833
+progress: 13.0 s, 12886.0 tps, lat 76.835 ms stddev 41.598
+progress: 14.0 s, 13061.0 tps, lat 77.129 ms stddev 40.613
+progress: 15.0 s, 13009.0 tps, lat 76.815 ms stddev 39.954
+progress: 16.0 s, 12987.0 tps, lat 77.007 ms stddev 39.868
+progress: 17.0 s, 12935.0 tps, lat 77.531 ms stddev 41.751
+progress: 18.0 s, 13249.0 tps, lat 75.309 ms stddev 41.597
+progress: 19.0 s, 13271.0 tps, lat 75.543 ms stddev 39.827
+progress: 20.0 s, 13180.0 tps, lat 75.590 ms stddev 39.551
+progress: 21.0 s, 13320.0 tps, lat 75.363 ms stddev 39.030
+progress: 22.0 s, 13282.0 tps, lat 75.078 ms stddev 38.087
+progress: 23.0 s, 13026.9 tps, lat 77.002 ms stddev 41.302
+progress: 24.0 s, 13310.1 tps, lat 74.965 ms stddev 39.140
+progress: 25.0 s, 13421.0 tps, lat 74.538 ms stddev 38.814
+progress: 26.0 s, 13115.0 tps, lat 76.320 ms stddev 40.754
+progress: 27.0 s, 13146.0 tps, lat 75.387 ms stddev 39.422
+progress: 28.0 s, 13600.0 tps, lat 74.321 ms stddev 42.702
+progress: 29.0 s, 13359.0 tps, lat 74.618 ms stddev 38.939
+progress: 30.0 s, 13204.0 tps, lat 75.811 ms stddev 40.640
+progress: 31.0 s, 13401.0 tps, lat 74.523 ms stddev 48.919
+progress: 32.0 s, 13188.0 tps, lat 75.841 ms stddev 40.255
+progress: 33.0 s, 13546.0 tps, lat 73.982 ms stddev 38.843
+progress: 34.0 s, 13512.0 tps, lat 73.962 ms stddev 39.215
+progress: 35.0 s, 13216.0 tps, lat 75.522 ms stddev 39.433
+progress: 36.0 s, 13568.0 tps, lat 74.003 ms stddev 38.562
+progress: 37.0 s, 13354.0 tps, lat 74.725 ms stddev 41.539
+progress: 38.0 s, 13335.0 tps, lat 74.831 ms stddev 38.926
+progress: 39.0 s, 13395.0 tps, lat 74.662 ms stddev 38.583
+progress: 40.0 s, 13159.0 tps, lat 75.910 ms stddev 40.062
+progress: 41.0 s, 12047.0 tps, lat 81.933 ms stddev 44.635
+progress: 42.0 s, 13252.0 tps, lat 76.474 ms stddev 41.796
+progress: 43.0 s, 13391.9 tps, lat 74.713 ms stddev 39.681
+progress: 44.0 s, 13216.1 tps, lat 75.628 ms stddev 39.412
+progress: 45.0 s, 13225.0 tps, lat 75.679 ms stddev 39.394
+progress: 46.0 s, 13015.0 tps, lat 76.702 ms stddev 39.937
+progress: 47.0 s, 13305.0 tps, lat 75.257 ms stddev 40.674
+progress: 48.0 s, 12947.0 tps, lat 77.197 ms stddev 42.107
+progress: 49.0 s, 13582.8 tps, lat 73.933 ms stddev 38.177
+progress: 50.0 s, 13468.2 tps, lat 74.129 ms stddev 39.202
+progress: 51.0 s, 13358.0 tps, lat 75.057 ms stddev 41.840
+progress: 52.0 s, 13594.0 tps, lat 73.334 ms stddev 38.106
+progress: 53.0 s, 13712.1 tps, lat 73.133 ms stddev 38.238
+progress: 54.0 s, 13018.9 tps, lat 76.453 ms stddev 40.251
+progress: 55.0 s, 13367.0 tps, lat 75.246 ms stddev 40.799
+progress: 56.0 s, 13460.0 tps, lat 73.997 ms stddev 38.516
+progress: 57.0 s, 12985.0 tps, lat 76.997 ms stddev 40.005
+progress: 58.0 s, 13364.0 tps, lat 74.930 ms stddev 39.152
+progress: 59.0 s, 13525.0 tps, lat 73.710 ms stddev 37.399
+progress: 60.0 s, 13246.0 tps, lat 75.437 ms stddev 39.756
+progress: 61.0 s, 13558.0 tps, lat 74.071 ms stddev 38.434
+progress: 62.0 s, 13358.0 tps, lat 74.744 ms stddev 39.226
+progress: 63.0 s, 13364.0 tps, lat 74.756 ms stddev 38.329
+progress: 64.0 s, 13080.0 tps, lat 74.889 ms stddev 40.771
+progress: 65.0 s, 13406.0 tps, lat 76.117 ms stddev 41.158
+progress: 66.0 s, 13211.0 tps, lat 75.896 ms stddev 39.822
+progress: 67.0 s, 13234.0 tps, lat 75.353 ms stddev 39.690
+progress: 68.0 s, 13429.0 tps, lat 74.670 ms stddev 39.140
+progress: 69.0 s, 13394.0 tps, lat 74.542 ms stddev 41.549
+progress: 70.0 s, 13013.0 tps, lat 76.141 ms stddev 40.359
+progress: 71.0 s, 12803.9 tps, lat 78.759 ms stddev 41.770
+progress: 72.0 s, 13479.1 tps, lat 74.264 ms stddev 38.664
+progress: 73.0 s, 13323.0 tps, lat 75.134 ms stddev 39.271
+progress: 74.0 s, 13350.0 tps, lat 74.758 ms stddev 42.477
+progress: 75.0 s, 13430.0 tps, lat 74.328 ms stddev 38.384
+progress: 76.0 s, 13091.0 tps, lat 76.100 ms stddev 39.692
+progress: 77.0 s, 13235.0 tps, lat 76.006 ms stddev 40.160
+progress: 78.0 s, 13248.0 tps, lat 75.178 ms stddev 43.309
+progress: 79.0 s, 13336.4 tps, lat 75.488 ms stddev 40.013
+progress: 80.0 s, 13558.5 tps, lat 73.538 ms stddev 37.679
+progress: 81.0 s, 13480.0 tps, lat 74.258 ms stddev 38.679
+progress: 82.0 s, 13332.0 tps, lat 74.870 ms stddev 39.755
+progress: 83.0 s, 13295.0 tps, lat 75.298 ms stddev 43.940
+progress: 84.0 s, 13626.8 tps, lat 73.341 ms stddev 38.230
+progress: 85.0 s, 13188.3 tps, lat 75.512 ms stddev 39.603
+progress: 86.0 s, 13359.0 tps, lat 75.011 ms stddev 39.606
+progress: 87.0 s, 13529.0 tps, lat 73.806 ms stddev 38.990
+progress: 88.0 s, 13486.0 tps, lat 74.392 ms stddev 42.655
+progress: 89.0 s, 13294.0 tps, lat 75.203 ms stddev 39.458
+progress: 90.0 s, 13493.0 tps, lat 74.170 ms stddev 39.587
+progress: 91.0 s, 13393.0 tps, lat 74.608 ms stddev 38.559
+progress: 92.0 s, 13136.0 tps, lat 76.107 ms stddev 43.214
+progress: 93.0 s, 13339.0 tps, lat 74.849 ms stddev 39.529
+progress: 94.0 s, 13317.0 tps, lat 75.232 ms stddev 40.333
+progress: 95.0 s, 13262.0 tps, lat 75.526 ms stddev 39.274
+progress: 96.0 s, 13502.0 tps, lat 74.007 ms stddev 38.706
+progress: 97.0 s, 13473.0 tps, lat 74.343 ms stddev 41.143
+progress: 98.0 s, 13467.9 tps, lat 73.988 ms stddev 38.214
+progress: 99.0 s, 13287.9 tps, lat 75.379 ms stddev 40.082
+progress: 100.0 s, 13220.2 tps, lat 75.297 ms stddev 40.067
+progress: 101.0 s, 11700.0 tps, lat 85.433 ms stddev 45.415
+progress: 102.0 s, 13341.9 tps, lat 75.108 ms stddev 39.930
+progress: 103.0 s, 13234.1 tps, lat 75.519 ms stddev 39.725
+progress: 104.0 s, 13299.1 tps, lat 75.344 ms stddev 40.162
+progress: 105.0 s, 13261.0 tps, lat 75.492 ms stddev 39.084
+progress: 106.0 s, 13011.0 tps, lat 76.693 ms stddev 42.559
+progress: 107.0 s, 13030.0 tps, lat 77.005 ms stddev 40.328
+progress: 108.0 s, 13302.0 tps, lat 74.829 ms stddev 39.526
+progress: 109.0 s, 13172.1 tps, lat 75.681 ms stddev 40.110
+progress: 110.0 s, 13324.0 tps, lat 75.624 ms stddev 40.327
+progress: 111.0 s, 13513.0 tps, lat 73.985 ms stddev 39.825
+progress: 112.0 s, 13434.4 tps, lat 74.352 ms stddev 38.120
+progress: 113.0 s, 13548.6 tps, lat 73.336 ms stddev 38.083
+progress: 114.0 s, 13236.0 tps, lat 75.805 ms stddev 40.169
+progress: 115.0 s, 13503.0 tps, lat 74.249 ms stddev 42.271
+progress: 116.0 s, 13231.0 tps, lat 75.533 ms stddev 40.495
+progress: 117.0 s, 13397.3 tps, lat 74.946 ms stddev 39.381
+progress: 118.0 s, 13313.7 tps, lat 74.792 ms stddev 39.153
+progress: 119.0 s, 13569.0 tps, lat 73.775 ms stddev 39.047
+progress: 120.0 s, 13150.3 tps, lat 76.194 ms stddev 43.359
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 1000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1567901
+latency average = 75.829 ms
+latency stddev = 41.480 ms
+tps = 12986.087177 (including connections establishing)
+tps = 12989.622835 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        10.357  BEGIN;
+        10.502  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        10.315  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        10.446  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        10.676  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        11.180  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        12.293  END;
+***********************************************************************
+Time: 20210403190748, now running pgbench with c of:  + 1500
+progress: 2.6 s, 43.9 tps, lat 240.780 ms stddev 94.930
+progress: 3.0 s, 7449.9 tps, lat 283.141 ms stddev 175.693
+progress: 4.0 s, 11011.9 tps, lat 141.949 ms stddev 80.144
+progress: 5.0 s, 12745.1 tps, lat 117.994 ms stddev 60.300
+progress: 6.0 s, 12716.0 tps, lat 117.846 ms stddev 58.864
+progress: 7.0 s, 12860.0 tps, lat 115.675 ms stddev 58.274
+progress: 8.0 s, 12697.0 tps, lat 119.014 ms stddev 60.732
+progress: 9.0 s, 12366.0 tps, lat 120.443 ms stddev 61.163
+progress: 10.0 s, 12068.0 tps, lat 125.614 ms stddev 64.286
+progress: 11.0 s, 13149.0 tps, lat 113.856 ms stddev 56.924
+progress: 12.0 s, 12843.0 tps, lat 117.333 ms stddev 60.230
+progress: 13.0 s, 13017.0 tps, lat 114.865 ms stddev 58.017
+progress: 14.0 s, 12621.0 tps, lat 118.461 ms stddev 59.704
+progress: 15.0 s, 12906.0 tps, lat 116.734 ms stddev 59.235
+progress: 16.0 s, 12948.0 tps, lat 115.897 ms stddev 56.567
+progress: 17.0 s, 13010.0 tps, lat 114.689 ms stddev 58.703
+progress: 18.0 s, 12914.0 tps, lat 116.467 ms stddev 60.582
+progress: 19.0 s, 13171.0 tps, lat 113.838 ms stddev 57.309
+progress: 20.0 s, 12855.0 tps, lat 116.670 ms stddev 58.862
+progress: 21.0 s, 13197.9 tps, lat 113.846 ms stddev 57.671
+progress: 22.0 s, 12834.1 tps, lat 115.547 ms stddev 59.035
+progress: 23.0 s, 13256.0 tps, lat 114.338 ms stddev 57.945
+progress: 24.0 s, 12694.0 tps, lat 118.031 ms stddev 59.584
+progress: 25.0 s, 13187.0 tps, lat 114.245 ms stddev 58.204
+progress: 26.0 s, 13163.1 tps, lat 114.544 ms stddev 57.988
+progress: 27.0 s, 12960.0 tps, lat 114.770 ms stddev 57.739
+progress: 28.0 s, 12864.1 tps, lat 117.281 ms stddev 60.053
+progress: 29.0 s, 13077.9 tps, lat 114.266 ms stddev 56.885
+progress: 30.0 s, 13130.0 tps, lat 114.839 ms stddev 57.269
+progress: 31.0 s, 12854.0 tps, lat 115.362 ms stddev 58.439
+progress: 32.0 s, 13235.9 tps, lat 114.436 ms stddev 58.273
+progress: 33.0 s, 12865.2 tps, lat 115.404 ms stddev 57.631
+progress: 34.0 s, 12944.0 tps, lat 116.765 ms stddev 59.220
+progress: 35.0 s, 12678.0 tps, lat 117.662 ms stddev 59.483
+progress: 36.0 s, 12709.0 tps, lat 118.503 ms stddev 61.398
+progress: 37.0 s, 12712.0 tps, lat 117.508 ms stddev 60.585
+progress: 38.0 s, 12920.0 tps, lat 116.348 ms stddev 60.157
+progress: 39.0 s, 11903.0 tps, lat 124.262 ms stddev 64.100
+progress: 40.0 s, 12204.9 tps, lat 124.438 ms stddev 67.014
+progress: 41.0 s, 12591.1 tps, lat 119.241 ms stddev 61.212
+progress: 42.0 s, 12928.0 tps, lat 115.408 ms stddev 59.240
+progress: 43.0 s, 12528.0 tps, lat 119.980 ms stddev 61.995
+progress: 44.0 s, 12988.0 tps, lat 115.624 ms stddev 59.105
+progress: 45.0 s, 12386.0 tps, lat 121.338 ms stddev 61.938
+progress: 46.0 s, 12644.0 tps, lat 118.052 ms stddev 61.300
+progress: 47.0 s, 12785.0 tps, lat 117.621 ms stddev 60.788
+progress: 48.0 s, 12900.0 tps, lat 116.042 ms stddev 59.068
+progress: 49.0 s, 12948.0 tps, lat 116.811 ms stddev 60.906
+progress: 50.0 s, 12843.0 tps, lat 116.352 ms stddev 58.352
+progress: 51.0 s, 12838.0 tps, lat 117.274 ms stddev 58.658
+progress: 52.0 s, 12385.0 tps, lat 118.818 ms stddev 59.630
+progress: 53.0 s, 12923.0 tps, lat 117.664 ms stddev 60.514
+progress: 54.0 s, 12709.5 tps, lat 118.504 ms stddev 60.814
+progress: 55.0 s, 12552.5 tps, lat 116.994 ms stddev 59.846
+progress: 56.0 s, 12954.0 tps, lat 117.958 ms stddev 61.122
+progress: 57.0 s, 12782.0 tps, lat 117.506 ms stddev 60.922
+progress: 58.0 s, 12686.0 tps, lat 117.501 ms stddev 60.985
+progress: 59.0 s, 13014.0 tps, lat 116.069 ms stddev 59.868
+progress: 60.0 s, 12797.0 tps, lat 117.264 ms stddev 59.725
+progress: 61.0 s, 13210.0 tps, lat 113.172 ms stddev 57.741
+progress: 62.0 s, 12948.0 tps, lat 116.306 ms stddev 58.942
+progress: 63.0 s, 12956.0 tps, lat 115.587 ms stddev 58.224
+progress: 64.0 s, 12887.0 tps, lat 116.458 ms stddev 57.874
+progress: 65.0 s, 12950.0 tps, lat 116.329 ms stddev 59.139
+progress: 66.0 s, 13048.0 tps, lat 114.175 ms stddev 58.069
+progress: 67.0 s, 12981.0 tps, lat 115.306 ms stddev 57.055
+progress: 68.0 s, 12683.0 tps, lat 118.157 ms stddev 59.824
+progress: 69.0 s, 12065.0 tps, lat 123.491 ms stddev 63.717
+progress: 70.0 s, 10990.0 tps, lat 134.377 ms stddev 68.847
+progress: 71.0 s, 12690.8 tps, lat 120.966 ms stddev 64.617
+progress: 72.0 s, 12771.2 tps, lat 117.717 ms stddev 62.122
+progress: 73.0 s, 12725.0 tps, lat 117.701 ms stddev 60.254
+progress: 74.0 s, 12719.0 tps, lat 118.208 ms stddev 60.901
+progress: 75.0 s, 12618.0 tps, lat 118.824 ms stddev 60.314
+progress: 76.0 s, 12855.9 tps, lat 116.623 ms stddev 60.627
+progress: 77.0 s, 12850.0 tps, lat 116.922 ms stddev 59.423
+progress: 78.0 s, 12973.8 tps, lat 115.838 ms stddev 60.242
+progress: 79.0 s, 12915.1 tps, lat 115.862 ms stddev 60.393
+progress: 80.0 s, 12929.9 tps, lat 116.166 ms stddev 59.167
+progress: 81.0 s, 12697.1 tps, lat 117.526 ms stddev 60.677
+progress: 82.0 s, 13174.9 tps, lat 114.480 ms stddev 58.566
+progress: 83.0 s, 12729.0 tps, lat 117.232 ms stddev 59.711
+progress: 84.0 s, 12949.0 tps, lat 116.244 ms stddev 59.310
+progress: 85.0 s, 12885.0 tps, lat 116.257 ms stddev 58.832
+progress: 86.0 s, 13169.0 tps, lat 114.299 ms stddev 58.511
+progress: 87.0 s, 12957.0 tps, lat 115.701 ms stddev 59.506
+progress: 88.0 s, 13168.9 tps, lat 113.426 ms stddev 59.448
+progress: 89.0 s, 12686.1 tps, lat 117.932 ms stddev 60.340
+progress: 90.0 s, 13094.0 tps, lat 114.850 ms stddev 58.898
+progress: 91.0 s, 13013.0 tps, lat 115.457 ms stddev 58.615
+progress: 92.0 s, 13137.1 tps, lat 114.082 ms stddev 58.637
+progress: 93.0 s, 12784.9 tps, lat 117.104 ms stddev 59.859
+progress: 94.0 s, 13034.1 tps, lat 115.683 ms stddev 57.558
+progress: 95.0 s, 13125.0 tps, lat 114.480 ms stddev 57.581
+progress: 96.0 s, 13090.0 tps, lat 113.804 ms stddev 59.295
+progress: 97.0 s, 13051.0 tps, lat 115.538 ms stddev 57.963
+progress: 98.0 s, 12837.0 tps, lat 114.668 ms stddev 57.407
+progress: 99.0 s, 12221.0 tps, lat 123.675 ms stddev 64.155
+progress: 100.0 s, 12275.0 tps, lat 123.414 ms stddev 64.397
+progress: 101.0 s, 13131.0 tps, lat 114.375 ms stddev 58.241
+progress: 102.0 s, 12969.0 tps, lat 115.045 ms stddev 58.167
+progress: 103.0 s, 12800.0 tps, lat 117.094 ms stddev 59.623
+progress: 104.0 s, 12758.0 tps, lat 118.056 ms stddev 60.126
+progress: 105.0 s, 12619.0 tps, lat 119.172 ms stddev 60.534
+progress: 106.0 s, 13310.0 tps, lat 112.427 ms stddev 58.147
+progress: 107.0 s, 12990.0 tps, lat 115.549 ms stddev 57.748
+progress: 108.0 s, 12839.0 tps, lat 117.035 ms stddev 59.797
+progress: 109.0 s, 13115.0 tps, lat 114.417 ms stddev 57.710
+progress: 110.0 s, 13051.0 tps, lat 114.336 ms stddev 57.624
+progress: 111.0 s, 12867.7 tps, lat 116.909 ms stddev 59.461
+progress: 112.0 s, 12914.3 tps, lat 115.621 ms stddev 58.268
+progress: 113.0 s, 12717.0 tps, lat 118.048 ms stddev 59.353
+progress: 114.0 s, 12962.0 tps, lat 116.389 ms stddev 59.608
+progress: 115.0 s, 13077.0 tps, lat 114.391 ms stddev 57.697
+progress: 116.0 s, 13056.0 tps, lat 114.986 ms stddev 58.189
+progress: 117.0 s, 13227.0 tps, lat 113.295 ms stddev 57.775
+progress: 118.0 s, 12724.9 tps, lat 117.631 ms stddev 60.223
+progress: 119.0 s, 13097.1 tps, lat 114.875 ms stddev 59.357
+progress: 120.0 s, 13173.2 tps, lat 114.293 ms stddev 57.685
+progress: 121.0 s, 1141.0 tps, lat 543.416 ms stddev 306.790
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 1500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1505009
+latency average = 117.857 ms
+latency stddev = 64.223 ms
+tps = 12422.757691 (including connections establishing)
+tps = 12426.578596 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        16.317  BEGIN;
+        16.476  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        16.191  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        16.435  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        16.956  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        16.788  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        18.614  END;
+***********************************************************************
+Time: 20210403190950, now running pgbench with c of:  + 2000
+progress: 3.5 s, 108.0 tps, lat 277.822 ms stddev 147.445
+progress: 4.0 s, 7868.7 tps, lat 373.308 ms stddev 255.722
+progress: 5.0 s, 10414.4 tps, lat 196.969 ms stddev 106.671
+progress: 6.0 s, 12079.6 tps, lat 164.939 ms stddev 81.860
+progress: 7.0 s, 11451.6 tps, lat 172.981 ms stddev 87.482
+progress: 8.0 s, 11354.4 tps, lat 179.895 ms stddev 95.752
+progress: 9.0 s, 12482.0 tps, lat 161.114 ms stddev 80.835
+progress: 10.0 s, 12370.9 tps, lat 161.129 ms stddev 82.404
+progress: 11.0 s, 12318.2 tps, lat 162.344 ms stddev 79.680
+progress: 12.0 s, 12490.1 tps, lat 160.419 ms stddev 79.681
+progress: 13.0 s, 11961.5 tps, lat 166.426 ms stddev 83.734
+progress: 14.0 s, 12669.0 tps, lat 158.703 ms stddev 80.079
+progress: 15.0 s, 12527.3 tps, lat 159.294 ms stddev 80.057
+progress: 16.0 s, 12618.9 tps, lat 158.761 ms stddev 79.469
+progress: 17.0 s, 12272.9 tps, lat 163.020 ms stddev 82.511
+progress: 18.0 s, 12598.2 tps, lat 157.807 ms stddev 78.593
+progress: 19.0 s, 12486.0 tps, lat 160.766 ms stddev 80.822
+progress: 20.0 s, 12566.0 tps, lat 158.750 ms stddev 79.920
+progress: 21.0 s, 12407.0 tps, lat 161.591 ms stddev 81.178
+progress: 22.0 s, 12636.8 tps, lat 159.188 ms stddev 80.543
+progress: 23.0 s, 12373.2 tps, lat 160.466 ms stddev 79.871
+progress: 24.0 s, 12729.6 tps, lat 157.049 ms stddev 78.537
+progress: 25.0 s, 12536.4 tps, lat 160.053 ms stddev 80.523
+progress: 26.0 s, 12321.0 tps, lat 161.192 ms stddev 80.989
+progress: 27.0 s, 12494.9 tps, lat 160.546 ms stddev 79.629
+progress: 28.0 s, 12631.1 tps, lat 158.920 ms stddev 80.628
+progress: 29.0 s, 12607.8 tps, lat 158.802 ms stddev 80.954
+progress: 30.0 s, 12744.0 tps, lat 156.251 ms stddev 79.359
+progress: 31.0 s, 12436.0 tps, lat 160.015 ms stddev 80.705
+progress: 32.0 s, 12538.2 tps, lat 160.595 ms stddev 79.288
+progress: 33.0 s, 12587.9 tps, lat 158.959 ms stddev 80.219
+progress: 34.0 s, 12699.0 tps, lat 157.043 ms stddev 78.144
+progress: 35.0 s, 12554.0 tps, lat 160.173 ms stddev 79.652
+progress: 36.0 s, 12414.1 tps, lat 160.059 ms stddev 79.582
+progress: 37.0 s, 11720.8 tps, lat 170.062 ms stddev 86.154
+progress: 38.0 s, 10852.1 tps, lat 183.448 ms stddev 95.754
+progress: 39.0 s, 12090.7 tps, lat 167.418 ms stddev 87.816
+progress: 40.0 s, 12611.9 tps, lat 158.852 ms stddev 80.787
+progress: 41.0 s, 12137.4 tps, lat 163.598 ms stddev 82.590
+progress: 42.0 s, 12400.0 tps, lat 161.787 ms stddev 81.874
+progress: 43.0 s, 12101.0 tps, lat 165.448 ms stddev 84.022
+progress: 44.0 s, 12538.6 tps, lat 160.152 ms stddev 81.236
+progress: 45.0 s, 12442.3 tps, lat 160.484 ms stddev 82.659
+progress: 46.0 s, 12478.1 tps, lat 159.503 ms stddev 79.334
+progress: 47.0 s, 12698.0 tps, lat 158.904 ms stddev 81.268
+progress: 48.0 s, 12604.0 tps, lat 158.044 ms stddev 79.463
+progress: 49.0 s, 12523.0 tps, lat 159.852 ms stddev 79.906
+progress: 50.0 s, 12454.0 tps, lat 160.050 ms stddev 80.313
+progress: 51.0 s, 12384.0 tps, lat 160.998 ms stddev 81.748
+progress: 52.0 s, 12238.0 tps, lat 162.126 ms stddev 84.462
+progress: 53.0 s, 12859.7 tps, lat 157.530 ms stddev 78.648
+progress: 54.0 s, 12609.1 tps, lat 158.767 ms stddev 78.335
+progress: 55.0 s, 12637.9 tps, lat 158.410 ms stddev 79.844
+progress: 56.0 s, 12691.2 tps, lat 157.603 ms stddev 79.169
+progress: 57.0 s, 12582.9 tps, lat 158.356 ms stddev 80.114
+progress: 58.0 s, 12689.1 tps, lat 158.073 ms stddev 79.348
+progress: 59.0 s, 12755.8 tps, lat 157.441 ms stddev 79.091
+progress: 60.0 s, 12520.2 tps, lat 157.887 ms stddev 78.841
+progress: 61.0 s, 12592.2 tps, lat 159.638 ms stddev 80.668
+progress: 62.0 s, 12702.4 tps, lat 158.178 ms stddev 78.129
+progress: 63.0 s, 12857.4 tps, lat 155.416 ms stddev 79.932
+progress: 64.0 s, 12521.9 tps, lat 159.206 ms stddev 79.518
+progress: 65.0 s, 12518.1 tps, lat 161.524 ms stddev 80.957
+progress: 66.0 s, 12704.1 tps, lat 156.069 ms stddev 78.107
+progress: 67.0 s, 11864.0 tps, lat 166.168 ms stddev 82.301
+progress: 68.0 s, 11682.7 tps, lat 173.662 ms stddev 91.708
+progress: 69.0 s, 12829.5 tps, lat 155.634 ms stddev 76.778
+progress: 70.0 s, 12688.3 tps, lat 156.378 ms stddev 77.930
+progress: 71.0 s, 12713.2 tps, lat 158.419 ms stddev 80.481
+progress: 72.0 s, 12565.0 tps, lat 159.539 ms stddev 79.319
+progress: 73.0 s, 12379.8 tps, lat 161.380 ms stddev 78.831
+progress: 74.0 s, 12307.0 tps, lat 162.617 ms stddev 82.754
+progress: 75.0 s, 12511.2 tps, lat 159.452 ms stddev 80.002
+progress: 76.0 s, 12764.2 tps, lat 157.033 ms stddev 78.828
+progress: 77.0 s, 12600.8 tps, lat 158.403 ms stddev 78.744
+progress: 78.0 s, 12747.2 tps, lat 158.019 ms stddev 79.057
+progress: 79.0 s, 12476.9 tps, lat 159.682 ms stddev 79.030
+progress: 80.0 s, 12327.1 tps, lat 161.302 ms stddev 81.634
+progress: 81.0 s, 12394.0 tps, lat 162.085 ms stddev 82.734
+progress: 82.0 s, 12250.1 tps, lat 162.102 ms stddev 81.240
+progress: 83.0 s, 12377.5 tps, lat 162.227 ms stddev 79.456
+progress: 84.0 s, 12364.4 tps, lat 161.991 ms stddev 81.992
+progress: 85.0 s, 12525.7 tps, lat 159.889 ms stddev 79.590
+progress: 86.0 s, 12761.2 tps, lat 157.066 ms stddev 79.067
+progress: 87.0 s, 12417.7 tps, lat 161.218 ms stddev 81.236
+progress: 88.0 s, 12703.5 tps, lat 156.746 ms stddev 77.988
+progress: 89.0 s, 12553.6 tps, lat 159.362 ms stddev 79.442
+progress: 90.0 s, 12718.9 tps, lat 157.397 ms stddev 78.124
+progress: 91.0 s, 12331.5 tps, lat 162.290 ms stddev 81.238
+progress: 92.0 s, 12783.0 tps, lat 156.505 ms stddev 78.998
+progress: 93.0 s, 12525.0 tps, lat 159.783 ms stddev 80.660
+progress: 94.0 s, 12809.9 tps, lat 155.690 ms stddev 77.359
+progress: 95.0 s, 12454.9 tps, lat 160.944 ms stddev 79.615
+progress: 96.0 s, 12716.0 tps, lat 157.146 ms stddev 79.027
+progress: 97.0 s, 11672.2 tps, lat 168.012 ms stddev 84.579
+progress: 98.0 s, 11696.1 tps, lat 174.430 ms stddev 89.570
+progress: 99.0 s, 12720.8 tps, lat 157.384 ms stddev 78.807
+progress: 100.0 s, 12742.9 tps, lat 156.826 ms stddev 78.626
+progress: 101.0 s, 12657.0 tps, lat 157.712 ms stddev 77.420
+progress: 102.0 s, 12799.2 tps, lat 156.351 ms stddev 78.143
+progress: 103.0 s, 12321.0 tps, lat 162.548 ms stddev 81.999
+progress: 104.0 s, 12740.0 tps, lat 156.884 ms stddev 77.196
+progress: 105.0 s, 12529.6 tps, lat 159.700 ms stddev 80.187
+progress: 106.0 s, 12640.8 tps, lat 157.376 ms stddev 79.064
+progress: 107.0 s, 12757.5 tps, lat 157.811 ms stddev 78.651
+progress: 108.0 s, 12583.6 tps, lat 158.786 ms stddev 78.701
+progress: 109.0 s, 12607.2 tps, lat 157.110 ms stddev 78.920
+progress: 110.0 s, 12816.7 tps, lat 157.678 ms stddev 79.194
+progress: 111.0 s, 12663.2 tps, lat 157.776 ms stddev 78.999
+progress: 112.0 s, 12604.3 tps, lat 157.998 ms stddev 78.865
+progress: 113.0 s, 12757.0 tps, lat 157.251 ms stddev 77.404
+progress: 114.0 s, 12526.6 tps, lat 159.918 ms stddev 80.132
+progress: 115.0 s, 12992.2 tps, lat 153.663 ms stddev 77.360
+progress: 116.0 s, 12679.2 tps, lat 158.155 ms stddev 79.511
+progress: 117.0 s, 12738.0 tps, lat 156.599 ms stddev 77.708
+progress: 118.0 s, 12601.0 tps, lat 158.202 ms stddev 79.436
+progress: 119.0 s, 12466.0 tps, lat 160.801 ms stddev 81.391
+progress: 120.0 s, 12452.3 tps, lat 160.505 ms stddev 79.810
+progress: 121.0 s, 959.0 tps, lat 549.515 ms stddev 281.683
+progress: 122.0 s, 980.0 tps, lat 1755.073 ms stddev 297.659
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 2000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1452392
+latency average = 162.577 ms
+latency stddev = 94.570 ms
+tps = 11897.128137 (including connections establishing)
+tps = 11900.593472 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        22.731  BEGIN;
+        22.704  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        22.329  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        22.678  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        23.655  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        22.987  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        25.389  END;
+***********************************************************************
+Time: 20210403191153, now running pgbench with c of:  + 2500
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 2500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1532378
+latency average = 91.989 ms
+latency stddev = 49.423 ms
+tps = 12696.808485 (including connections establishing)
+tps = 12698.125848 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        12.719  BEGIN;
+        12.767  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        12.588  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        12.752  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        13.111  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        13.364  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        14.636  END;
+***********************************************************************
+Time: 20210403191355, now running pgbench with c of:  + 3000
+progress: 5.1 s, 60.2 tps, lat 397.497 ms stddev 238.740
+progress: 6.0 s, 6842.3 tps, lat 631.342 ms stddev 430.588
+progress: 7.0 s, 9484.4 tps, lat 325.105 ms stddev 181.091
+progress: 8.0 s, 11068.9 tps, lat 277.962 ms stddev 144.303
+progress: 9.0 s, 11082.9 tps, lat 271.516 ms stddev 138.026
+progress: 10.0 s, 11645.2 tps, lat 259.848 ms stddev 127.495
+progress: 11.0 s, 11716.3 tps, lat 255.009 ms stddev 126.096
+progress: 12.0 s, 11861.9 tps, lat 251.921 ms stddev 126.208
+progress: 13.0 s, 11597.6 tps, lat 259.065 ms stddev 128.942
+progress: 14.0 s, 11969.1 tps, lat 251.978 ms stddev 127.471
+progress: 15.0 s, 11803.5 tps, lat 252.900 ms stddev 124.467
+progress: 16.0 s, 11726.5 tps, lat 255.782 ms stddev 129.152
+progress: 17.0 s, 11477.0 tps, lat 261.022 ms stddev 130.876
+progress: 18.0 s, 11937.8 tps, lat 252.882 ms stddev 125.645
+progress: 19.0 s, 11778.0 tps, lat 254.206 ms stddev 127.122
+progress: 20.0 s, 12202.9 tps, lat 248.254 ms stddev 124.212
+progress: 21.0 s, 11725.2 tps, lat 253.643 ms stddev 127.582
+progress: 22.0 s, 11881.2 tps, lat 252.398 ms stddev 125.444
+progress: 23.0 s, 11966.0 tps, lat 251.756 ms stddev 124.581
+progress: 24.0 s, 11878.0 tps, lat 249.993 ms stddev 123.929
+progress: 25.0 s, 11855.4 tps, lat 254.422 ms stddev 124.297
+progress: 26.0 s, 11831.3 tps, lat 253.527 ms stddev 125.145
+progress: 27.0 s, 12145.8 tps, lat 247.992 ms stddev 122.452
+progress: 28.0 s, 11856.4 tps, lat 252.074 ms stddev 124.143
+progress: 29.0 s, 11933.7 tps, lat 251.276 ms stddev 126.160
+progress: 30.0 s, 12034.1 tps, lat 249.877 ms stddev 121.681
+progress: 31.0 s, 11962.9 tps, lat 248.882 ms stddev 122.065
+progress: 32.0 s, 11633.1 tps, lat 253.542 ms stddev 125.941
+progress: 33.0 s, 10000.8 tps, lat 301.686 ms stddev 149.409
+progress: 34.0 s, 12045.3 tps, lat 254.075 ms stddev 129.884
+progress: 35.0 s, 12144.6 tps, lat 247.266 ms stddev 120.957
+progress: 36.0 s, 11972.5 tps, lat 250.381 ms stddev 119.278
+progress: 37.0 s, 11999.1 tps, lat 250.646 ms stddev 123.551
+progress: 38.0 s, 11884.9 tps, lat 251.563 ms stddev 123.456
+progress: 39.0 s, 11810.2 tps, lat 253.178 ms stddev 122.759
+progress: 40.0 s, 11783.8 tps, lat 253.549 ms stddev 122.385
+progress: 41.0 s, 11850.0 tps, lat 253.232 ms stddev 123.518
+progress: 42.0 s, 11968.9 tps, lat 251.983 ms stddev 125.820
+progress: 43.0 s, 12188.5 tps, lat 244.965 ms stddev 120.277
+progress: 44.0 s, 12027.6 tps, lat 250.721 ms stddev 125.175
+progress: 45.0 s, 12136.7 tps, lat 247.243 ms stddev 122.462
+progress: 46.0 s, 12007.4 tps, lat 249.624 ms stddev 122.375
+progress: 47.0 s, 11895.0 tps, lat 251.244 ms stddev 126.078
+progress: 48.0 s, 11603.5 tps, lat 259.884 ms stddev 135.354
+progress: 49.0 s, 12114.1 tps, lat 248.476 ms stddev 123.401
+progress: 50.0 s, 12151.4 tps, lat 246.823 ms stddev 120.942
+progress: 51.0 s, 11967.2 tps, lat 249.530 ms stddev 123.585
+progress: 52.0 s, 11804.8 tps, lat 254.369 ms stddev 126.068
+progress: 53.0 s, 12155.9 tps, lat 246.720 ms stddev 122.533
+progress: 54.0 s, 11950.9 tps, lat 251.968 ms stddev 123.691
+progress: 55.0 s, 12064.8 tps, lat 247.203 ms stddev 121.792
+progress: 56.0 s, 11937.4 tps, lat 252.086 ms stddev 124.493
+progress: 57.0 s, 11971.1 tps, lat 248.717 ms stddev 122.250
+progress: 58.0 s, 11931.3 tps, lat 253.067 ms stddev 128.104
+progress: 59.0 s, 12210.6 tps, lat 245.933 ms stddev 119.944
+progress: 60.0 s, 12093.8 tps, lat 248.391 ms stddev 124.305
+progress: 61.0 s, 12028.1 tps, lat 248.875 ms stddev 123.197
+progress: 62.0 s, 11780.2 tps, lat 251.789 ms stddev 122.281
+progress: 63.0 s, 10002.7 tps, lat 293.649 ms stddev 145.937
+progress: 64.0 s, 10469.3 tps, lat 296.327 ms stddev 154.338
+progress: 65.0 s, 12271.3 tps, lat 245.552 ms stddev 122.607
+progress: 66.0 s, 12023.7 tps, lat 247.432 ms stddev 120.386
+progress: 67.0 s, 11966.0 tps, lat 250.858 ms stddev 121.288
+progress: 68.0 s, 11769.7 tps, lat 257.272 ms stddev 128.803
+progress: 69.0 s, 12235.5 tps, lat 244.279 ms stddev 120.351
+progress: 70.0 s, 12049.6 tps, lat 248.265 ms stddev 121.863
+progress: 71.0 s, 12048.3 tps, lat 248.686 ms stddev 123.593
+progress: 72.0 s, 12068.1 tps, lat 249.603 ms stddev 122.028
+progress: 73.0 s, 12037.9 tps, lat 248.971 ms stddev 121.661
+progress: 74.0 s, 12012.0 tps, lat 249.699 ms stddev 123.697
+progress: 75.0 s, 11884.1 tps, lat 249.192 ms stddev 121.801
+progress: 76.0 s, 12078.6 tps, lat 250.450 ms stddev 125.341
+progress: 77.0 s, 11916.8 tps, lat 252.029 ms stddev 124.294
+progress: 78.0 s, 12088.4 tps, lat 248.916 ms stddev 123.701
+progress: 79.0 s, 12051.1 tps, lat 248.990 ms stddev 122.305
+progress: 80.0 s, 11999.7 tps, lat 249.003 ms stddev 123.571
+progress: 81.0 s, 11780.3 tps, lat 253.277 ms stddev 124.421
+progress: 82.0 s, 12092.8 tps, lat 250.009 ms stddev 125.140
+progress: 83.0 s, 11960.2 tps, lat 251.073 ms stddev 123.925
+progress: 84.0 s, 12084.6 tps, lat 247.596 ms stddev 120.936
+progress: 85.0 s, 12100.8 tps, lat 249.162 ms stddev 121.927
+progress: 86.0 s, 12115.5 tps, lat 247.511 ms stddev 120.720
+progress: 87.0 s, 11973.2 tps, lat 250.219 ms stddev 124.268
+progress: 88.0 s, 11915.9 tps, lat 251.424 ms stddev 123.556
+progress: 89.0 s, 12036.8 tps, lat 248.394 ms stddev 122.655
+progress: 90.0 s, 12031.1 tps, lat 250.991 ms stddev 123.856
+progress: 91.0 s, 11824.4 tps, lat 251.852 ms stddev 125.934
+progress: 92.0 s, 11944.7 tps, lat 249.420 ms stddev 123.463
+progress: 93.0 s, 9871.5 tps, lat 298.576 ms stddev 142.603
+progress: 94.0 s, 12077.4 tps, lat 256.062 ms stddev 131.698
+progress: 95.0 s, 12274.5 tps, lat 243.835 ms stddev 120.555
+progress: 96.0 s, 12076.2 tps, lat 247.488 ms stddev 122.533
+progress: 97.0 s, 12157.2 tps, lat 248.583 ms stddev 123.051
+progress: 98.0 s, 11671.9 tps, lat 255.733 ms stddev 124.351
+progress: 99.0 s, 11931.2 tps, lat 249.900 ms stddev 122.048
+progress: 100.0 s, 12081.7 tps, lat 250.884 ms stddev 123.047
+progress: 101.0 s, 12029.8 tps, lat 247.083 ms stddev 120.624
+progress: 102.0 s, 12111.5 tps, lat 248.312 ms stddev 124.151
+progress: 103.0 s, 11923.8 tps, lat 253.250 ms stddev 126.115
+progress: 104.0 s, 12189.9 tps, lat 245.333 ms stddev 120.942
+progress: 105.0 s, 12136.2 tps, lat 246.412 ms stddev 123.718
+progress: 106.0 s, 11815.2 tps, lat 252.032 ms stddev 122.482
+progress: 107.0 s, 12018.9 tps, lat 251.756 ms stddev 126.245
+progress: 108.0 s, 12020.1 tps, lat 250.046 ms stddev 121.260
+progress: 109.0 s, 11949.9 tps, lat 250.009 ms stddev 123.269
+progress: 110.0 s, 12027.7 tps, lat 250.433 ms stddev 124.024
+progress: 111.0 s, 11984.9 tps, lat 249.844 ms stddev 123.287
+progress: 112.0 s, 12025.1 tps, lat 249.408 ms stddev 120.621
+progress: 113.0 s, 11857.1 tps, lat 252.331 ms stddev 122.800
+progress: 114.0 s, 12065.0 tps, lat 250.026 ms stddev 124.334
+progress: 115.0 s, 12132.0 tps, lat 246.681 ms stddev 123.207
+progress: 116.0 s, 11928.3 tps, lat 252.121 ms stddev 125.569
+progress: 117.0 s, 11969.7 tps, lat 250.343 ms stddev 124.215
+progress: 118.0 s, 11974.0 tps, lat 250.921 ms stddev 121.261
+progress: 119.0 s, 11874.2 tps, lat 248.190 ms stddev 123.210
+progress: 120.0 s, 11956.6 tps, lat 253.192 ms stddev 126.069
+progress: 121.0 s, 831.0 tps, lat 658.801 ms stddev 318.522
+progress: 122.0 s, 540.0 tps, lat 1683.174 ms stddev 232.924
+progress: 123.0 s, 505.0 tps, lat 2620.444 ms stddev 265.049
+progress: 124.0 s, 357.0 tps, lat 3678.861 ms stddev 296.943
+progress: 125.0 s, 397.0 tps, lat 4619.151 ms stddev 313.115
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 3000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1362096
+latency average = 260.085 ms
+latency stddev = 191.903 ms
+tps = 10822.427222 (including connections establishing)
+tps = 10825.382567 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        36.444  BEGIN;
+        36.125  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        35.571  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        36.345  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        38.909  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        36.592  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        39.930  END;
+***********************************************************************
+Time: 20210403191602, now running pgbench with c of:  + 3500
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+***********************************************************************
+Time: 20210403191603, now running pgbench with c of:  + 4000
+progress: 7.4 s, 0.0 tps, lat 0.000 ms stddev 0.000
+progress: 8.0 s, 437.3 tps, lat 458.027 ms stddev 335.749
+progress: 9.0 s, 6203.8 tps, lat 892.015 ms stddev 564.834
+progress: 10.0 s, 8915.5 tps, lat 533.485 ms stddev 420.071
+progress: 11.0 s, 9726.0 tps, lat 422.958 ms stddev 210.993
+progress: 12.0 s, 10589.9 tps, lat 384.260 ms stddev 188.495
+progress: 13.0 s, 11382.0 tps, lat 352.406 ms stddev 171.146
+progress: 14.0 s, 10954.7 tps, lat 365.882 ms stddev 178.268
+progress: 15.0 s, 11376.4 tps, lat 351.852 ms stddev 170.018
+progress: 16.0 s, 11089.8 tps, lat 364.088 ms stddev 177.169
+progress: 17.0 s, 11343.1 tps, lat 351.041 ms stddev 167.785
+progress: 18.0 s, 10994.6 tps, lat 365.596 ms stddev 178.344
+progress: 19.0 s, 11357.5 tps, lat 350.788 ms stddev 170.697
+progress: 20.0 s, 11335.0 tps, lat 356.686 ms stddev 172.895
+progress: 21.0 s, 11188.9 tps, lat 350.565 ms stddev 174.681
+progress: 22.0 s, 11428.9 tps, lat 356.722 ms stddev 174.613
+progress: 23.0 s, 10961.2 tps, lat 357.560 ms stddev 170.215
+progress: 24.0 s, 11464.0 tps, lat 354.906 ms stddev 176.823
+progress: 25.0 s, 9451.0 tps, lat 394.804 ms stddev 187.704
+progress: 26.0 s, 10038.9 tps, lat 423.497 ms stddev 216.818
+progress: 27.0 s, 11412.1 tps, lat 349.407 ms stddev 169.004
+progress: 28.0 s, 11458.0 tps, lat 354.140 ms stddev 169.378
+progress: 29.0 s, 11036.0 tps, lat 356.201 ms stddev 168.652
+progress: 30.0 s, 11311.0 tps, lat 356.798 ms stddev 171.394
+progress: 31.0 s, 11053.8 tps, lat 358.081 ms stddev 169.882
+progress: 32.0 s, 11328.0 tps, lat 357.768 ms stddev 173.038
+progress: 33.0 s, 11209.2 tps, lat 352.932 ms stddev 166.784
+progress: 34.0 s, 11461.0 tps, lat 351.395 ms stddev 170.274
+progress: 35.0 s, 11212.9 tps, lat 354.488 ms stddev 172.568
+progress: 36.0 s, 11380.6 tps, lat 354.972 ms stddev 173.505
+progress: 37.0 s, 11122.6 tps, lat 355.643 ms stddev 173.127
+progress: 38.0 s, 11505.7 tps, lat 349.556 ms stddev 174.185
+progress: 39.0 s, 11062.4 tps, lat 359.521 ms stddev 174.652
+progress: 40.0 s, 11265.5 tps, lat 355.096 ms stddev 174.063
+progress: 41.0 s, 11052.1 tps, lat 363.122 ms stddev 176.687
+progress: 42.0 s, 11545.1 tps, lat 347.720 ms stddev 169.914
+progress: 43.0 s, 11325.9 tps, lat 352.888 ms stddev 167.443
+progress: 44.0 s, 11269.9 tps, lat 355.318 ms stddev 174.157
+progress: 45.0 s, 10939.4 tps, lat 356.463 ms stddev 172.739
+progress: 46.0 s, 11469.2 tps, lat 355.113 ms stddev 176.135
+progress: 47.0 s, 11193.8 tps, lat 358.309 ms stddev 174.746
+progress: 48.0 s, 11353.0 tps, lat 350.402 ms stddev 172.160
+progress: 49.0 s, 11310.2 tps, lat 356.162 ms stddev 172.790
+progress: 50.0 s, 11458.7 tps, lat 346.935 ms stddev 168.592
+progress: 51.0 s, 11215.7 tps, lat 359.964 ms stddev 174.250
+progress: 52.0 s, 11580.7 tps, lat 345.956 ms stddev 165.976
+progress: 53.0 s, 11469.3 tps, lat 351.410 ms stddev 169.664
+progress: 54.0 s, 10954.6 tps, lat 352.958 ms stddev 167.475
+progress: 55.0 s, 9696.3 tps, lat 406.865 ms stddev 190.288
+progress: 56.0 s, 9049.8 tps, lat 428.900 ms stddev 207.358
+progress: 57.0 s, 10666.4 tps, lat 398.043 ms stddev 207.949
+progress: 58.0 s, 11481.1 tps, lat 349.468 ms stddev 167.825
+progress: 59.0 s, 11505.0 tps, lat 349.510 ms stddev 169.641
+progress: 60.0 s, 11155.7 tps, lat 350.626 ms stddev 167.485
+progress: 61.0 s, 11392.9 tps, lat 357.164 ms stddev 174.112
+progress: 62.0 s, 11421.1 tps, lat 348.439 ms stddev 167.331
+progress: 63.0 s, 11479.3 tps, lat 353.180 ms stddev 170.896
+progress: 64.0 s, 11391.0 tps, lat 346.265 ms stddev 166.996
+progress: 65.0 s, 11412.9 tps, lat 355.008 ms stddev 172.275
+progress: 66.0 s, 11645.9 tps, lat 342.204 ms stddev 161.627
+progress: 67.0 s, 11553.3 tps, lat 348.676 ms stddev 165.491
+progress: 68.0 s, 11461.0 tps, lat 343.668 ms stddev 163.695
+progress: 69.0 s, 11350.9 tps, lat 356.961 ms stddev 172.053
+progress: 70.0 s, 11346.1 tps, lat 349.304 ms stddev 170.468
+progress: 71.0 s, 11545.8 tps, lat 350.283 ms stddev 171.927
+progress: 72.0 s, 11440.3 tps, lat 344.434 ms stddev 166.263
+progress: 73.0 s, 11484.9 tps, lat 353.319 ms stddev 171.889
+progress: 74.0 s, 11396.9 tps, lat 347.580 ms stddev 167.497
+progress: 75.0 s, 11755.0 tps, lat 342.990 ms stddev 165.635
+progress: 76.0 s, 11363.9 tps, lat 348.792 ms stddev 168.586
+progress: 77.0 s, 11592.4 tps, lat 346.264 ms stddev 166.070
+progress: 78.0 s, 11275.4 tps, lat 353.792 ms stddev 169.459
+progress: 79.0 s, 11666.6 tps, lat 345.885 ms stddev 166.421
+progress: 80.0 s, 11023.0 tps, lat 354.813 ms stddev 171.579
+progress: 81.0 s, 11684.7 tps, lat 348.586 ms stddev 169.935
+progress: 82.0 s, 11359.3 tps, lat 349.463 ms stddev 166.579
+progress: 83.0 s, 11574.2 tps, lat 345.782 ms stddev 165.984
+progress: 84.0 s, 11223.9 tps, lat 358.123 ms stddev 173.448
+progress: 85.0 s, 9705.9 tps, lat 389.697 ms stddev 187.355
+progress: 86.0 s, 10131.0 tps, lat 412.727 ms stddev 205.390
+progress: 87.0 s, 11661.0 tps, lat 345.994 ms stddev 170.380
+progress: 88.0 s, 11306.0 tps, lat 352.656 ms stddev 170.314
+progress: 89.0 s, 11462.3 tps, lat 350.802 ms stddev 168.872
+progress: 90.0 s, 11243.8 tps, lat 349.266 ms stddev 168.327
+progress: 91.0 s, 11435.0 tps, lat 356.054 ms stddev 172.897
+progress: 92.0 s, 11330.6 tps, lat 352.458 ms stddev 167.759
+progress: 93.0 s, 11721.8 tps, lat 342.396 ms stddev 165.009
+progress: 94.0 s, 11352.6 tps, lat 349.577 ms stddev 165.175
+progress: 95.0 s, 11676.0 tps, lat 343.001 ms stddev 169.124
+progress: 96.0 s, 11410.8 tps, lat 349.574 ms stddev 169.156
+progress: 97.0 s, 11558.8 tps, lat 348.855 ms stddev 170.224
+progress: 98.0 s, 11175.4 tps, lat 356.612 ms stddev 174.515
+progress: 99.0 s, 11530.0 tps, lat 347.151 ms stddev 167.434
+progress: 100.0 s, 11193.8 tps, lat 357.701 ms stddev 171.074
+progress: 101.0 s, 11460.0 tps, lat 349.126 ms stddev 169.815
+progress: 102.0 s, 11350.1 tps, lat 352.578 ms stddev 170.687
+progress: 103.0 s, 11702.8 tps, lat 342.428 ms stddev 167.147
+progress: 104.0 s, 11456.3 tps, lat 351.984 ms stddev 171.521
+progress: 105.0 s, 11399.2 tps, lat 341.557 ms stddev 164.776
+progress: 106.0 s, 11545.4 tps, lat 355.643 ms stddev 175.639
+progress: 107.0 s, 11386.2 tps, lat 346.184 ms stddev 164.602
+progress: 108.0 s, 11332.0 tps, lat 356.553 ms stddev 172.637
+progress: 109.0 s, 11489.7 tps, lat 343.387 ms stddev 168.219
+progress: 110.0 s, 11460.9 tps, lat 352.378 ms stddev 174.013
+progress: 111.0 s, 11379.2 tps, lat 350.359 ms stddev 167.702
+progress: 112.0 s, 11557.0 tps, lat 348.202 ms stddev 168.919
+progress: 113.0 s, 11362.1 tps, lat 350.099 ms stddev 169.121
+progress: 114.0 s, 11532.7 tps, lat 349.746 ms stddev 171.680
+progress: 115.0 s, 9623.0 tps, lat 385.514 ms stddev 186.370
+progress: 116.0 s, 10055.9 tps, lat 418.382 ms stddev 213.928
+progress: 117.0 s, 11313.4 tps, lat 356.214 ms stddev 178.534
+progress: 118.0 s, 11592.1 tps, lat 350.798 ms stddev 166.116
+progress: 119.0 s, 11428.8 tps, lat 345.010 ms stddev 167.145
+progress: 120.0 s, 11583.2 tps, lat 344.488 ms stddev 171.058
+progress: 121.0 s, 782.0 tps, lat 736.444 ms stddev 360.454
+progress: 122.0 s, 303.0 tps, lat 1697.704 ms stddev 304.918
+progress: 123.0 s, 351.0 tps, lat 2744.112 ms stddev 272.517
+progress: 124.0 s, 292.0 tps, lat 3679.481 ms stddev 318.527
+progress: 125.0 s, 235.0 tps, lat 4740.537 ms stddev 312.120
+progress: 126.0 s, 270.0 tps, lat 5687.928 ms stddev 326.120
+progress: 127.0 s, 583.0 tps, lat 6801.836 ms stddev 364.453
+progress: 128.0 s, 1085.9 tps, lat 7697.314 ms stddev 295.027
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 4000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1254298
+latency average = 374.337 ms
+latency stddev = 345.691 ms
+tps = 9789.886616 (including connections establishing)
+tps = 9793.083246 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        52.430  BEGIN;
+        52.476  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        50.979  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        52.399  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        57.291  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        52.330  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        56.225  END;
+***********************************************************************
+Time: 20210403191812, now running pgbench with c of:  + 4500
+progress: 10.9 s, 0.5 tps, lat 450.941 ms stddev 295.389
+progress: 11.0 s, 13.3 tps, lat 9.339 ms stddev 0.000
+progress: 12.0 s, 874.0 tps, lat 1040.031 ms stddev 512.055
+progress: 13.0 s, 7331.5 tps, lat 1101.567 ms stddev 716.210
+progress: 14.0 s, 8360.5 tps, lat 571.050 ms stddev 355.247
+progress: 15.0 s, 8869.3 tps, lat 518.137 ms stddev 269.166
+progress: 16.0 s, 9729.6 tps, lat 478.424 ms stddev 247.532
+progress: 17.0 s, 8940.6 tps, lat 479.954 ms stddev 233.803
+progress: 18.0 s, 9182.5 tps, lat 514.048 ms stddev 259.853
+progress: 19.0 s, 10909.8 tps, lat 422.935 ms stddev 213.383
+progress: 20.0 s, 10665.9 tps, lat 421.021 ms stddev 201.309
+progress: 21.0 s, 10834.9 tps, lat 413.029 ms stddev 203.212
+progress: 22.0 s, 10319.0 tps, lat 433.400 ms stddev 205.891
+progress: 23.0 s, 11004.2 tps, lat 411.138 ms stddev 200.742
+progress: 24.0 s, 10925.2 tps, lat 413.286 ms stddev 201.750
+progress: 25.0 s, 11015.6 tps, lat 410.780 ms stddev 199.327
+progress: 26.0 s, 10727.3 tps, lat 417.145 ms stddev 202.382
+progress: 27.0 s, 11070.5 tps, lat 404.902 ms stddev 196.914
+progress: 28.0 s, 10739.6 tps, lat 419.915 ms stddev 198.783
+progress: 29.0 s, 11013.7 tps, lat 410.521 ms stddev 196.872
+progress: 30.0 s, 10949.2 tps, lat 412.746 ms stddev 208.903
+progress: 31.0 s, 10903.7 tps, lat 409.804 ms stddev 194.803
+progress: 32.0 s, 10850.8 tps, lat 416.551 ms stddev 201.061
+progress: 33.0 s, 10955.2 tps, lat 408.993 ms stddev 200.434
+progress: 34.0 s, 10712.1 tps, lat 418.724 ms stddev 207.389
+progress: 35.0 s, 10764.1 tps, lat 421.434 ms stddev 202.191
+progress: 36.0 s, 10932.0 tps, lat 414.453 ms stddev 201.404
+progress: 37.0 s, 11041.0 tps, lat 403.389 ms stddev 199.058
+progress: 38.0 s, 10961.0 tps, lat 413.482 ms stddev 204.483
+progress: 39.0 s, 10983.7 tps, lat 407.124 ms stddev 195.695
+progress: 40.0 s, 11081.4 tps, lat 414.211 ms stddev 199.981
+progress: 41.0 s, 10826.5 tps, lat 409.005 ms stddev 191.812
+progress: 42.0 s, 10975.2 tps, lat 411.349 ms stddev 199.949
+progress: 43.0 s, 11232.6 tps, lat 404.579 ms stddev 196.896
+progress: 44.0 s, 11192.7 tps, lat 400.934 ms stddev 194.846
+progress: 45.0 s, 10972.1 tps, lat 402.451 ms stddev 193.521
+progress: 46.0 s, 11282.0 tps, lat 404.656 ms stddev 195.837
+progress: 47.0 s, 9169.0 tps, lat 461.653 ms stddev 213.338
+progress: 48.0 s, 9508.5 tps, lat 488.474 ms stddev 243.963
+progress: 49.0 s, 10955.5 tps, lat 417.953 ms stddev 209.489
+progress: 50.0 s, 11221.0 tps, lat 406.744 ms stddev 199.344
+progress: 51.0 s, 10860.9 tps, lat 409.827 ms stddev 197.210
+progress: 52.0 s, 11076.1 tps, lat 406.530 ms stddev 198.651
+progress: 53.0 s, 10708.6 tps, lat 417.324 ms stddev 198.804
+progress: 54.0 s, 10861.1 tps, lat 417.430 ms stddev 199.841
+progress: 55.0 s, 10983.1 tps, lat 407.757 ms stddev 197.153
+progress: 56.0 s, 11168.7 tps, lat 409.526 ms stddev 202.356
+progress: 57.0 s, 10957.5 tps, lat 405.472 ms stddev 194.147
+progress: 58.0 s, 10947.6 tps, lat 408.533 ms stddev 200.248
+progress: 59.0 s, 11082.9 tps, lat 410.199 ms stddev 196.774
+progress: 60.0 s, 11211.2 tps, lat 401.093 ms stddev 191.787
+progress: 61.0 s, 10928.9 tps, lat 410.364 ms stddev 195.377
+progress: 62.0 s, 11001.1 tps, lat 408.470 ms stddev 194.567
+progress: 63.0 s, 11013.7 tps, lat 410.493 ms stddev 195.413
+progress: 64.0 s, 11256.1 tps, lat 399.968 ms stddev 190.877
+progress: 65.0 s, 10843.3 tps, lat 411.476 ms stddev 196.285
+progress: 66.0 s, 11196.3 tps, lat 404.546 ms stddev 192.955
+progress: 67.0 s, 11196.2 tps, lat 404.636 ms stddev 196.377
+progress: 68.0 s, 11204.8 tps, lat 398.066 ms stddev 188.997
+progress: 69.0 s, 11018.6 tps, lat 409.489 ms stddev 197.835
+progress: 70.0 s, 10885.1 tps, lat 411.109 ms stddev 198.377
+progress: 71.0 s, 10989.1 tps, lat 414.238 ms stddev 194.636
+progress: 72.0 s, 11037.1 tps, lat 401.732 ms stddev 194.174
+progress: 73.0 s, 11352.1 tps, lat 404.514 ms stddev 192.982
+progress: 74.0 s, 10966.4 tps, lat 407.188 ms stddev 190.381
+progress: 75.0 s, 11373.0 tps, lat 396.456 ms stddev 192.454
+progress: 76.0 s, 10750.3 tps, lat 412.795 ms stddev 193.260
+progress: 77.0 s, 9417.3 tps, lat 463.271 ms stddev 216.736
+progress: 78.0 s, 8491.0 tps, lat 506.013 ms stddev 246.180
+progress: 79.0 s, 10445.6 tps, lat 468.694 ms stddev 241.228
+progress: 80.0 s, 11016.5 tps, lat 404.703 ms stddev 195.761
+progress: 81.0 s, 11189.7 tps, lat 409.359 ms stddev 195.137
+progress: 82.0 s, 10639.2 tps, lat 408.909 ms stddev 190.173
+progress: 83.0 s, 11227.0 tps, lat 414.213 ms stddev 200.118
+progress: 84.0 s, 11009.9 tps, lat 403.614 ms stddev 190.331
+progress: 85.0 s, 11279.0 tps, lat 402.947 ms stddev 194.996
+progress: 86.0 s, 10819.9 tps, lat 411.762 ms stddev 194.143
+progress: 87.0 s, 11085.1 tps, lat 408.397 ms stddev 196.316
+progress: 88.0 s, 10734.8 tps, lat 412.136 ms stddev 191.763
+progress: 89.0 s, 11152.1 tps, lat 405.637 ms stddev 194.458
+progress: 90.0 s, 10957.1 tps, lat 413.568 ms stddev 197.235
+progress: 91.0 s, 11152.1 tps, lat 403.455 ms stddev 192.729
+progress: 92.0 s, 11076.0 tps, lat 405.965 ms stddev 193.164
+progress: 93.0 s, 10978.9 tps, lat 405.832 ms stddev 194.830
+progress: 94.0 s, 10920.7 tps, lat 412.057 ms stddev 198.403
+progress: 95.0 s, 11233.4 tps, lat 403.511 ms stddev 194.809
+progress: 96.0 s, 11026.0 tps, lat 409.361 ms stddev 194.814
+progress: 97.0 s, 10985.9 tps, lat 403.958 ms stddev 192.215
+progress: 98.0 s, 10884.1 tps, lat 414.927 ms stddev 200.936
+progress: 99.0 s, 11166.3 tps, lat 405.876 ms stddev 192.002
+progress: 100.0 s, 10909.7 tps, lat 412.957 ms stddev 197.159
+progress: 101.0 s, 11039.0 tps, lat 403.398 ms stddev 193.790
+progress: 102.0 s, 11115.7 tps, lat 414.553 ms stddev 199.238
+progress: 103.0 s, 11141.3 tps, lat 397.568 ms stddev 188.662
+progress: 104.0 s, 10961.7 tps, lat 414.169 ms stddev 198.931
+progress: 105.0 s, 11070.5 tps, lat 405.376 ms stddev 190.536
+progress: 106.0 s, 11168.8 tps, lat 403.371 ms stddev 192.946
+progress: 107.0 s, 9497.9 tps, lat 441.330 ms stddev 208.987
+progress: 108.0 s, 9337.6 tps, lat 499.432 ms stddev 243.800
+progress: 109.0 s, 11387.5 tps, lat 406.836 ms stddev 205.762
+progress: 110.0 s, 10968.5 tps, lat 410.039 ms stddev 195.803
+progress: 111.0 s, 11100.7 tps, lat 405.127 ms stddev 192.742
+progress: 112.0 s, 10940.3 tps, lat 409.122 ms stddev 192.586
+progress: 113.0 s, 11075.0 tps, lat 406.914 ms stddev 193.956
+progress: 114.0 s, 11019.9 tps, lat 412.349 ms stddev 198.047
+progress: 115.0 s, 11243.3 tps, lat 397.986 ms stddev 190.326
+progress: 116.0 s, 10950.7 tps, lat 410.029 ms stddev 199.397
+progress: 117.0 s, 11055.4 tps, lat 405.976 ms stddev 194.000
+progress: 118.0 s, 11106.2 tps, lat 409.190 ms stddev 196.045
+progress: 119.0 s, 11004.0 tps, lat 405.326 ms stddev 197.876
+progress: 120.0 s, 11282.9 tps, lat 402.559 ms stddev 192.961
+progress: 121.0 s, 719.0 tps, lat 765.606 ms stddev 364.286
+progress: 122.0 s, 387.0 tps, lat 1802.844 ms stddev 384.057
+progress: 123.0 s, 393.0 tps, lat 2754.416 ms stddev 316.844
+progress: 124.0 s, 317.0 tps, lat 3811.831 ms stddev 301.957
+progress: 125.0 s, 456.9 tps, lat 4695.504 ms stddev 296.357
+progress: 126.0 s, 323.0 tps, lat 5835.579 ms stddev 327.717
+progress: 127.0 s, 258.0 tps, lat 6827.615 ms stddev 341.800
+progress: 128.0 s, 103.9 tps, lat 7412.019 ms stddev 197.099
+progress: 129.0 s, 99.1 tps, lat 8640.230 ms stddev 333.923
+progress: 130.0 s, 467.1 tps, lat 9696.425 ms stddev 269.381
+progress: 131.0 s, 369.0 tps, lat 10653.333 ms stddev 342.988
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 4500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1169623
+latency average = 442.535 ms
+latency stddev = 468.153 ms
+tps = 8887.705656 (including connections establishing)
+tps = 8891.445988 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.001  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        61.748  BEGIN;
+        60.327  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        59.712  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        61.811  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        68.072  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        63.100  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        67.516  END;
+***********************************************************************
+Time: 20210403192023, now running pgbench with c of:  + 5000
+progress: 16.7 s, 6.9 tps, lat 554.715 ms stddev 409.204
+progress: 17.0 s, 1359.3 tps, lat 1118.302 ms stddev 373.626
+progress: 18.0 s, 5106.1 tps, lat 1113.087 ms stddev 680.625
+progress: 19.0 s, 8252.0 tps, lat 936.969 ms stddev 769.267
+progress: 20.0 s, 8862.8 tps, lat 573.169 ms stddev 290.060
+progress: 21.0 s, 9279.9 tps, lat 553.963 ms stddev 269.128
+progress: 22.0 s, 10084.3 tps, lat 506.803 ms stddev 248.480
+progress: 23.0 s, 10296.6 tps, lat 488.759 ms stddev 228.671
+progress: 24.0 s, 10653.2 tps, lat 468.331 ms stddev 218.349
+progress: 25.0 s, 10461.0 tps, lat 479.877 ms stddev 220.553
+progress: 26.0 s, 10664.9 tps, lat 469.347 ms stddev 219.157
+progress: 27.0 s, 10367.2 tps, lat 481.890 ms stddev 222.255
+progress: 28.0 s, 10669.1 tps, lat 468.445 ms stddev 221.547
+progress: 29.0 s, 10421.4 tps, lat 478.654 ms stddev 222.417
+progress: 30.0 s, 10558.3 tps, lat 471.138 ms stddev 224.325
+progress: 31.0 s, 10450.7 tps, lat 484.957 ms stddev 230.640
+progress: 32.0 s, 10570.5 tps, lat 466.212 ms stddev 218.472
+progress: 33.0 s, 10444.0 tps, lat 482.654 ms stddev 226.493
+progress: 34.0 s, 10620.4 tps, lat 470.714 ms stddev 218.956
+progress: 35.0 s, 9600.4 tps, lat 492.892 ms stddev 229.950
+progress: 36.0 s, 8638.9 tps, lat 572.951 ms stddev 267.892
+progress: 37.0 s, 9896.8 tps, lat 540.320 ms stddev 271.923
+progress: 38.0 s, 10722.6 tps, lat 460.713 ms stddev 219.567
+progress: 39.0 s, 10717.8 tps, lat 472.834 ms stddev 224.518
+progress: 40.0 s, 10551.3 tps, lat 465.903 ms stddev 216.340
+progress: 41.0 s, 10470.9 tps, lat 486.548 ms stddev 229.510
+progress: 42.0 s, 10598.3 tps, lat 466.336 ms stddev 220.301
+progress: 43.0 s, 10478.1 tps, lat 483.654 ms stddev 225.985
+progress: 44.0 s, 10564.3 tps, lat 468.526 ms stddev 218.956
+progress: 45.0 s, 10832.2 tps, lat 469.542 ms stddev 221.482
+progress: 46.0 s, 10485.1 tps, lat 469.363 ms stddev 219.419
+progress: 47.0 s, 10716.1 tps, lat 469.067 ms stddev 221.396
+progress: 48.0 s, 10534.0 tps, lat 466.112 ms stddev 218.986
+progress: 49.0 s, 10814.7 tps, lat 471.746 ms stddev 219.306
+progress: 50.0 s, 10360.0 tps, lat 476.963 ms stddev 224.930
+progress: 51.0 s, 10823.3 tps, lat 465.886 ms stddev 220.912
+progress: 52.0 s, 10473.3 tps, lat 473.203 ms stddev 218.731
+progress: 53.0 s, 10600.7 tps, lat 467.486 ms stddev 220.888
+progress: 54.0 s, 10319.0 tps, lat 482.836 ms stddev 226.431
+progress: 55.0 s, 10971.4 tps, lat 466.715 ms stddev 222.615
+progress: 56.0 s, 10561.5 tps, lat 469.024 ms stddev 220.168
+progress: 57.0 s, 10604.0 tps, lat 469.117 ms stddev 220.878
+progress: 58.0 s, 10490.5 tps, lat 481.999 ms stddev 222.741
+progress: 59.0 s, 10763.6 tps, lat 462.358 ms stddev 220.505
+progress: 60.0 s, 10397.9 tps, lat 476.250 ms stddev 221.100
+progress: 61.0 s, 10693.5 tps, lat 473.005 ms stddev 220.967
+progress: 62.0 s, 10545.0 tps, lat 470.163 ms stddev 222.632
+progress: 63.0 s, 10734.1 tps, lat 465.790 ms stddev 224.470
+progress: 64.0 s, 10595.3 tps, lat 477.400 ms stddev 226.868
+progress: 65.0 s, 9771.8 tps, lat 483.788 ms stddev 221.069
+progress: 66.0 s, 8781.2 tps, lat 567.597 ms stddev 271.565
+progress: 67.0 s, 9737.6 tps, lat 531.269 ms stddev 265.316
+progress: 68.0 s, 10625.0 tps, lat 474.804 ms stddev 230.380
+progress: 69.0 s, 10809.8 tps, lat 468.863 ms stddev 223.464
+progress: 70.0 s, 10504.4 tps, lat 467.364 ms stddev 218.971
+progress: 71.0 s, 10586.4 tps, lat 476.316 ms stddev 220.187
+progress: 72.0 s, 10685.9 tps, lat 474.935 ms stddev 225.668
+progress: 73.0 s, 10565.5 tps, lat 464.071 ms stddev 218.330
+progress: 74.0 s, 10830.9 tps, lat 467.980 ms stddev 223.578
+progress: 75.0 s, 10678.6 tps, lat 468.358 ms stddev 218.883
+progress: 76.0 s, 10755.9 tps, lat 466.403 ms stddev 224.180
+progress: 77.0 s, 10589.8 tps, lat 464.430 ms stddev 218.748
+progress: 78.0 s, 10727.4 tps, lat 471.523 ms stddev 219.256
+progress: 79.0 s, 10493.7 tps, lat 474.025 ms stddev 219.056
+progress: 80.0 s, 10815.1 tps, lat 464.966 ms stddev 217.845
+progress: 81.0 s, 10586.2 tps, lat 471.393 ms stddev 223.406
+progress: 82.0 s, 10807.0 tps, lat 460.473 ms stddev 216.583
+progress: 83.0 s, 10505.2 tps, lat 469.857 ms stddev 217.538
+progress: 84.0 s, 11006.2 tps, lat 460.685 ms stddev 216.658
+progress: 85.0 s, 10721.5 tps, lat 468.338 ms stddev 218.688
+progress: 86.0 s, 10755.1 tps, lat 463.398 ms stddev 216.811
+progress: 87.0 s, 10681.8 tps, lat 468.176 ms stddev 216.681
+progress: 88.0 s, 10825.2 tps, lat 458.596 ms stddev 219.085
+progress: 89.0 s, 10668.0 tps, lat 477.164 ms stddev 224.682
+progress: 90.0 s, 10628.8 tps, lat 461.909 ms stddev 213.065
+progress: 91.0 s, 10874.2 tps, lat 469.985 ms stddev 220.743
+progress: 92.0 s, 10648.1 tps, lat 462.089 ms stddev 214.249
+progress: 93.0 s, 10792.8 tps, lat 464.923 ms stddev 216.412
+progress: 94.0 s, 10745.1 tps, lat 465.709 ms stddev 217.752
+progress: 95.0 s, 9791.5 tps, lat 486.573 ms stddev 222.156
+progress: 96.0 s, 8485.6 tps, lat 568.750 ms stddev 260.925
+progress: 97.0 s, 9193.7 tps, lat 573.101 ms stddev 275.774
+progress: 98.0 s, 10570.2 tps, lat 486.269 ms stddev 238.636
+progress: 99.0 s, 10756.1 tps, lat 466.006 ms stddev 217.802
+progress: 100.0 s, 10484.7 tps, lat 469.636 ms stddev 217.584
+progress: 101.0 s, 10627.8 tps, lat 479.046 ms stddev 224.158
+progress: 102.0 s, 10666.2 tps, lat 464.811 ms stddev 218.469
+progress: 103.0 s, 10910.4 tps, lat 463.233 ms stddev 219.856
+progress: 104.0 s, 10627.4 tps, lat 462.655 ms stddev 219.960
+progress: 105.0 s, 10856.5 tps, lat 464.788 ms stddev 219.577
+progress: 106.0 s, 10740.1 tps, lat 465.315 ms stddev 218.954
+progress: 107.0 s, 10534.0 tps, lat 470.972 ms stddev 220.729
+progress: 108.0 s, 10760.9 tps, lat 467.336 ms stddev 216.580
+progress: 109.0 s, 10756.1 tps, lat 464.329 ms stddev 217.518
+progress: 110.0 s, 10709.5 tps, lat 468.018 ms stddev 213.815
+progress: 111.0 s, 10671.5 tps, lat 462.126 ms stddev 217.369
+progress: 112.0 s, 10674.6 tps, lat 472.770 ms stddev 221.120
+progress: 113.0 s, 10848.4 tps, lat 464.616 ms stddev 216.973
+progress: 114.0 s, 10582.7 tps, lat 466.122 ms stddev 212.010
+progress: 115.0 s, 10744.4 tps, lat 472.301 ms stddev 219.848
+progress: 116.0 s, 10634.8 tps, lat 466.930 ms stddev 221.318
+progress: 117.0 s, 10663.0 tps, lat 467.914 ms stddev 223.413
+progress: 118.0 s, 10744.8 tps, lat 468.551 ms stddev 218.023
+progress: 119.0 s, 10743.4 tps, lat 464.043 ms stddev 217.348
+progress: 120.0 s, 10698.1 tps, lat 468.478 ms stddev 222.298
+progress: 121.0 s, 741.0 tps, lat 862.438 ms stddev 383.738
+progress: 122.0 s, 448.0 tps, lat 1903.938 ms stddev 373.962
+progress: 123.0 s, 423.0 tps, lat 2862.962 ms stddev 372.934
+progress: 124.0 s, 286.0 tps, lat 3821.527 ms stddev 314.845
+progress: 125.0 s, 382.0 tps, lat 4812.117 ms stddev 340.785
+progress: 126.0 s, 221.0 tps, lat 5787.013 ms stddev 397.125
+progress: 127.0 s, 306.0 tps, lat 6754.567 ms stddev 284.040
+progress: 128.0 s, 291.0 tps, lat 7898.399 ms stddev 298.186
+progress: 129.0 s, 434.9 tps, lat 8640.073 ms stddev 297.769
+progress: 130.0 s, 300.0 tps, lat 9779.916 ms stddev 237.562
+progress: 131.0 s, 277.1 tps, lat 10588.443 ms stddev 303.565
+progress: 132.0 s, 298.9 tps, lat 11587.083 ms stddev 292.086
+progress: 133.0 s, 183.0 tps, lat 12831.678 ms stddev 241.795
+progress: 134.0 s, 302.0 tps, lat 13778.666 ms stddev 304.399
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 5000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1078564
+latency average = 511.597 ms
+latency stddev = 557.336 ms
+tps = 7990.981095 (including connections establishing)
+tps = 7995.514062 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        71.010  BEGIN;
+        71.023  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        68.493  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        71.432  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        79.671  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        71.544  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        78.150  END;
+***********************************************************************
+Time: 20210403192238, now running pgbench with c of:  + 5500
+progress: 14.6 s, 9.3 tps, lat 231.943 ms stddev 338.819
+progress: 15.0 s, 2003.3 tps, lat 917.882 ms stddev 449.722
+progress: 16.0 s, 5121.0 tps, lat 753.078 ms stddev 674.749
+progress: 17.0 s, 6750.2 tps, lat 1357.429 ms stddev 958.486
+progress: 18.0 s, 7998.5 tps, lat 764.977 ms stddev 581.585
+progress: 19.0 s, 7311.7 tps, lat 733.738 ms stddev 331.136
+progress: 20.0 s, 8230.6 tps, lat 718.226 ms stddev 341.857
+progress: 21.0 s, 9487.0 tps, lat 604.172 ms stddev 292.549
+progress: 22.0 s, 10322.4 tps, lat 543.210 ms stddev 256.449
+progress: 23.0 s, 9986.2 tps, lat 540.266 ms stddev 250.101
+progress: 24.0 s, 10438.2 tps, lat 537.858 ms stddev 248.183
+progress: 25.0 s, 9731.2 tps, lat 553.100 ms stddev 245.964
+progress: 26.0 s, 10125.0 tps, lat 543.867 ms stddev 250.067
+progress: 27.0 s, 10048.0 tps, lat 549.018 ms stddev 251.167
+progress: 28.0 s, 10099.5 tps, lat 542.485 ms stddev 250.794
+progress: 29.0 s, 10100.5 tps, lat 548.323 ms stddev 253.583
+progress: 30.0 s, 10461.1 tps, lat 532.279 ms stddev 249.469
+progress: 31.0 s, 10189.3 tps, lat 535.729 ms stddev 241.609
+progress: 32.0 s, 10117.4 tps, lat 538.552 ms stddev 241.721
+progress: 33.0 s, 10322.2 tps, lat 542.559 ms stddev 251.761
+progress: 34.0 s, 10223.7 tps, lat 532.064 ms stddev 245.185
+progress: 35.0 s, 10186.6 tps, lat 544.895 ms stddev 248.661
+progress: 36.0 s, 10336.6 tps, lat 529.685 ms stddev 240.668
+progress: 37.0 s, 10337.8 tps, lat 536.611 ms stddev 243.366
+progress: 38.0 s, 10069.8 tps, lat 536.127 ms stddev 245.147
+progress: 39.0 s, 10439.4 tps, lat 536.438 ms stddev 251.809
+progress: 40.0 s, 10171.0 tps, lat 529.278 ms stddev 240.010
+progress: 41.0 s, 10454.5 tps, lat 536.954 ms stddev 249.526
+progress: 42.0 s, 10045.5 tps, lat 536.249 ms stddev 240.416
+progress: 43.0 s, 10446.7 tps, lat 537.524 ms stddev 255.667
+progress: 44.0 s, 9712.1 tps, lat 539.566 ms stddev 252.143
+progress: 45.0 s, 10408.0 tps, lat 548.755 ms stddev 256.168
+progress: 46.0 s, 10154.5 tps, lat 540.780 ms stddev 248.433
+progress: 47.0 s, 10257.7 tps, lat 526.260 ms stddev 250.518
+progress: 48.0 s, 9252.0 tps, lat 568.883 ms stddev 254.607
+progress: 49.0 s, 8370.0 tps, lat 644.621 ms stddev 290.142
+progress: 50.0 s, 9030.9 tps, lat 642.300 ms stddev 309.905
+progress: 51.0 s, 10447.1 tps, lat 546.743 ms stddev 263.184
+progress: 52.0 s, 10003.8 tps, lat 535.265 ms stddev 246.948
+progress: 53.0 s, 10239.8 tps, lat 537.556 ms stddev 247.843
+progress: 54.0 s, 10080.2 tps, lat 550.359 ms stddev 252.562
+progress: 55.0 s, 10271.1 tps, lat 534.938 ms stddev 245.481
+progress: 56.0 s, 9995.0 tps, lat 553.932 ms stddev 258.954
+progress: 57.0 s, 10087.2 tps, lat 540.221 ms stddev 250.669
+progress: 58.0 s, 9884.1 tps, lat 548.992 ms stddev 252.843
+progress: 59.0 s, 10074.6 tps, lat 552.901 ms stddev 256.046
+progress: 60.0 s, 10066.1 tps, lat 548.635 ms stddev 255.445
+progress: 61.0 s, 10120.3 tps, lat 543.747 ms stddev 259.810
+progress: 62.0 s, 10295.9 tps, lat 535.448 ms stddev 251.775
+progress: 63.0 s, 10110.0 tps, lat 541.358 ms stddev 249.858
+progress: 64.0 s, 10241.8 tps, lat 542.401 ms stddev 256.554
+progress: 65.0 s, 9935.1 tps, lat 548.127 ms stddev 250.562
+progress: 66.0 s, 10202.1 tps, lat 540.274 ms stddev 249.855
+progress: 67.0 s, 10199.7 tps, lat 536.687 ms stddev 254.743
+progress: 68.0 s, 10427.1 tps, lat 532.266 ms stddev 250.384
+progress: 69.0 s, 10180.1 tps, lat 534.408 ms stddev 245.817
+progress: 70.0 s, 10331.8 tps, lat 535.847 ms stddev 249.927
+progress: 71.0 s, 10251.2 tps, lat 542.611 ms stddev 253.195
+progress: 72.0 s, 10292.3 tps, lat 527.953 ms stddev 242.690
+progress: 73.0 s, 10337.5 tps, lat 541.577 ms stddev 251.598
+progress: 74.0 s, 10256.8 tps, lat 528.361 ms stddev 241.978
+progress: 75.0 s, 10299.3 tps, lat 539.823 ms stddev 247.197
+progress: 76.0 s, 10055.9 tps, lat 536.250 ms stddev 245.929
+progress: 77.0 s, 10379.9 tps, lat 535.798 ms stddev 248.951
+progress: 78.0 s, 9406.8 tps, lat 556.186 ms stddev 247.695
+progress: 79.0 s, 8558.4 tps, lat 634.578 ms stddev 284.875
+progress: 80.0 s, 9218.3 tps, lat 626.192 ms stddev 296.350
+progress: 81.0 s, 10358.6 tps, lat 542.882 ms stddev 263.210
+progress: 82.0 s, 10303.0 tps, lat 527.235 ms stddev 248.975
+progress: 83.0 s, 10575.5 tps, lat 527.985 ms stddev 250.426
+progress: 84.0 s, 10148.9 tps, lat 532.984 ms stddev 243.085
+progress: 85.0 s, 10385.7 tps, lat 531.138 ms stddev 249.427
+progress: 86.0 s, 10192.0 tps, lat 536.197 ms stddev 246.916
+progress: 87.0 s, 10006.0 tps, lat 551.151 ms stddev 260.233
+progress: 88.0 s, 10045.8 tps, lat 545.928 ms stddev 253.437
+progress: 89.0 s, 10186.2 tps, lat 535.197 ms stddev 254.742
+progress: 90.0 s, 10171.9 tps, lat 543.598 ms stddev 254.126
+progress: 91.0 s, 10314.3 tps, lat 537.816 ms stddev 250.113
+progress: 92.0 s, 10132.8 tps, lat 542.821 ms stddev 249.223
+progress: 93.0 s, 10260.6 tps, lat 536.503 ms stddev 245.125
+progress: 94.0 s, 10028.4 tps, lat 550.138 ms stddev 251.146
+progress: 95.0 s, 10053.1 tps, lat 538.296 ms stddev 248.896
+progress: 96.0 s, 10450.9 tps, lat 535.379 ms stddev 254.124
+progress: 97.0 s, 10198.7 tps, lat 537.388 ms stddev 244.811
+progress: 98.0 s, 10381.9 tps, lat 530.275 ms stddev 245.476
+progress: 99.0 s, 9977.6 tps, lat 546.883 ms stddev 250.258
+progress: 100.0 s, 10519.9 tps, lat 527.516 ms stddev 255.104
+progress: 101.0 s, 10278.7 tps, lat 533.083 ms stddev 242.403
+progress: 102.0 s, 10403.2 tps, lat 530.297 ms stddev 247.671
+progress: 103.0 s, 10127.1 tps, lat 540.819 ms stddev 246.967
+progress: 104.0 s, 10332.9 tps, lat 533.088 ms stddev 245.855
+progress: 105.0 s, 10155.9 tps, lat 541.456 ms stddev 252.380
+progress: 106.0 s, 10021.2 tps, lat 539.092 ms stddev 248.047
+progress: 107.0 s, 10011.5 tps, lat 561.231 ms stddev 253.041
+progress: 108.0 s, 9116.3 tps, lat 549.941 ms stddev 252.301
+progress: 109.0 s, 8358.0 tps, lat 657.749 ms stddev 302.773
+progress: 110.0 s, 9538.1 tps, lat 614.637 ms stddev 302.253
+progress: 111.0 s, 10237.0 tps, lat 546.824 ms stddev 255.752
+progress: 112.0 s, 10191.7 tps, lat 538.101 ms stddev 244.990
+progress: 113.0 s, 10316.5 tps, lat 539.739 ms stddev 246.817
+progress: 114.0 s, 10431.3 tps, lat 525.016 ms stddev 240.642
+progress: 115.0 s, 10510.7 tps, lat 528.158 ms stddev 243.014
+progress: 116.0 s, 10106.8 tps, lat 532.030 ms stddev 238.634
+progress: 117.0 s, 10039.9 tps, lat 549.873 ms stddev 251.410
+progress: 118.0 s, 10264.1 tps, lat 538.077 ms stddev 241.390
+progress: 119.0 s, 10647.0 tps, lat 523.985 ms stddev 245.746
+progress: 120.0 s, 10230.0 tps, lat 527.063 ms stddev 239.215
+progress: 121.0 s, 712.0 tps, lat 898.273 ms stddev 390.159
+progress: 122.0 s, 451.0 tps, lat 2006.726 ms stddev 360.086
+progress: 123.0 s, 326.0 tps, lat 2975.009 ms stddev 372.747
+progress: 124.0 s, 282.0 tps, lat 3942.328 ms stddev 347.224
+progress: 125.0 s, 323.0 tps, lat 4822.609 ms stddev 332.244
+progress: 126.0 s, 251.0 tps, lat 5734.326 ms stddev 389.702
+progress: 127.0 s, 312.0 tps, lat 6828.554 ms stddev 352.142
+progress: 128.0 s, 302.0 tps, lat 7873.594 ms stddev 360.597
+progress: 129.0 s, 147.0 tps, lat 8812.628 ms stddev 360.919
+progress: 130.0 s, 149.9 tps, lat 9600.347 ms stddev 292.700
+progress: 131.0 s, 80.0 tps, lat 10712.922 ms stddev 234.061
+progress: 132.0 s, 203.0 tps, lat 11797.051 ms stddev 368.376
+progress: 133.0 s, 309.0 tps, lat 12734.384 ms stddev 371.847
+progress: 134.0 s, 187.0 tps, lat 13624.560 ms stddev 290.010
+progress: 135.0 s, 253.0 tps, lat 14747.125 ms stddev 314.187
+progress: 136.0 s, 274.0 tps, lat 15653.577 ms stddev 304.158
+progress: 137.0 s, 203.0 tps, lat 16757.122 ms stddev 388.892
+progress: 138.0 s, 154.0 tps, lat 17754.997 ms stddev 360.313
+progress: 139.0 s, 323.0 tps, lat 18664.894 ms stddev 351.345
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 5500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 1051477
+latency average = 599.429 ms
+latency stddev = 800.468 ms
+tps = 7549.965487 (including connections establishing)
+tps = 7553.254714 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.001  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        81.581  BEGIN;
+        83.529  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        80.213  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        83.890  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        94.840  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        83.767  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        91.329  END;
+***********************************************************************
+Time: 20210403192500, now running pgbench with c of:  + 6000
+progress: 14.9 s, 3.3 tps, lat 721.273 ms stddev 457.857
+progress: 15.0 s, 0.0 tps, lat 0.000 ms stddev 0.000
+progress: 16.0 s, 4649.8 tps, lat 936.572 ms stddev 685.640
+progress: 17.0 s, 5679.2 tps, lat 1521.937 ms stddev 1023.268
+progress: 18.0 s, 8286.9 tps, lat 1035.069 ms stddev 903.045
+progress: 19.0 s, 8436.7 tps, lat 718.556 ms stddev 345.390
+progress: 20.0 s, 9071.4 tps, lat 685.082 ms stddev 311.876
+progress: 21.0 s, 9332.9 tps, lat 651.142 ms stddev 292.582
+progress: 22.0 s, 9870.7 tps, lat 624.437 ms stddev 284.882
+progress: 23.0 s, 9950.0 tps, lat 602.645 ms stddev 269.663
+progress: 24.0 s, 10197.8 tps, lat 589.172 ms stddev 261.344
+progress: 25.0 s, 9926.6 tps, lat 597.247 ms stddev 266.029
+progress: 26.0 s, 9922.6 tps, lat 599.491 ms stddev 267.656
+progress: 27.0 s, 10443.4 tps, lat 588.518 ms stddev 259.477
+progress: 28.0 s, 9802.7 tps, lat 595.939 ms stddev 259.974
+progress: 29.0 s, 7659.1 tps, lat 712.376 ms stddev 296.632
+progress: 30.0 s, 7283.8 tps, lat 812.861 ms stddev 351.728
+progress: 31.0 s, 8437.4 tps, lat 751.311 ms stddev 351.385
+progress: 32.0 s, 8478.0 tps, lat 706.237 ms stddev 312.933
+progress: 33.0 s, 8512.6 tps, lat 699.111 ms stddev 304.995
+progress: 34.0 s, 9000.0 tps, lat 686.722 ms stddev 306.122
+progress: 35.0 s, 8688.2 tps, lat 683.631 ms stddev 298.021
+progress: 36.0 s, 8843.1 tps, lat 683.269 ms stddev 301.627
+progress: 37.0 s, 8627.3 tps, lat 689.811 ms stddev 304.165
+progress: 38.0 s, 9004.6 tps, lat 672.356 ms stddev 301.894
+progress: 39.0 s, 8692.4 tps, lat 682.054 ms stddev 309.274
+progress: 40.0 s, 8838.5 tps, lat 682.928 ms stddev 303.969
+progress: 41.0 s, 8637.9 tps, lat 696.630 ms stddev 304.936
+progress: 42.0 s, 8772.2 tps, lat 679.456 ms stddev 306.154
+progress: 43.0 s, 8748.0 tps, lat 679.157 ms stddev 303.280
+progress: 44.0 s, 8769.0 tps, lat 693.998 ms stddev 307.509
+progress: 45.0 s, 8712.0 tps, lat 686.052 ms stddev 305.561
+progress: 46.0 s, 8681.1 tps, lat 684.306 ms stddev 307.274
+progress: 47.0 s, 9062.8 tps, lat 668.908 ms stddev 303.854
+progress: 48.0 s, 9093.5 tps, lat 671.166 ms stddev 295.225
+progress: 49.0 s, 9062.6 tps, lat 662.368 ms stddev 294.607
+progress: 50.0 s, 8691.9 tps, lat 676.693 ms stddev 292.840
+progress: 51.0 s, 8786.2 tps, lat 680.956 ms stddev 301.344
+progress: 52.0 s, 8776.9 tps, lat 683.359 ms stddev 301.498
+progress: 53.0 s, 8480.1 tps, lat 699.839 ms stddev 309.400
+progress: 54.0 s, 8597.2 tps, lat 695.685 ms stddev 316.589
+progress: 55.0 s, 8346.3 tps, lat 713.255 ms stddev 326.888
+progress: 56.0 s, 8977.8 tps, lat 695.839 ms stddev 326.482
+progress: 57.0 s, 9078.0 tps, lat 648.823 ms stddev 302.791
+progress: 58.0 s, 8397.0 tps, lat 694.359 ms stddev 310.684
+progress: 59.0 s, 7126.9 tps, lat 794.826 ms stddev 346.515
+progress: 60.0 s, 7454.5 tps, lat 815.161 ms stddev 368.481
+progress: 61.0 s, 7538.6 tps, lat 812.284 ms stddev 374.027
+progress: 62.0 s, 8738.7 tps, lat 728.853 ms stddev 341.358
+progress: 63.0 s, 8416.2 tps, lat 696.972 ms stddev 308.547
+progress: 64.0 s, 8521.5 tps, lat 714.062 ms stddev 319.248
+progress: 65.0 s, 8772.3 tps, lat 692.125 ms stddev 315.537
+progress: 66.0 s, 8969.3 tps, lat 664.989 ms stddev 306.955
+progress: 67.0 s, 8935.5 tps, lat 679.145 ms stddev 305.745
+progress: 68.0 s, 8741.1 tps, lat 682.056 ms stddev 295.793
+progress: 69.0 s, 9178.7 tps, lat 660.190 ms stddev 308.273
+progress: 70.0 s, 8951.7 tps, lat 663.832 ms stddev 297.862
+progress: 71.0 s, 9175.6 tps, lat 664.948 ms stddev 298.986
+progress: 72.0 s, 9034.9 tps, lat 656.384 ms stddev 288.465
+progress: 73.0 s, 9192.5 tps, lat 650.360 ms stddev 294.791
+progress: 74.0 s, 9019.0 tps, lat 665.156 ms stddev 303.457
+progress: 75.0 s, 9050.8 tps, lat 663.118 ms stddev 302.332
+progress: 76.0 s, 9178.8 tps, lat 655.453 ms stddev 294.933
+progress: 77.0 s, 8934.4 tps, lat 660.265 ms stddev 290.707
+progress: 78.0 s, 8897.6 tps, lat 682.536 ms stddev 300.975
+progress: 79.0 s, 9168.4 tps, lat 658.997 ms stddev 292.897
+progress: 80.0 s, 9219.3 tps, lat 655.161 ms stddev 290.890
+progress: 81.0 s, 9245.4 tps, lat 650.864 ms stddev 293.809
+progress: 82.0 s, 12818.7 tps, lat 454.126 ms stddev 281.962
+progress: 83.0 s, 11917.9 tps, lat 210.911 ms stddev 206.807
+progress: 84.0 s, 11885.3 tps, lat 199.154 ms stddev 255.919
+client 3305 aborted in command 4 (SQL) of script 0; perhaps the backend died while processing
+progress: 85.0 s, 12002.2 tps, lat 172.992 ms stddev 188.725
+progress: 86.0 s, 9131.8 tps, lat 1083.381 ms stddev 1523.281
+progress: 87.0 s, 8133.9 tps, lat 1436.654 ms stddev 1804.152
+progress: 88.0 s, 8520.2 tps, lat 860.724 ms stddev 1028.396
+progress: 89.0 s, 6855.8 tps, lat 797.181 ms stddev 347.952
+progress: 90.0 s, 7589.1 tps, lat 818.103 ms stddev 382.148
+progress: 91.0 s, 7288.6 tps, lat 816.717 ms stddev 380.349
+progress: 92.0 s, 8292.5 tps, lat 769.565 ms stddev 367.438
+progress: 93.0 s, 8537.9 tps, lat 706.709 ms stddev 320.666
+progress: 94.0 s, 8163.1 tps, lat 726.722 ms stddev 326.520
+progress: 95.0 s, 8431.0 tps, lat 729.086 ms stddev 329.217
+progress: 96.0 s, 8102.0 tps, lat 719.915 ms stddev 314.316
+progress: 97.0 s, 8479.0 tps, lat 719.290 ms stddev 319.566
+progress: 98.0 s, 8407.0 tps, lat 715.739 ms stddev 315.659
+progress: 99.0 s, 8594.0 tps, lat 701.422 ms stddev 317.405
+progress: 100.0 s, 8844.9 tps, lat 694.796 ms stddev 315.438
+progress: 101.0 s, 9287.7 tps, lat 645.447 ms stddev 298.015
+progress: 102.0 s, 9436.6 tps, lat 640.392 ms stddev 285.446
+progress: 103.0 s, 9336.4 tps, lat 639.670 ms stddev 309.204
+progress: 104.0 s, 9241.5 tps, lat 650.515 ms stddev 290.427
+progress: 105.0 s, 9441.0 tps, lat 641.602 ms stddev 289.380
+progress: 106.0 s, 9333.8 tps, lat 633.116 ms stddev 294.156
+progress: 107.0 s, 9553.2 tps, lat 637.749 ms stddev 292.814
+progress: 108.0 s, 9276.5 tps, lat 634.923 ms stddev 286.363
+progress: 109.0 s, 9263.1 tps, lat 647.960 ms stddev 287.470
+progress: 110.0 s, 9395.0 tps, lat 645.565 ms stddev 292.672
+progress: 111.0 s, 9474.3 tps, lat 633.449 ms stddev 290.821
+progress: 112.0 s, 9407.9 tps, lat 631.855 ms stddev 285.774
+progress: 113.0 s, 9639.2 tps, lat 636.803 ms stddev 284.046
+progress: 114.0 s, 9412.6 tps, lat 624.520 ms stddev 281.352
+progress: 115.0 s, 9325.0 tps, lat 646.136 ms stddev 284.691
+progress: 116.0 s, 9524.4 tps, lat 627.709 ms stddev 287.022
+progress: 117.0 s, 9534.9 tps, lat 638.135 ms stddev 298.941
+progress: 118.0 s, 9393.1 tps, lat 624.115 ms stddev 285.697
+progress: 119.0 s, 8016.7 tps, lat 709.154 ms stddev 313.380
+progress: 120.0 s, 7829.3 tps, lat 746.688 ms stddev 340.659
+progress: 121.0 s, 601.0 tps, lat 1028.348 ms stddev 429.969
+progress: 122.0 s, 446.0 tps, lat 2185.539 ms stddev 443.192
+progress: 123.0 s, 346.0 tps, lat 3100.001 ms stddev 453.929
+progress: 124.0 s, 304.0 tps, lat 4042.030 ms stddev 461.112
+progress: 125.0 s, 346.0 tps, lat 5068.839 ms stddev 406.610
+progress: 126.0 s, 248.0 tps, lat 6050.403 ms stddev 473.025
+progress: 127.0 s, 157.0 tps, lat 6929.605 ms stddev 401.424
+progress: 128.0 s, 349.1 tps, lat 7854.421 ms stddev 434.379
+progress: 129.0 s, 317.0 tps, lat 8977.089 ms stddev 412.389
+progress: 130.0 s, 187.0 tps, lat 9918.961 ms stddev 488.241
+progress: 131.0 s, 167.0 tps, lat 11072.754 ms stddev 488.222
+progress: 132.0 s, 127.0 tps, lat 11982.315 ms stddev 428.253
+progress: 133.0 s, 203.0 tps, lat 13082.278 ms stddev 362.374
+progress: 134.0 s, 240.0 tps, lat 13887.788 ms stddev 365.189
+progress: 135.0 s, 165.0 tps, lat 14878.516 ms stddev 377.353
+progress: 136.0 s, 163.0 tps, lat 15717.604 ms stddev 376.606
+progress: 137.0 s, 493.0 tps, lat 17006.722 ms stddev 468.253
+progress: 138.0 s, 245.0 tps, lat 17772.376 ms stddev 365.336
+progress: 139.0 s, 54.0 tps, lat 18612.382 ms stddev 352.890
+client 525 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1038 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 860 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+progress: 140.0 s, 74.0 tps, lat 19589.617 ms stddev 232.489
+client 2799 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2452 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 119 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3832 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4529 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2044 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2292 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4812 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 37 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 698 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 775 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5068 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2342 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 3486 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3435 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2430 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3812 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2071 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 413 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5067 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2912 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2908 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3394 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1246 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 1451 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1680 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2418 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4627 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1763 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1464 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3361 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 246 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1476 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 841 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2224 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1583 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3074 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 307 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 1983 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1303 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2403 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2400 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 518 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5122 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2127 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4169 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5040 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2421 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 268 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1864 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2952 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4847 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5227 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2889 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4683 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1228 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 109 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4580 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4430 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4323 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3985 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3892 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4408 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5471 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4524 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4624 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5679 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 395 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3543 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1925 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2144 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5557 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2148 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 269 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 365 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 423 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5361 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2970 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4562 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3146 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5392 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5349 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4072 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+progress: 141.0 s, 0.0 tps, lat 0.000 ms stddev 0.000
+client 3199 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4545 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 671 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4930 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 726 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3065 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5333 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1780 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1395 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1754 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1833 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3899 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4678 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3456 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1470 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 247 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5172 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5114 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3388 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4853 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1009 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2308 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2300 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1986 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4009 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2101 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2524 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2076 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3902 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4971 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1413 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1558 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 540 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3256 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1346 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2894 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3128 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2366 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5075 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5512 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2441 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5822 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 692 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2390 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4054 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3678 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4948 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4647 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4203 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1894 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4968 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2570 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3489 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4050 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2797 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5452 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1348 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2074 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2890 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2995 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 256 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1094 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3457 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1553 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1844 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1531 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5382 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1331 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2320 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2350 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4446 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2996 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 390 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 906 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3956 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5732 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1876 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3137 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3160 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3935 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3375 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1114 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 872 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1858 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4053 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5176 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4499 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1134 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4528 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4083 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2743 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 302 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 969 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2484 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1021 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3643 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 2578 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1614 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1669 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3734 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1117 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2448 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4856 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4792 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3644 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 787 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 354 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 5755 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 146 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1828 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1726 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1887 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5879 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2316 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2630 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 545 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4360 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5593 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3469 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1391 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3802 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5806 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1554 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4650 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2490 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+progress: 142.0 s, 0.0 tps, lat 0.000 ms stddev 0.000
+client 5786 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5043 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 433 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3212 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4299 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5993 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 173 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 579 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1392 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3694 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4303 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2437 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5761 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4494 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 165 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2913 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 2593 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1425 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 4114 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1827 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3603 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2550 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4191 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4531 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5400 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 3947 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 331 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4470 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 681 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 57 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1562 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5891 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4881 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2992 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1928 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2332 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2687 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3494 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3564 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 250 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4439 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5013 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3527 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4434 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 492 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5698 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2696 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 626 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 825 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2124 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2521 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5468 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2675 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1312 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2155 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2854 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 23 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1249 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1429 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3753 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+progress: 143.0 s, 0.0 tps, lat 0.000 ms stddev 0.000
+client 3034 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 59 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 505 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4358 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1665 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5511 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4946 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2169 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3016 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1693 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 554 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 515 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5520 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1214 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1380 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5314 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4564 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4835 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2645 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2100 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1831 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 870 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2188 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1182 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3271 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5274 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2964 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1520 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5699 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1627 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4993 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2370 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3193 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1993 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 529 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 388 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4729 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5949 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4421 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1766 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2956 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5845 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4770 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2977 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5036 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 292 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3204 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 4616 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3553 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1508 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2014 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2436 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1577 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2256 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2759 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5222 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1910 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 885 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 827 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4895 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2610 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1757 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3656 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5813 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3657 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4852 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1823 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1525 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3323 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2215 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 106 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2659 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5817 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5867 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2228 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2938 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3664 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 112 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 2507 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4686 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4136 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1861 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5074 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 188 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4959 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3326 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2738 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5055 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 909 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4513 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4836 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1340 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4332 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1552 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3939 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3651 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3584 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1550 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3605 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5961 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3915 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5885 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4258 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4076 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+progress: 144.0 s, 0.0 tps, lat 0.000 ms stddev 0.000
+client 4851 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3918 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1694 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 3868 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2648 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4112 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1193 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 150 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5375 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 873 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2733 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 435 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3938 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 809 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1165 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2282 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3728 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 293 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 660 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3186 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4457 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5241 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4368 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2873 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3240 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3119 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 639 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5920 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3503 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3928 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5182 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1509 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1748 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1057 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5229 aborted in command 4 (SQL) of script 0; perhaps the backend died while processing
+client 5474 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 636 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2203 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4722 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4380 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1434 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 613 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3747 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4141 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2814 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3276 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5802 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5709 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4432 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 455 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2735 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3230 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3317 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2354 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2406 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4896 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2965 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5327 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 625 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5628 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2277 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2884 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 3442 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5128 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5378 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 622 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 765 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 48 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1543 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5881 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2556 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3060 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4677 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 902 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5022 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5426 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1740 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3522 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4945 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4778 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2328 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 818 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3355 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4694 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5510 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4231 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4538 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3482 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5143 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1212 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1548 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2106 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2604 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4325 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5159 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5525 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 222 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2252 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2692 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5849 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2376 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3093 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2151 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 471 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5990 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1077 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2980 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3339 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3085 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4274 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3588 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4427 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1480 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2298 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 64 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5914 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5880 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 5217 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 166 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 217 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 1601 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 447 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 890 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4003 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1275 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4768 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2457 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1911 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2594 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3572 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4517 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5416 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 846 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1383 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5028 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 926 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2329 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 332 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 349 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 4298 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 273 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4029 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 815 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4872 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2585 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2652 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 691 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5945 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2974 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 2940 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3758 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1393 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4371 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5254 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 974 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1019 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3272 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 734 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5434 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2947 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4830 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1808 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2788 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1497 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4028 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5549 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1587 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5551 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4037 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5726 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2066 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3845 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4295 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2359 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1344 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1078 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3151 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 196 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 931 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+progress: 145.0 s, 0.0 tps, lat 0.000 ms stddev 0.000
+client 621 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1794 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 1169 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3090 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4277 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3785 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 134 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2681 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4840 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5959 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2763 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1544 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4565 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5860 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 182 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4558 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5485 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2515 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5062 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1257 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2413 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2667 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2416 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1879 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 336 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4745 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3544 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3299 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 916 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5030 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 4019 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 524 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5101 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4125 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1376 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5465 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 66 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1427 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4271 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1625 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 788 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4167 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 21 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4070 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5941 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5497 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 3535 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1585 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2095 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1822 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3669 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5550 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5687 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 414 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 632 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 654 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1755 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 206 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3837 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3298 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2450 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5739 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 450 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4552 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2817 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 886 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2063 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4725 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3285 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4713 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 164 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 857 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5443 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3997 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4238 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3173 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5201 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 56 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 3968 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3960 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5886 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2867 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3009 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2800 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5509 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4702 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2045 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3232 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1118 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 39 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5730 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2284 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2061 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2575 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4533 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3114 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4013 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4557 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1341 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3313 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5223 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5189 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4219 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4757 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1171 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5944 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3908 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 3161 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4504 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 304 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3797 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2065 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5656 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4350 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1870 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1334 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5648 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5196 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1399 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 3468 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3217 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 819 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5834 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3252 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2773 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 678 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3130 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5302 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2137 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5339 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2779 aborted in command 4 (SQL) of script 0; perhaps the backend died while processing
+client 4823 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4209 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1942 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2607 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5582 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3987 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 1658 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5080 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5795 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1463 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 3301 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2708 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2761 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2068 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1651 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 5923 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5371 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5968 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5641 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 3485 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 3966 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5935 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4961 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2177 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2907 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 1533 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4938 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 195 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2511 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3195 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4512 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 2489 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5305 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2468 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 4586 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5754 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4038 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 831 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2516 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 3880 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1202 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 501 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5330 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2098 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4511 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2244 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4953 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4047 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4229 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4196 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4593 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4734 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 2910 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 4849 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5873 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 5644 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 582 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1561 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2967 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 65 aborted in command 5 (SQL) of script 0; perhaps the backend died while processing
+client 5774 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 4474 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 2462 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 2802 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4479 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 4166 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 4110 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 138 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 152 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3357 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4088 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 5495 aborted in command 6 (SQL) of script 0; perhaps the backend died while processing
+client 5118 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 3273 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1762 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5635 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+client 1959 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 4815 aborted in command 9 (SQL) of script 0; perhaps the backend died while processing
+client 1661 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 2978 aborted in command 8 (SQL) of script 0; perhaps the backend died while processing
+client 5253 aborted in command 7 (SQL) of script 0; perhaps the backend died while processing
+client 4935 aborted in command 10 (SQL) of script 0; perhaps the backend died while processing
+Run was aborted; the above results are incomplete.
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 6000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 939166
+latency average = 722.547 ms
+latency stddev = 852.046 ms
+tps = 6444.451357 (including connections establishing)
+tps = 6446.926806 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.002  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.001  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+       111.066  BEGIN;
+       106.003  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        95.633  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        99.498  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+       113.745  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        99.136  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+       106.995  END;

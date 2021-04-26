@@ -1,0 +1,57 @@
+mysql> select
+    ->         c_custkey,
+    ->         c_name,
+    ->         sum(l_extendedprice * (1 - l_discount)) as revenue,
+    ->         c_acctbal,
+    ->         n_name,
+    ->         c_address,
+    ->         c_phone,
+    ->         c_comment
+    -> from
+    ->         customer,
+    ->         orders,
+    ->         lineitem,
+    ->         nation
+    -> where
+    ->         c_custkey = o_custkey
+    ->         and l_orderkey = o_orderkey
+    ->         and o_orderdate >= date '1993-02-01'
+    ->         and o_orderdate < date '1993-02-01' + interval '3' month
+    ->         and l_returnflag = 'R'
+    ->         and c_nationkey = n_nationkey
+    -> group by
+    ->         c_custkey,
+    ->         c_name,
+    ->         c_acctbal,
+    ->         c_phone,
+    ->         n_name,
+    ->         c_address,
+    ->         c_comment
+    -> order by
+    ->         revenue desc
+    -> limit 20;
++-----------+--------------------+-------------+-----------+----------------+------------------------------------------+-----------------+------------------------------------------------------------------------------------------------------+
+| c_custkey | c_name             | revenue     | c_acctbal | n_name         | c_address                                | c_phone         | c_comment                                                                                            |
++-----------+--------------------+-------------+-----------+----------------+------------------------------------------+-----------------+------------------------------------------------------------------------------------------------------+
+|  14807443 | Customer#014807443 | 862473.3727 |   7155.89 | FRANCE         | eEsPdBPae8rMQW05D3ByrUe2TPd7mi2QV0IZQUo  | 16-159-815-9743 | ular forges. special, unusual requests across the slyly ironic pinto beans nag quickly regular theod |
+|   3717964 | Customer#003717964 | 849123.8265 |   4195.83 | IRAN           | QwEM2H0FcX1rqHvmxGe8HyY676subQulzBo      | 20-585-546-6210 |  packages along the unusual escapades hagg                                                           |
+|   9305608 | Customer#009305608 | 841490.7125 |    425.88 | KENYA          | 0oUy,5Cd9AFnelmPY                        | 24-997-415-8996 | kages integrate furiously according to the deposits. slyly regular foxes cajole slyly                |
+|   1142117 | Customer#001142117 | 836250.0004 |   -718.73 | ETHIOPIA       | 66PKWE5Fp9GuGWL0c1                       | 15-474-163-8711 | l accounts wake around the blithely ironic requests. final ideas among the                           |
+|  14743366 | Customer#014743366 | 828813.4139 |   2097.66 | UNITED KINGDOM | EzqduGu4Ukuif7n6IS,IKtyY                 | 33-525-380-4454 | es lose furious packages. ironica                                                                    |
+|   1895560 | Customer#001895560 | 797091.0051 |    554.55 | ARGENTINA      | QLt1UHs,JK924ott2db                      | 11-236-792-9160 | te according to the blithely even theod                                                              |
+|   3088015 | Customer#003088015 | 796321.0162 |   9126.84 | CANADA         | w,OfjpdAut7msY9qpLuBc3tSmWKJIXeDFfdqc    | 13-466-603-9971 | xpress theodolites are quickly silently even re                                                      |
+|  14214214 | Customer#014214214 | 794931.6961 |     22.10 | IRAN           |  4P8ub1nysFzMa3wF                        | 20-401-172-7923 | iously express theodolites. furiously express ideas around the sly                                   |
+|   7642525 | Customer#007642525 | 793648.1147 |   4589.48 | UNITED KINGDOM | q3H7ygwK1h5BVxwvF yFT6gat                | 33-577-486-6221 |  express ideas boost slyly; packages against the final, silent instructions haggle slyly             |
+|   2314531 | Customer#002314531 | 790142.2059 |   5726.46 | MOROCCO        | 2Pef h01WrmBG4ChDxlZY4lN                 | 25-962-449-6388 | ently. regular foxes sleep across the blithely regular foxes. blithely unusual frets after the       |
+|   8603509 | Customer#008603509 | 790044.6971 |   1645.70 | UNITED KINGDOM | kAylOV9NHt,n6Crsj1WTgcljjLu0yUHZ         | 33-398-199-1471 | foxes cajole idly quickly bold deposits. fluffily iro                                                |
+|    917056 | Customer#000917056 | 778222.6650 |   8788.63 | GERMANY        | i64Rw4xcJlq7                             | 17-407-174-2196 | iously: courts lose slyly. furiously regular accounts wake. regular theodolites haggle. slyly pendi  |
+|   6763780 | Customer#006763780 | 777066.4033 |   9194.96 | EGYPT          | ODDjrwqJk1W8KDENcdO8WEjf,60 NcBZ         | 14-435-109-3537 | ourts mold furiously among the ironic requests. fluffily re                                          |
+|   1534330 | Customer#001534330 | 775990.7475 |   4368.41 | BRAZIL         | ImAoQmFFUauakNIWB8dTGXyf1aXBypUjXvffV9nd | 12-822-642-3314 | stealthy foxes. deposits cajo                                                                        |
+|   1206400 | Customer#001206400 | 774704.4819 |   6327.99 | SAUDI ARABIA   | EsnolgTuQMph                             | 30-720-644-8923 |  to sublate quickly across the sl                                                                    |
+|  14144491 | Customer#014144491 | 774153.6207 |   8009.66 | PERU           | 6ZPKWEds,c2uZ9DkJ,OjfDnzWJJ4i5AU6odpTRW  | 27-712-250-5194 | ss asymptotes across the doggedly ev                                                                 |
+|  10864219 | Customer#010864219 | 766362.3308 |   1844.86 | ALGERIA        | 0eWwzh mvrauav67uO                       | 10-715-431-6201 | its. carefully express attainments wake furiously after the ev                                       |
+|  12926083 | Customer#012926083 | 756924.7050 |   8611.07 | CHINA          | ,su1,6vb sFkf4x9yTjwbAa                  | 28-137-354-4389 | eposits. special deposits boost around the even packages. deposits kindle fi                         |
+|    991087 | Customer#000991087 | 754528.9854 |   2071.18 | KENYA          | Z4aECP3ulE                               | 24-428-819-4741 | usual, express requests. ironic                                                                      |
+|   2473492 | Customer#002473492 | 752137.4301 |   1250.35 | ARGENTINA      | QBkogj3tbztSbVkh8e2X                     | 11-375-784-2354 | deas haggle after the furiously regular                                                              |
++-----------+--------------------+-------------+-----------+----------------+------------------------------------------+-----------------+------------------------------------------------------------------------------------------------------+
+20 rows in set (9.39 sec)

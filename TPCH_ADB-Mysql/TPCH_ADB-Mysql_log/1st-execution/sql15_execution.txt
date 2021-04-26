@@ -1,0 +1,29 @@
+mysql> select
+    ->         s_suppkey,
+    ->         s_name,
+    ->         s_address,
+    ->         s_phone,
+    ->         total_revenue
+    -> from
+    ->         supplier,
+    ->         revenue0
+    -> where
+    ->         s_suppkey = supplier_no
+    ->         and total_revenue = (
+    ->                 select
+    ->                         max(total_revenue)
+    ->                 from
+    ->                         revenue0
+    ->         )
+    -> order by
+    ->         s_suppkey;
++-----------+--------------------+-----------------------+-----------------+---------------+
+| s_suppkey | s_name             | s_address             | s_phone         | total_revenue |
++-----------+--------------------+-----------------------+-----------------+---------------+
+|    746876 | Supplier#000746876 | WhXjGxN5W1MTiI4WeQVib | 34-601-566-5445 |  2297699.5281 |
++-----------+--------------------+-----------------------+-----------------+---------------+
+1 row in set (2.83 sec)
+
+mysql> 
+mysql> drop view revenue0;
+Query OK, 0 rows affected (0.04 sec)

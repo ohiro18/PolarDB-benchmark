@@ -1,0 +1,38 @@
+mysql> select
+    ->         l_orderkey,
+    ->         sum(l_extendedprice * (1 - l_discount)) as revenue,
+    ->         o_orderdate,
+    ->         o_shippriority
+    -> from
+    ->         customer,
+    ->         orders,
+    ->         lineitem
+    -> where
+    ->         c_mktsegment = 'MACHINERY'
+    ->         and c_custkey = o_custkey
+    ->         and l_orderkey = o_orderkey
+    ->         and o_orderdate < date '1995-03-23'
+    ->         and l_shipdate > date '1995-03-23'
+    -> group by
+    ->         l_orderkey,
+    ->         o_orderdate,
+    ->         o_shippriority
+    -> order by
+    ->         revenue desc,
+    ->         o_orderdate
+    -> limit 10;
++------------+-------------+-------------+----------------+
+| l_orderkey | revenue     | o_orderdate | o_shippriority |
++------------+-------------+-------------+----------------+
+|  327357765 | 509479.7221 | 1995-02-22  |              0 |
+|    9727175 | 496220.3495 | 1995-03-18  |              0 |
+|  285919811 | 489564.8350 | 1995-03-21  |              0 |
+|  474255776 | 486720.5086 | 1995-02-27  |              0 |
+|  521039719 | 483122.1178 | 1995-03-13  |              0 |
+|  446876612 | 480692.7892 | 1995-03-02  |              0 |
+|  114992323 | 472447.1396 | 1995-03-21  |              0 |
+|  203712320 | 466352.4187 | 1995-03-20  |              0 |
+|  262811393 | 465438.0908 | 1995-03-12  |              0 |
+|  334354656 | 463458.5523 | 1995-03-22  |              0 |
++------------+-------------+-------------+----------------+
+10 rows in set (7.09 sec)

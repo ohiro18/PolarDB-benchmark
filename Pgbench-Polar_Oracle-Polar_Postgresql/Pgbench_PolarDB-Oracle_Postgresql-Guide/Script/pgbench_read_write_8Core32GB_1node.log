@@ -1,0 +1,1133 @@
+nohup: ignoring input
+Time: 20210402113754, now running pgbench with c of:  + 500
+progress: 1.0 s, 1814.9 tps, lat 135.820 ms stddev 96.206
+progress: 2.0 s, 6674.3 tps, lat 75.710 ms stddev 46.399
+progress: 3.0 s, 7306.0 tps, lat 68.495 ms stddev 42.755
+progress: 4.0 s, 7391.7 tps, lat 67.405 ms stddev 42.133
+progress: 5.0 s, 7600.4 tps, lat 66.189 ms stddev 41.918
+progress: 6.0 s, 7228.6 tps, lat 69.998 ms stddev 43.662
+progress: 7.0 s, 7455.0 tps, lat 65.989 ms stddev 41.942
+progress: 8.0 s, 7517.0 tps, lat 66.487 ms stddev 44.855
+progress: 9.0 s, 7491.3 tps, lat 66.799 ms stddev 42.529
+progress: 10.0 s, 7211.1 tps, lat 69.288 ms stddev 42.381
+progress: 11.0 s, 7338.9 tps, lat 68.204 ms stddev 42.684
+progress: 12.0 s, 7427.8 tps, lat 67.224 ms stddev 42.094
+progress: 13.0 s, 7253.8 tps, lat 68.753 ms stddev 42.130
+progress: 14.0 s, 7510.1 tps, lat 66.825 ms stddev 41.659
+progress: 15.0 s, 7559.0 tps, lat 66.031 ms stddev 44.833
+progress: 16.0 s, 7499.3 tps, lat 66.574 ms stddev 41.896
+progress: 17.0 s, 7636.1 tps, lat 65.438 ms stddev 41.410
+progress: 18.0 s, 7325.6 tps, lat 68.418 ms stddev 43.954
+progress: 19.0 s, 7435.9 tps, lat 67.515 ms stddev 42.660
+progress: 20.0 s, 7423.1 tps, lat 67.025 ms stddev 42.493
+progress: 21.0 s, 7537.9 tps, lat 66.384 ms stddev 42.118
+progress: 22.0 s, 7443.5 tps, lat 67.153 ms stddev 43.512
+progress: 23.0 s, 7642.0 tps, lat 65.367 ms stddev 42.157
+progress: 24.0 s, 7587.7 tps, lat 66.125 ms stddev 41.991
+progress: 25.0 s, 7598.9 tps, lat 65.830 ms stddev 41.534
+progress: 26.0 s, 7600.0 tps, lat 65.677 ms stddev 44.617
+progress: 27.0 s, 7511.0 tps, lat 66.656 ms stddev 42.306
+progress: 28.0 s, 7462.4 tps, lat 66.916 ms stddev 44.107
+progress: 29.0 s, 7554.0 tps, lat 66.165 ms stddev 41.637
+progress: 30.0 s, 7298.7 tps, lat 68.415 ms stddev 42.978
+progress: 31.0 s, 7637.1 tps, lat 65.766 ms stddev 41.577
+progress: 32.0 s, 7610.9 tps, lat 65.515 ms stddev 41.485
+progress: 33.0 s, 7632.0 tps, lat 65.444 ms stddev 41.019
+progress: 34.0 s, 7570.1 tps, lat 66.350 ms stddev 42.337
+progress: 35.0 s, 7600.1 tps, lat 65.639 ms stddev 43.660
+progress: 36.0 s, 7601.9 tps, lat 65.707 ms stddev 41.966
+progress: 37.0 s, 7466.0 tps, lat 66.888 ms stddev 42.570
+progress: 38.0 s, 7574.0 tps, lat 66.877 ms stddev 41.778
+progress: 39.0 s, 7517.2 tps, lat 65.643 ms stddev 42.034
+progress: 40.0 s, 7435.7 tps, lat 67.088 ms stddev 42.597
+progress: 41.0 s, 7194.1 tps, lat 69.736 ms stddev 43.441
+progress: 42.0 s, 7268.9 tps, lat 68.344 ms stddev 44.347
+progress: 43.0 s, 7546.0 tps, lat 66.593 ms stddev 43.389
+progress: 44.0 s, 7490.4 tps, lat 66.821 ms stddev 42.146
+progress: 45.0 s, 7439.6 tps, lat 67.035 ms stddev 42.562
+progress: 46.0 s, 7540.0 tps, lat 66.408 ms stddev 42.290
+progress: 47.0 s, 7437.2 tps, lat 67.462 ms stddev 42.367
+progress: 48.0 s, 7406.2 tps, lat 67.205 ms stddev 42.814
+progress: 49.0 s, 7503.8 tps, lat 66.825 ms stddev 45.372
+progress: 50.0 s, 7313.9 tps, lat 68.383 ms stddev 42.495
+progress: 51.0 s, 7296.3 tps, lat 68.566 ms stddev 44.010
+progress: 52.0 s, 7352.7 tps, lat 67.683 ms stddev 42.432
+progress: 53.0 s, 7223.0 tps, lat 69.226 ms stddev 42.874
+progress: 54.0 s, 7582.0 tps, lat 53.263 ms stddev 53.193
+progress: 55.0 s, 7407.0 tps, lat 80.699 ms stddev 156.862
+progress: 56.0 s, 7055.2 tps, lat 70.848 ms stddev 46.838
+progress: 57.0 s, 6743.9 tps, lat 73.494 ms stddev 44.614
+progress: 58.0 s, 7128.0 tps, lat 70.866 ms stddev 44.237
+progress: 59.0 s, 7198.0 tps, lat 68.517 ms stddev 44.012
+progress: 60.0 s, 7593.2 tps, lat 66.572 ms stddev 42.230
+progress: 61.0 s, 7713.8 tps, lat 64.707 ms stddev 41.677
+progress: 62.0 s, 7598.9 tps, lat 65.872 ms stddev 42.138
+progress: 63.0 s, 7586.0 tps, lat 65.544 ms stddev 43.586
+progress: 64.0 s, 7668.1 tps, lat 65.652 ms stddev 41.497
+progress: 65.0 s, 7582.4 tps, lat 65.971 ms stddev 41.238
+progress: 66.0 s, 7482.0 tps, lat 66.640 ms stddev 41.951
+progress: 67.0 s, 7343.9 tps, lat 68.017 ms stddev 42.863
+progress: 68.0 s, 7396.7 tps, lat 67.848 ms stddev 41.911
+progress: 69.0 s, 7536.0 tps, lat 66.793 ms stddev 42.141
+progress: 70.0 s, 7347.0 tps, lat 67.485 ms stddev 46.053
+progress: 71.0 s, 6949.3 tps, lat 71.963 ms stddev 44.389
+progress: 72.0 s, 7243.0 tps, lat 69.039 ms stddev 43.528
+progress: 73.0 s, 7472.6 tps, lat 66.934 ms stddev 42.226
+progress: 74.0 s, 7606.2 tps, lat 65.823 ms stddev 42.216
+progress: 75.0 s, 7621.8 tps, lat 65.411 ms stddev 42.087
+progress: 76.0 s, 7417.9 tps, lat 67.752 ms stddev 42.997
+progress: 77.0 s, 7550.1 tps, lat 65.333 ms stddev 42.647
+progress: 78.0 s, 7210.0 tps, lat 69.925 ms stddev 45.889
+progress: 79.0 s, 7410.0 tps, lat 67.579 ms stddev 41.641
+progress: 80.0 s, 7453.4 tps, lat 67.089 ms stddev 42.610
+progress: 81.0 s, 7567.8 tps, lat 66.013 ms stddev 41.947
+progress: 82.0 s, 7456.8 tps, lat 67.166 ms stddev 42.519
+progress: 83.0 s, 7517.3 tps, lat 66.424 ms stddev 42.284
+progress: 84.0 s, 7542.9 tps, lat 66.454 ms stddev 42.929
+progress: 85.0 s, 7599.1 tps, lat 65.795 ms stddev 43.946
+progress: 86.0 s, 7707.7 tps, lat 64.877 ms stddev 41.582
+progress: 87.0 s, 7723.0 tps, lat 64.804 ms stddev 41.187
+progress: 88.0 s, 7611.0 tps, lat 65.663 ms stddev 41.501
+progress: 89.0 s, 7703.0 tps, lat 64.798 ms stddev 41.921
+progress: 90.0 s, 7575.0 tps, lat 66.244 ms stddev 42.027
+progress: 91.0 s, 7631.4 tps, lat 65.476 ms stddev 41.410
+progress: 92.0 s, 7511.5 tps, lat 66.373 ms stddev 44.664
+progress: 93.0 s, 7663.2 tps, lat 65.539 ms stddev 41.899
+progress: 94.0 s, 7340.8 tps, lat 67.769 ms stddev 42.959
+progress: 95.0 s, 7633.0 tps, lat 65.338 ms stddev 41.713
+progress: 96.0 s, 7462.2 tps, lat 67.170 ms stddev 42.539
+progress: 97.0 s, 7545.8 tps, lat 66.166 ms stddev 42.164
+progress: 98.0 s, 7656.0 tps, lat 65.429 ms stddev 41.725
+progress: 99.0 s, 7560.1 tps, lat 66.167 ms stddev 44.127
+progress: 100.0 s, 7402.2 tps, lat 67.642 ms stddev 45.102
+progress: 101.0 s, 7263.7 tps, lat 68.721 ms stddev 43.389
+progress: 102.0 s, 7516.1 tps, lat 66.404 ms stddev 41.758
+progress: 103.0 s, 7578.8 tps, lat 66.211 ms stddev 42.404
+progress: 104.0 s, 7506.1 tps, lat 65.810 ms stddev 42.086
+progress: 105.0 s, 7355.4 tps, lat 68.811 ms stddev 42.094
+progress: 106.0 s, 7182.4 tps, lat 68.678 ms stddev 44.512
+progress: 107.0 s, 7385.2 tps, lat 68.627 ms stddev 45.429
+progress: 108.0 s, 7548.0 tps, lat 66.874 ms stddev 43.985
+progress: 109.0 s, 7682.0 tps, lat 64.392 ms stddev 40.910
+progress: 110.0 s, 7360.0 tps, lat 68.394 ms stddev 42.047
+progress: 111.0 s, 7199.4 tps, lat 69.296 ms stddev 41.845
+progress: 112.0 s, 7667.7 tps, lat 64.911 ms stddev 41.443
+progress: 113.0 s, 7616.9 tps, lat 65.736 ms stddev 41.755
+progress: 114.0 s, 7694.0 tps, lat 64.988 ms stddev 44.474
+progress: 115.0 s, 7723.0 tps, lat 64.849 ms stddev 41.493
+progress: 116.0 s, 7597.0 tps, lat 65.039 ms stddev 41.493
+progress: 117.0 s, 7629.3 tps, lat 66.096 ms stddev 43.073
+progress: 118.0 s, 7681.7 tps, lat 64.850 ms stddev 41.574
+progress: 119.0 s, 7626.2 tps, lat 65.605 ms stddev 41.189
+progress: 120.0 s, 7726.1 tps, lat 64.912 ms stddev 41.756
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 891338
+latency average = 67.135 ms
+latency stddev = 45.420 ms
+tps = 7409.484987 (including connections establishing)
+tps = 7410.637337 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+         8.193  BEGIN;
+        11.062  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+         8.429  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+         8.460  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+         9.030  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+         9.480  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        12.470  END;
+Time: 20210402113954, now running pgbench with c of:  + 1000
+progress: 1.8 s, 154.7 tps, lat 206.376 ms stddev 91.974
+progress: 2.0 s, 960.7 tps, lat 346.204 ms stddev 112.579
+progress: 3.0 s, 5078.1 tps, lat 240.473 ms stddev 167.575
+progress: 4.0 s, 6548.0 tps, lat 156.205 ms stddev 84.173
+progress: 5.0 s, 6636.0 tps, lat 150.202 ms stddev 80.079
+progress: 6.0 s, 6742.0 tps, lat 149.065 ms stddev 78.448
+progress: 7.0 s, 6572.0 tps, lat 151.219 ms stddev 88.583
+progress: 8.0 s, 6713.0 tps, lat 148.899 ms stddev 79.952
+progress: 9.0 s, 6846.0 tps, lat 147.125 ms stddev 75.531
+progress: 10.0 s, 6245.9 tps, lat 157.401 ms stddev 81.758
+progress: 11.0 s, 6385.1 tps, lat 159.585 ms stddev 85.026
+progress: 12.0 s, 6758.9 tps, lat 147.277 ms stddev 76.399
+progress: 13.0 s, 6826.1 tps, lat 146.442 ms stddev 76.930
+progress: 14.0 s, 6921.0 tps, lat 144.321 ms stddev 75.879
+progress: 15.0 s, 6911.0 tps, lat 145.497 ms stddev 75.681
+progress: 16.0 s, 6748.9 tps, lat 145.075 ms stddev 76.588
+progress: 17.0 s, 6531.0 tps, lat 150.844 ms stddev 77.980
+progress: 18.0 s, 6963.0 tps, lat 147.835 ms stddev 78.549
+progress: 19.0 s, 6930.0 tps, lat 145.057 ms stddev 75.652
+progress: 20.0 s, 6827.0 tps, lat 145.918 ms stddev 73.652
+progress: 21.0 s, 6851.0 tps, lat 146.690 ms stddev 76.928
+progress: 22.0 s, 6950.0 tps, lat 143.852 ms stddev 73.896
+progress: 23.0 s, 6916.0 tps, lat 144.806 ms stddev 76.359
+progress: 24.0 s, 6859.0 tps, lat 145.410 ms stddev 75.927
+progress: 25.0 s, 6685.0 tps, lat 141.943 ms stddev 81.694
+progress: 26.0 s, 6979.0 tps, lat 150.565 ms stddev 83.751
+progress: 27.0 s, 6797.0 tps, lat 146.685 ms stddev 76.663
+progress: 28.0 s, 6928.0 tps, lat 144.724 ms stddev 76.084
+progress: 29.0 s, 6887.0 tps, lat 144.994 ms stddev 75.561
+progress: 30.0 s, 6942.0 tps, lat 144.900 ms stddev 75.420
+progress: 31.0 s, 6880.0 tps, lat 144.682 ms stddev 76.204
+progress: 32.0 s, 6956.0 tps, lat 143.681 ms stddev 75.268
+progress: 33.0 s, 6928.0 tps, lat 144.396 ms stddev 74.378
+progress: 34.0 s, 6850.9 tps, lat 143.956 ms stddev 84.399
+progress: 35.0 s, 6858.0 tps, lat 147.550 ms stddev 78.397
+progress: 36.0 s, 6834.0 tps, lat 146.721 ms stddev 77.173
+progress: 37.0 s, 6585.0 tps, lat 149.672 ms stddev 78.092
+progress: 38.0 s, 215.0 tps, lat 590.714 ms stddev 279.139
+progress: 39.0 s, 4055.1 tps, lat 466.467 ms stddev 595.212
+progress: 40.0 s, 6711.0 tps, lat 148.515 ms stddev 77.145
+progress: 41.0 s, 6813.0 tps, lat 145.358 ms stddev 75.988
+progress: 42.0 s, 6290.0 tps, lat 160.806 ms stddev 82.823
+progress: 43.0 s, 7079.0 tps, lat 141.453 ms stddev 73.913
+progress: 44.0 s, 7160.0 tps, lat 139.140 ms stddev 72.743
+progress: 45.0 s, 7059.0 tps, lat 141.142 ms stddev 87.048
+progress: 46.0 s, 7224.0 tps, lat 139.020 ms stddev 73.239
+progress: 47.0 s, 6900.0 tps, lat 144.751 ms stddev 74.571
+progress: 48.0 s, 7160.0 tps, lat 140.503 ms stddev 74.110
+progress: 49.0 s, 7023.0 tps, lat 141.486 ms stddev 73.537
+progress: 50.0 s, 7145.1 tps, lat 140.485 ms stddev 74.242
+progress: 51.0 s, 7102.0 tps, lat 140.377 ms stddev 71.944
+progress: 52.0 s, 7102.0 tps, lat 141.552 ms stddev 72.348
+progress: 53.0 s, 6956.9 tps, lat 137.050 ms stddev 79.262
+progress: 54.0 s, 7185.0 tps, lat 145.382 ms stddev 80.592
+progress: 55.0 s, 7032.0 tps, lat 142.048 ms stddev 72.632
+progress: 56.0 s, 7218.0 tps, lat 138.539 ms stddev 73.019
+progress: 57.0 s, 6995.0 tps, lat 142.551 ms stddev 74.149
+progress: 58.0 s, 7188.0 tps, lat 139.482 ms stddev 72.346
+progress: 59.0 s, 7139.0 tps, lat 139.814 ms stddev 72.929
+progress: 60.0 s, 7057.0 tps, lat 141.574 ms stddev 72.837
+progress: 61.0 s, 6884.0 tps, lat 145.133 ms stddev 75.672
+progress: 62.0 s, 7135.0 tps, lat 141.220 ms stddev 78.589
+progress: 63.0 s, 7397.0 tps, lat 136.836 ms stddev 71.699
+progress: 64.0 s, 7087.0 tps, lat 139.225 ms stddev 74.523
+progress: 65.0 s, 7184.0 tps, lat 138.509 ms stddev 72.902
+progress: 66.0 s, 7217.0 tps, lat 139.348 ms stddev 73.882
+progress: 67.0 s, 7175.0 tps, lat 139.090 ms stddev 71.771
+progress: 68.0 s, 7254.0 tps, lat 138.280 ms stddev 72.033
+progress: 69.0 s, 7195.0 tps, lat 138.570 ms stddev 70.656
+progress: 70.0 s, 6659.0 tps, lat 149.096 ms stddev 77.972
+progress: 71.0 s, 6549.0 tps, lat 154.098 ms stddev 87.760
+progress: 72.0 s, 7236.1 tps, lat 137.814 ms stddev 72.284
+progress: 73.0 s, 7248.0 tps, lat 137.720 ms stddev 71.965
+progress: 74.0 s, 7274.0 tps, lat 138.022 ms stddev 71.468
+progress: 75.0 s, 6791.0 tps, lat 145.761 ms stddev 76.407
+progress: 76.0 s, 7328.0 tps, lat 137.802 ms stddev 74.364
+progress: 77.0 s, 7190.0 tps, lat 139.255 ms stddev 70.851
+progress: 78.0 s, 7327.0 tps, lat 136.035 ms stddev 69.855
+progress: 79.0 s, 7163.0 tps, lat 139.048 ms stddev 83.656
+progress: 80.0 s, 6636.0 tps, lat 149.425 ms stddev 81.007
+progress: 81.0 s, 7256.0 tps, lat 139.690 ms stddev 72.965
+progress: 82.0 s, 7254.0 tps, lat 137.719 ms stddev 72.073
+progress: 83.0 s, 7109.0 tps, lat 140.147 ms stddev 71.961
+progress: 84.0 s, 7304.0 tps, lat 137.909 ms stddev 71.909
+progress: 85.0 s, 7265.0 tps, lat 137.443 ms stddev 71.000
+progress: 86.0 s, 7217.0 tps, lat 138.463 ms stddev 72.440
+progress: 87.0 s, 7204.0 tps, lat 138.770 ms stddev 72.635
+progress: 88.0 s, 6927.0 tps, lat 143.826 ms stddev 86.614
+progress: 89.0 s, 7104.0 tps, lat 141.202 ms stddev 73.336
+progress: 90.0 s, 7237.1 tps, lat 138.298 ms stddev 73.456
+progress: 91.0 s, 7221.9 tps, lat 138.348 ms stddev 71.951
+progress: 92.0 s, 7289.0 tps, lat 137.549 ms stddev 71.972
+progress: 93.0 s, 7191.0 tps, lat 138.652 ms stddev 73.640
+progress: 94.0 s, 7282.0 tps, lat 137.388 ms stddev 72.180
+progress: 95.0 s, 7191.0 tps, lat 138.681 ms stddev 71.384
+progress: 96.0 s, 7028.0 tps, lat 135.736 ms stddev 76.852
+progress: 97.0 s, 7193.0 tps, lat 145.010 ms stddev 81.777
+progress: 98.0 s, 7292.0 tps, lat 138.280 ms stddev 72.904
+progress: 99.0 s, 7238.0 tps, lat 137.423 ms stddev 71.778
+progress: 100.0 s, 6772.0 tps, lat 148.389 ms stddev 77.732
+progress: 101.0 s, 7079.0 tps, lat 140.884 ms stddev 73.652
+progress: 102.0 s, 7231.0 tps, lat 138.949 ms stddev 73.748
+progress: 103.0 s, 6619.0 tps, lat 148.268 ms stddev 76.886
+progress: 104.0 s, 6647.0 tps, lat 151.986 ms stddev 81.510
+progress: 105.0 s, 7152.0 tps, lat 140.242 ms stddev 85.768
+progress: 106.0 s, 7191.0 tps, lat 139.035 ms stddev 71.358
+progress: 107.0 s, 7142.0 tps, lat 139.629 ms stddev 72.298
+progress: 108.0 s, 7300.0 tps, lat 137.684 ms stddev 71.175
+progress: 109.0 s, 6740.0 tps, lat 148.141 ms stddev 78.414
+progress: 110.0 s, 7208.0 tps, lat 138.538 ms stddev 72.818
+progress: 111.0 s, 7334.0 tps, lat 136.842 ms stddev 72.024
+progress: 112.0 s, 7252.0 tps, lat 138.128 ms stddev 72.341
+progress: 113.0 s, 7234.0 tps, lat 137.901 ms stddev 71.322
+progress: 114.0 s, 7101.0 tps, lat 140.482 ms stddev 81.501
+progress: 115.0 s, 7249.0 tps, lat 137.671 ms stddev 70.379
+progress: 116.0 s, 7284.0 tps, lat 138.136 ms stddev 71.094
+progress: 117.0 s, 7262.9 tps, lat 137.117 ms stddev 72.887
+progress: 118.0 s, 7333.0 tps, lat 136.611 ms stddev 71.569
+progress: 119.0 s, 7265.0 tps, lat 137.754 ms stddev 71.918
+progress: 120.0 s, 7259.3 tps, lat 137.700 ms stddev 72.403
+progress: 121.0 s, 648.9 tps, lat 448.652 ms stddev 238.921
+progress: 122.0 s, 214.0 tps, lat 1522.654 ms stddev 318.699
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 1000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 817517
+latency average = 145.923 ms
+latency stddev = 98.342 ms
+tps = 6678.371918 (including connections establishing)
+tps = 6680.306141 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        19.366  BEGIN;
+        21.447  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        19.456  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        19.642  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        20.025  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        21.773  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        24.201  END;
+Time: 20210402114157, now running pgbench with c of:  + 1500
+progress: 2.2 s, 161.0 tps, lat 298.745 ms stddev 159.088
+progress: 3.0 s, 3771.2 tps, lat 541.712 ms stddev 345.477
+progress: 4.0 s, 5350.1 tps, lat 289.401 ms stddev 160.411
+progress: 5.0 s, 6294.7 tps, lat 245.192 ms stddev 128.118
+progress: 6.0 s, 6430.0 tps, lat 231.101 ms stddev 117.439
+progress: 7.0 s, 6429.0 tps, lat 229.955 ms stddev 115.558
+progress: 8.0 s, 5586.0 tps, lat 266.352 ms stddev 132.542
+progress: 9.0 s, 6500.0 tps, lat 238.292 ms stddev 125.011
+progress: 10.0 s, 6650.1 tps, lat 224.639 ms stddev 113.464
+progress: 11.0 s, 6646.0 tps, lat 227.582 ms stddev 114.965
+progress: 12.0 s, 6637.1 tps, lat 224.480 ms stddev 113.504
+progress: 13.0 s, 6727.2 tps, lat 223.340 ms stddev 113.633
+progress: 14.0 s, 6401.7 tps, lat 228.366 ms stddev 114.952
+progress: 15.0 s, 6700.0 tps, lat 229.176 ms stddev 116.989
+progress: 16.0 s, 6684.9 tps, lat 224.776 ms stddev 114.509
+progress: 17.0 s, 6632.1 tps, lat 226.611 ms stddev 115.744
+progress: 18.0 s, 6635.0 tps, lat 225.318 ms stddev 113.364
+progress: 19.0 s, 6689.9 tps, lat 225.531 ms stddev 115.741
+progress: 20.0 s, 6709.1 tps, lat 222.707 ms stddev 111.299
+progress: 21.0 s, 6596.4 tps, lat 226.415 ms stddev 113.956
+progress: 22.0 s, 6724.9 tps, lat 225.034 ms stddev 114.054
+progress: 23.0 s, 6804.7 tps, lat 219.896 ms stddev 113.257
+progress: 24.0 s, 6589.0 tps, lat 227.871 ms stddev 115.449
+progress: 25.0 s, 6556.0 tps, lat 227.546 ms stddev 115.416
+progress: 26.0 s, 6662.0 tps, lat 226.418 ms stddev 113.575
+progress: 27.0 s, 6682.0 tps, lat 223.982 ms stddev 111.783
+progress: 28.0 s, 6583.0 tps, lat 226.974 ms stddev 115.023
+progress: 29.0 s, 6667.0 tps, lat 226.487 ms stddev 115.597
+progress: 30.0 s, 6825.9 tps, lat 219.905 ms stddev 111.797
+progress: 31.0 s, 6805.1 tps, lat 220.031 ms stddev 112.162
+progress: 32.0 s, 6856.9 tps, lat 220.355 ms stddev 110.026
+progress: 33.0 s, 6592.1 tps, lat 226.711 ms stddev 115.797
+progress: 34.0 s, 6659.3 tps, lat 222.666 ms stddev 113.358
+progress: 35.0 s, 6790.7 tps, lat 222.071 ms stddev 112.138
+progress: 36.0 s, 6864.0 tps, lat 219.807 ms stddev 111.482
+progress: 37.0 s, 6492.0 tps, lat 227.361 ms stddev 115.726
+progress: 38.0 s, 6117.0 tps, lat 246.897 ms stddev 127.557
+progress: 39.0 s, 6197.0 tps, lat 239.896 ms stddev 121.497
+progress: 40.0 s, 6136.0 tps, lat 249.394 ms stddev 128.473
+progress: 41.0 s, 6759.0 tps, lat 220.038 ms stddev 112.630
+progress: 42.0 s, 6683.0 tps, lat 226.475 ms stddev 115.474
+progress: 43.0 s, 6814.0 tps, lat 218.367 ms stddev 111.943
+progress: 44.0 s, 6775.0 tps, lat 221.952 ms stddev 112.981
+progress: 45.0 s, 6689.9 tps, lat 224.494 ms stddev 112.736
+progress: 46.0 s, 6898.1 tps, lat 216.780 ms stddev 109.605
+progress: 47.0 s, 6884.9 tps, lat 219.073 ms stddev 111.337
+progress: 48.0 s, 6767.5 tps, lat 219.915 ms stddev 109.674
+progress: 49.0 s, 6823.9 tps, lat 220.116 ms stddev 113.648
+progress: 50.0 s, 6906.7 tps, lat 217.927 ms stddev 110.363
+progress: 51.0 s, 6693.3 tps, lat 225.028 ms stddev 114.636
+progress: 52.0 s, 6785.0 tps, lat 219.929 ms stddev 112.773
+progress: 53.0 s, 6879.7 tps, lat 218.568 ms stddev 111.740
+progress: 54.0 s, 6815.0 tps, lat 219.871 ms stddev 111.128
+progress: 55.0 s, 6750.0 tps, lat 220.624 ms stddev 110.126
+progress: 56.0 s, 6854.0 tps, lat 221.247 ms stddev 113.260
+progress: 57.0 s, 6740.0 tps, lat 221.388 ms stddev 111.427
+progress: 58.0 s, 6781.0 tps, lat 220.826 ms stddev 110.370
+progress: 59.0 s, 6808.0 tps, lat 220.176 ms stddev 112.415
+progress: 60.0 s, 6818.0 tps, lat 222.397 ms stddev 112.096
+progress: 61.0 s, 6819.9 tps, lat 218.206 ms stddev 110.031
+progress: 62.0 s, 6846.2 tps, lat 218.466 ms stddev 110.334
+progress: 63.0 s, 6801.9 tps, lat 220.246 ms stddev 113.241
+progress: 64.0 s, 6837.0 tps, lat 221.063 ms stddev 111.475
+progress: 65.0 s, 6777.0 tps, lat 221.105 ms stddev 111.818
+progress: 66.0 s, 6853.3 tps, lat 218.152 ms stddev 111.116
+progress: 67.0 s, 6701.7 tps, lat 220.210 ms stddev 112.896
+progress: 68.0 s, 5707.3 tps, lat 261.914 ms stddev 130.576
+progress: 69.0 s, 6506.8 tps, lat 230.539 ms stddev 120.038
+progress: 70.0 s, 6935.9 tps, lat 220.345 ms stddev 113.135
+progress: 71.0 s, 6909.0 tps, lat 217.240 ms stddev 110.915
+progress: 72.0 s, 6820.1 tps, lat 219.741 ms stddev 110.167
+progress: 73.0 s, 6892.2 tps, lat 218.385 ms stddev 111.604
+progress: 74.0 s, 6809.1 tps, lat 219.840 ms stddev 111.807
+progress: 75.0 s, 6863.7 tps, lat 219.115 ms stddev 109.927
+progress: 76.0 s, 6767.0 tps, lat 221.192 ms stddev 111.489
+progress: 77.0 s, 6798.3 tps, lat 220.273 ms stddev 112.308
+progress: 78.0 s, 6657.7 tps, lat 220.109 ms stddev 110.648
+progress: 79.0 s, 6884.0 tps, lat 223.249 ms stddev 114.204
+progress: 80.0 s, 6754.2 tps, lat 221.731 ms stddev 114.483
+progress: 81.0 s, 6876.8 tps, lat 218.255 ms stddev 111.567
+progress: 82.0 s, 6896.0 tps, lat 217.562 ms stddev 111.107
+progress: 83.0 s, 6835.0 tps, lat 220.405 ms stddev 112.841
+progress: 84.0 s, 6781.9 tps, lat 219.518 ms stddev 110.515
+progress: 85.0 s, 6890.0 tps, lat 219.590 ms stddev 113.898
+progress: 86.0 s, 6702.0 tps, lat 222.723 ms stddev 114.146
+progress: 87.0 s, 6705.0 tps, lat 221.097 ms stddev 112.160
+progress: 88.0 s, 6494.4 tps, lat 233.294 ms stddev 122.420
+progress: 89.0 s, 6707.6 tps, lat 223.540 ms stddev 112.723
+progress: 90.0 s, 6764.0 tps, lat 221.401 ms stddev 112.609
+progress: 91.0 s, 6799.9 tps, lat 221.277 ms stddev 113.467
+progress: 92.0 s, 6711.1 tps, lat 221.213 ms stddev 112.333
+progress: 93.0 s, 6753.0 tps, lat 224.190 ms stddev 114.192
+progress: 94.0 s, 6762.0 tps, lat 219.927 ms stddev 112.074
+progress: 95.0 s, 6806.9 tps, lat 221.818 ms stddev 114.130
+progress: 96.0 s, 6838.1 tps, lat 220.160 ms stddev 112.659
+progress: 97.0 s, 6568.9 tps, lat 224.298 ms stddev 112.034
+progress: 98.0 s, 6343.1 tps, lat 239.754 ms stddev 122.303
+progress: 99.0 s, 5985.1 tps, lat 245.929 ms stddev 122.867
+progress: 100.0 s, 6039.9 tps, lat 253.500 ms stddev 136.043
+progress: 101.0 s, 6892.0 tps, lat 219.317 ms stddev 110.181
+progress: 102.0 s, 6853.0 tps, lat 217.559 ms stddev 110.175
+progress: 103.0 s, 6740.0 tps, lat 222.590 ms stddev 113.214
+progress: 104.0 s, 6758.0 tps, lat 221.789 ms stddev 113.289
+progress: 105.0 s, 6750.0 tps, lat 222.977 ms stddev 113.668
+progress: 106.0 s, 6479.0 tps, lat 230.362 ms stddev 115.615
+progress: 107.0 s, 6386.0 tps, lat 234.423 ms stddev 117.947
+progress: 108.0 s, 6811.0 tps, lat 221.360 ms stddev 112.022
+progress: 109.0 s, 6630.0 tps, lat 224.049 ms stddev 112.705
+progress: 110.0 s, 6739.9 tps, lat 224.832 ms stddev 114.427
+progress: 111.0 s, 6783.2 tps, lat 220.958 ms stddev 112.192
+progress: 112.0 s, 6746.3 tps, lat 222.156 ms stddev 113.827
+progress: 113.0 s, 6743.1 tps, lat 222.259 ms stddev 114.777
+progress: 114.0 s, 6814.9 tps, lat 219.204 ms stddev 110.298
+progress: 115.0 s, 6706.0 tps, lat 226.607 ms stddev 119.765
+progress: 116.0 s, 6768.9 tps, lat 219.777 ms stddev 113.961
+progress: 117.0 s, 6737.9 tps, lat 222.706 ms stddev 112.630
+progress: 118.0 s, 6816.9 tps, lat 219.309 ms stddev 112.407
+progress: 119.0 s, 6724.0 tps, lat 224.187 ms stddev 113.669
+progress: 120.0 s, 6885.3 tps, lat 218.085 ms stddev 111.681
+progress: 121.0 s, 642.0 tps, lat 655.582 ms stddev 315.913
+progress: 122.0 s, 703.0 tps, lat 1733.349 ms stddev 297.045
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 1500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 785674
+latency average = 228.245 ms
+latency stddev = 130.920 ms
+tps = 6413.642878 (including connections establishing)
+tps = 6414.912581 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.000  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        31.633  BEGIN;
+        32.554  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        30.985  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        31.248  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        32.233  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        32.701  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        36.875  END;
+Time: 20210402114359, now running pgbench with c of:  + 2000
+progress: 4.7 s, 13.6 tps, lat 447.639 ms stddev 163.895
+progress: 5.0 s, 284.8 tps, lat 640.758 ms stddev 182.799
+progress: 6.0 s, 3400.1 tps, lat 850.464 ms stddev 497.737
+progress: 7.0 s, 5003.0 tps, lat 415.650 ms stddev 241.499
+progress: 8.0 s, 5525.0 tps, lat 374.093 ms stddev 194.298
+progress: 9.0 s, 6158.0 tps, lat 326.648 ms stddev 164.050
+progress: 10.0 s, 6333.0 tps, lat 322.176 ms stddev 162.510
+progress: 11.0 s, 6282.0 tps, lat 314.036 ms stddev 157.555
+progress: 12.0 s, 6371.0 tps, lat 314.503 ms stddev 159.096
+progress: 13.0 s, 6214.0 tps, lat 323.847 ms stddev 160.663
+progress: 14.0 s, 6556.0 tps, lat 306.923 ms stddev 155.184
+progress: 15.0 s, 6481.0 tps, lat 306.466 ms stddev 153.805
+progress: 16.0 s, 6505.0 tps, lat 309.672 ms stddev 153.790
+progress: 17.0 s, 6511.0 tps, lat 305.030 ms stddev 154.401
+progress: 18.0 s, 6491.0 tps, lat 307.913 ms stddev 158.907
+progress: 19.0 s, 6498.0 tps, lat 307.151 ms stddev 153.979
+progress: 20.0 s, 6379.0 tps, lat 315.863 ms stddev 156.531
+progress: 21.0 s, 6527.0 tps, lat 306.804 ms stddev 154.814
+progress: 22.0 s, 6458.9 tps, lat 305.484 ms stddev 157.386
+progress: 23.0 s, 6468.0 tps, lat 313.125 ms stddev 161.274
+progress: 24.0 s, 6559.0 tps, lat 305.363 ms stddev 153.194
+progress: 25.0 s, 6460.0 tps, lat 307.566 ms stddev 156.001
+progress: 26.0 s, 6486.0 tps, lat 308.907 ms stddev 156.083
+progress: 27.0 s, 6616.1 tps, lat 304.535 ms stddev 154.889
+progress: 28.0 s, 6478.0 tps, lat 307.465 ms stddev 155.403
+progress: 29.0 s, 6434.1 tps, lat 309.888 ms stddev 153.519
+progress: 30.0 s, 6484.0 tps, lat 307.221 ms stddev 154.143
+progress: 31.0 s, 6416.0 tps, lat 310.891 ms stddev 158.726
+progress: 32.0 s, 6534.0 tps, lat 306.528 ms stddev 152.503
+progress: 33.0 s, 6464.0 tps, lat 310.398 ms stddev 155.838
+progress: 34.0 s, 6525.0 tps, lat 306.253 ms stddev 153.659
+progress: 35.0 s, 5851.0 tps, lat 340.582 ms stddev 172.852
+progress: 36.0 s, 5661.0 tps, lat 341.694 ms stddev 169.714
+progress: 37.0 s, 5779.0 tps, lat 358.580 ms stddev 184.567
+progress: 38.0 s, 6643.0 tps, lat 304.484 ms stddev 154.722
+progress: 39.0 s, 6385.0 tps, lat 310.961 ms stddev 150.837
+progress: 40.0 s, 6638.0 tps, lat 302.335 ms stddev 153.386
+progress: 41.0 s, 6508.0 tps, lat 304.892 ms stddev 150.858
+progress: 42.0 s, 6521.0 tps, lat 309.142 ms stddev 155.884
+progress: 43.0 s, 6407.0 tps, lat 312.837 ms stddev 158.777
+progress: 44.0 s, 6538.0 tps, lat 302.072 ms stddev 152.137
+progress: 45.0 s, 6596.0 tps, lat 305.680 ms stddev 154.225
+progress: 46.0 s, 6610.0 tps, lat 302.687 ms stddev 153.464
+progress: 47.0 s, 6492.0 tps, lat 307.277 ms stddev 156.628
+progress: 48.0 s, 6476.9 tps, lat 311.923 ms stddev 156.590
+progress: 49.0 s, 6383.0 tps, lat 309.462 ms stddev 157.460
+progress: 50.0 s, 6626.0 tps, lat 302.194 ms stddev 154.571
+progress: 51.0 s, 6619.0 tps, lat 301.838 ms stddev 154.418
+progress: 52.0 s, 6648.0 tps, lat 301.235 ms stddev 151.112
+progress: 53.0 s, 6474.0 tps, lat 308.463 ms stddev 154.058
+progress: 54.0 s, 6604.0 tps, lat 304.600 ms stddev 151.721
+progress: 55.0 s, 6639.0 tps, lat 301.518 ms stddev 152.288
+progress: 56.0 s, 6396.9 tps, lat 311.348 ms stddev 155.295
+progress: 57.0 s, 6633.0 tps, lat 302.912 ms stddev 151.091
+progress: 58.0 s, 6418.0 tps, lat 311.344 ms stddev 151.894
+progress: 59.0 s, 6525.0 tps, lat 305.651 ms stddev 152.195
+progress: 60.0 s, 6558.0 tps, lat 304.679 ms stddev 150.773
+progress: 61.0 s, 6598.0 tps, lat 304.365 ms stddev 152.372
+progress: 62.0 s, 6570.9 tps, lat 302.325 ms stddev 150.741
+progress: 63.0 s, 6028.0 tps, lat 331.519 ms stddev 168.137
+progress: 64.0 s, 6635.0 tps, lat 302.296 ms stddev 152.066
+progress: 65.0 s, 5524.0 tps, lat 349.272 ms stddev 169.627
+progress: 66.0 s, 6210.0 tps, lat 334.885 ms stddev 173.597
+progress: 67.0 s, 6508.0 tps, lat 308.088 ms stddev 151.359
+progress: 68.0 s, 6678.0 tps, lat 300.493 ms stddev 153.998
+progress: 69.0 s, 6629.0 tps, lat 297.411 ms stddev 148.497
+progress: 70.0 s, 6460.9 tps, lat 309.693 ms stddev 154.635
+progress: 71.0 s, 6604.1 tps, lat 304.120 ms stddev 154.173
+progress: 72.0 s, 6560.0 tps, lat 304.798 ms stddev 153.102
+progress: 73.0 s, 6494.0 tps, lat 306.454 ms stddev 154.848
+progress: 74.0 s, 6641.0 tps, lat 303.879 ms stddev 155.658
+progress: 75.0 s, 6564.0 tps, lat 304.268 ms stddev 150.031
+progress: 76.0 s, 6627.0 tps, lat 302.468 ms stddev 153.148
+progress: 77.0 s, 6375.0 tps, lat 309.932 ms stddev 155.536
+progress: 78.0 s, 6646.0 tps, lat 303.352 ms stddev 153.848
+progress: 79.0 s, 6308.0 tps, lat 316.026 ms stddev 159.377
+progress: 80.0 s, 6620.0 tps, lat 302.078 ms stddev 154.281
+progress: 81.0 s, 6460.0 tps, lat 308.704 ms stddev 155.203
+progress: 82.0 s, 6550.0 tps, lat 309.243 ms stddev 154.783
+progress: 83.0 s, 6555.0 tps, lat 303.032 ms stddev 153.556
+progress: 84.0 s, 5993.0 tps, lat 333.406 ms stddev 168.971
+progress: 85.0 s, 6514.0 tps, lat 306.108 ms stddev 156.371
+progress: 86.0 s, 6487.0 tps, lat 315.331 ms stddev 156.217
+progress: 87.0 s, 6353.0 tps, lat 311.216 ms stddev 156.477
+progress: 88.0 s, 6706.9 tps, lat 298.885 ms stddev 149.289
+progress: 89.0 s, 6587.0 tps, lat 302.495 ms stddev 152.903
+progress: 90.0 s, 6617.0 tps, lat 300.206 ms stddev 148.768
+progress: 91.0 s, 6485.0 tps, lat 305.981 ms stddev 154.415
+progress: 92.0 s, 6590.0 tps, lat 306.819 ms stddev 156.552
+progress: 93.0 s, 6606.0 tps, lat 303.867 ms stddev 153.462
+progress: 94.0 s, 6640.0 tps, lat 299.480 ms stddev 151.423
+progress: 95.0 s, 5962.1 tps, lat 332.005 ms stddev 165.832
+progress: 96.0 s, 6368.8 tps, lat 315.445 ms stddev 156.801
+progress: 97.0 s, 6490.0 tps, lat 308.252 ms stddev 155.050
+progress: 98.0 s, 5428.0 tps, lat 349.205 ms stddev 172.985
+progress: 99.0 s, 5978.0 tps, lat 350.828 ms stddev 181.727
+progress: 100.0 s, 6738.0 tps, lat 302.241 ms stddev 152.174
+progress: 101.0 s, 6552.0 tps, lat 302.405 ms stddev 152.206
+progress: 102.0 s, 6630.0 tps, lat 303.666 ms stddev 152.966
+progress: 103.0 s, 6628.0 tps, lat 300.793 ms stddev 150.938
+progress: 104.0 s, 6741.9 tps, lat 298.058 ms stddev 148.310
+progress: 105.0 s, 6554.0 tps, lat 305.939 ms stddev 153.068
+progress: 106.0 s, 6625.0 tps, lat 300.332 ms stddev 149.643
+progress: 107.0 s, 6521.0 tps, lat 305.007 ms stddev 154.969
+progress: 108.0 s, 6715.0 tps, lat 298.511 ms stddev 149.480
+progress: 109.0 s, 6661.0 tps, lat 299.250 ms stddev 149.237
+progress: 110.0 s, 6783.0 tps, lat 297.275 ms stddev 150.599
+progress: 111.0 s, 6667.1 tps, lat 298.140 ms stddev 148.844
+progress: 112.0 s, 6569.9 tps, lat 302.899 ms stddev 151.650
+progress: 113.0 s, 6592.0 tps, lat 304.281 ms stddev 154.406
+progress: 114.0 s, 6416.0 tps, lat 305.401 ms stddev 153.476
+progress: 115.0 s, 6713.0 tps, lat 305.030 ms stddev 154.141
+progress: 116.0 s, 6478.0 tps, lat 310.123 ms stddev 155.516
+progress: 117.0 s, 6669.0 tps, lat 297.050 ms stddev 153.274
+progress: 118.0 s, 6679.0 tps, lat 302.944 ms stddev 152.984
+progress: 119.0 s, 6599.9 tps, lat 300.878 ms stddev 147.891
+progress: 120.0 s, 6637.3 tps, lat 301.378 ms stddev 154.786
+progress: 121.0 s, 443.0 tps, lat 645.691 ms stddev 322.698
+progress: 122.0 s, 430.0 tps, lat 1696.424 ms stddev 324.847
+progress: 123.0 s, 402.0 tps, lat 2674.940 ms stddev 310.391
+progress: 124.0 s, 586.9 tps, lat 3593.662 ms stddev 270.970
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 2000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 741213
+latency average = 318.385 ms
+latency stddev = 208.143 ms
+tps = 5947.744832 (including connections establishing)
+tps = 5950.123418 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.000  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        44.383  BEGIN;
+        45.330  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        43.447  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        43.796  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        45.994  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        44.892  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        50.509  END;
+Time: 20210402114605, now running pgbench with c of:  + 2500
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+progress: 6.0 s, 0.3 tps, lat 516.692 ms stddev 39.325
+progress: 7.0 s, 795.9 tps, lat 918.364 ms stddev 327.213
+progress: 8.0 s, 4300.8 tps, lat 863.318 ms stddev 599.174
+progress: 9.0 s, 4956.9 tps, lat 476.563 ms stddev 259.843
+progress: 10.0 s, 5581.2 tps, lat 432.530 ms stddev 221.806
+progress: 11.0 s, 6145.0 tps, lat 379.179 ms stddev 189.642
+progress: 12.0 s, 6157.0 tps, lat 368.168 ms stddev 185.227
+progress: 13.0 s, 6259.2 tps, lat 372.034 ms stddev 191.781
+progress: 14.0 s, 6346.8 tps, lat 362.133 ms stddev 180.912
+progress: 15.0 s, 6457.9 tps, lat 360.755 ms stddev 181.776
+progress: 16.0 s, 6457.1 tps, lat 355.926 ms stddev 177.154
+progress: 17.0 s, 6339.2 tps, lat 361.098 ms stddev 179.258
+progress: 18.0 s, 6367.7 tps, lat 359.714 ms stddev 182.033
+progress: 19.0 s, 6429.0 tps, lat 359.047 ms stddev 181.341
+progress: 20.0 s, 6379.4 tps, lat 358.365 ms stddev 180.574
+progress: 21.0 s, 6290.6 tps, lat 366.324 ms stddev 182.382
+progress: 22.0 s, 6407.1 tps, lat 359.555 ms stddev 182.094
+progress: 23.0 s, 6529.0 tps, lat 354.463 ms stddev 177.938
+progress: 24.0 s, 6331.9 tps, lat 360.007 ms stddev 178.204
+progress: 25.0 s, 6406.1 tps, lat 358.624 ms stddev 184.216
+progress: 26.0 s, 6401.5 tps, lat 364.662 ms stddev 185.207
+progress: 27.0 s, 6424.6 tps, lat 356.986 ms stddev 177.256
+progress: 28.0 s, 6356.4 tps, lat 355.260 ms stddev 176.897
+progress: 29.0 s, 6556.5 tps, lat 358.897 ms stddev 183.938
+progress: 30.0 s, 5182.0 tps, lat 402.536 ms stddev 191.890
+progress: 31.0 s, 5568.0 tps, lat 437.383 ms stddev 221.683
+progress: 32.0 s, 6430.4 tps, lat 366.379 ms stddev 185.499
+progress: 33.0 s, 6358.6 tps, lat 359.928 ms stddev 178.517
+progress: 34.0 s, 6436.9 tps, lat 358.378 ms stddev 180.852
+progress: 35.0 s, 6389.0 tps, lat 358.887 ms stddev 182.165
+progress: 36.0 s, 6406.2 tps, lat 358.994 ms stddev 177.390
+progress: 37.0 s, 6335.3 tps, lat 364.660 ms stddev 183.951
+progress: 38.0 s, 6409.5 tps, lat 359.677 ms stddev 183.606
+progress: 39.0 s, 6419.1 tps, lat 357.547 ms stddev 179.362
+progress: 40.0 s, 6312.9 tps, lat 362.700 ms stddev 178.552
+progress: 41.0 s, 6473.1 tps, lat 357.607 ms stddev 183.946
+progress: 42.0 s, 6207.0 tps, lat 368.288 ms stddev 187.000
+progress: 43.0 s, 6326.1 tps, lat 363.080 ms stddev 180.959
+progress: 44.0 s, 6300.0 tps, lat 366.395 ms stddev 183.228
+progress: 45.0 s, 6466.8 tps, lat 355.899 ms stddev 177.563
+progress: 46.0 s, 6438.0 tps, lat 358.569 ms stddev 174.204
+progress: 47.0 s, 6476.1 tps, lat 356.184 ms stddev 173.325
+progress: 48.0 s, 6405.1 tps, lat 355.306 ms stddev 178.368
+progress: 49.0 s, 6310.0 tps, lat 362.598 ms stddev 183.121
+progress: 50.0 s, 6183.4 tps, lat 369.277 ms stddev 184.520
+progress: 51.0 s, 6346.6 tps, lat 368.453 ms stddev 185.249
+progress: 52.0 s, 5897.0 tps, lat 387.611 ms stddev 192.754
+progress: 53.0 s, 6431.9 tps, lat 361.735 ms stddev 184.926
+progress: 54.0 s, 6385.0 tps, lat 356.461 ms stddev 180.775
+progress: 55.0 s, 6499.5 tps, lat 355.624 ms stddev 179.497
+progress: 56.0 s, 6385.0 tps, lat 356.426 ms stddev 178.772
+progress: 57.0 s, 6399.6 tps, lat 362.429 ms stddev 182.950
+progress: 58.0 s, 6486.0 tps, lat 357.572 ms stddev 179.091
+progress: 59.0 s, 6467.3 tps, lat 355.272 ms stddev 178.390
+progress: 60.0 s, 5683.2 tps, lat 389.305 ms stddev 186.700
+progress: 61.0 s, 6319.4 tps, lat 375.802 ms stddev 198.049
+progress: 62.0 s, 6370.1 tps, lat 360.872 ms stddev 179.126
+progress: 63.0 s, 6418.1 tps, lat 359.437 ms stddev 180.488
+progress: 64.0 s, 5796.3 tps, lat 378.481 ms stddev 186.896
+progress: 65.0 s, 5179.9 tps, lat 440.493 ms stddev 212.564
+progress: 66.0 s, 6174.7 tps, lat 389.726 ms stddev 206.704
+progress: 67.0 s, 6573.0 tps, lat 353.867 ms stddev 176.641
+progress: 68.0 s, 6444.0 tps, lat 356.346 ms stddev 177.305
+progress: 69.0 s, 6386.0 tps, lat 357.789 ms stddev 180.321
+progress: 70.0 s, 6477.9 tps, lat 357.880 ms stddev 179.571
+progress: 71.0 s, 6236.1 tps, lat 367.856 ms stddev 181.189
+progress: 72.0 s, 6392.0 tps, lat 355.864 ms stddev 179.205
+progress: 73.0 s, 6485.0 tps, lat 361.167 ms stddev 182.885
+progress: 74.0 s, 6533.9 tps, lat 351.145 ms stddev 176.620
+progress: 75.0 s, 6310.1 tps, lat 362.163 ms stddev 179.991
+progress: 76.0 s, 6469.0 tps, lat 353.366 ms stddev 176.373
+progress: 77.0 s, 6545.8 tps, lat 355.532 ms stddev 177.963
+progress: 78.0 s, 6381.2 tps, lat 356.729 ms stddev 181.776
+progress: 79.0 s, 6309.9 tps, lat 367.097 ms stddev 183.437
+progress: 80.0 s, 6409.6 tps, lat 358.107 ms stddev 181.188
+progress: 81.0 s, 6465.8 tps, lat 357.462 ms stddev 178.717
+progress: 82.0 s, 6438.1 tps, lat 353.275 ms stddev 178.950
+progress: 83.0 s, 6474.6 tps, lat 357.317 ms stddev 178.741
+progress: 84.0 s, 6508.4 tps, lat 352.558 ms stddev 179.158
+progress: 85.0 s, 6435.0 tps, lat 359.218 ms stddev 178.695
+progress: 86.0 s, 6453.6 tps, lat 356.279 ms stddev 180.899
+progress: 87.0 s, 6387.0 tps, lat 360.050 ms stddev 183.264
+progress: 88.0 s, 6421.3 tps, lat 356.659 ms stddev 181.028
+progress: 89.0 s, 6356.7 tps, lat 359.161 ms stddev 177.196
+progress: 90.0 s, 5649.0 tps, lat 390.099 ms stddev 192.970
+progress: 91.0 s, 5403.9 tps, lat 434.413 ms stddev 218.787
+progress: 92.0 s, 6348.2 tps, lat 372.614 ms stddev 198.144
+progress: 93.0 s, 6585.9 tps, lat 353.174 ms stddev 178.177
+progress: 94.0 s, 6399.0 tps, lat 355.197 ms stddev 178.066
+progress: 95.0 s, 6401.4 tps, lat 360.034 ms stddev 182.615
+progress: 96.0 s, 6491.9 tps, lat 354.173 ms stddev 174.463
+progress: 97.0 s, 6452.7 tps, lat 355.700 ms stddev 176.633
+progress: 98.0 s, 6277.1 tps, lat 359.441 ms stddev 175.984
+progress: 99.0 s, 6574.9 tps, lat 358.674 ms stddev 177.536
+progress: 100.0 s, 6478.0 tps, lat 353.014 ms stddev 175.279
+progress: 101.0 s, 6468.0 tps, lat 356.511 ms stddev 178.481
+progress: 102.0 s, 6408.8 tps, lat 360.740 ms stddev 183.556
+progress: 103.0 s, 6484.0 tps, lat 355.166 ms stddev 180.458
+progress: 104.0 s, 6580.1 tps, lat 351.397 ms stddev 179.038
+progress: 105.0 s, 6435.1 tps, lat 352.314 ms stddev 177.098
+progress: 106.0 s, 6547.0 tps, lat 354.195 ms stddev 177.769
+progress: 107.0 s, 6509.9 tps, lat 352.157 ms stddev 175.222
+progress: 108.0 s, 6320.0 tps, lat 360.058 ms stddev 178.184
+progress: 109.0 s, 6402.3 tps, lat 362.558 ms stddev 180.073
+progress: 110.0 s, 6315.7 tps, lat 360.997 ms stddev 178.960
+progress: 111.0 s, 6585.1 tps, lat 354.523 ms stddev 179.549
+progress: 112.0 s, 6467.0 tps, lat 352.276 ms stddev 177.487
+progress: 113.0 s, 6503.0 tps, lat 354.305 ms stddev 179.623
+progress: 114.0 s, 6480.0 tps, lat 353.576 ms stddev 173.411
+progress: 115.0 s, 6447.0 tps, lat 355.420 ms stddev 183.802
+progress: 116.0 s, 6243.0 tps, lat 370.411 ms stddev 187.376
+progress: 117.0 s, 6424.9 tps, lat 356.888 ms stddev 178.718
+progress: 118.0 s, 6530.1 tps, lat 352.740 ms stddev 179.298
+progress: 119.0 s, 6440.0 tps, lat 358.316 ms stddev 180.667
+progress: 120.0 s, 5814.6 tps, lat 383.038 ms stddev 186.374
+progress: 121.0 s, 404.0 tps, lat 788.413 ms stddev 379.282
+progress: 122.0 s, 424.0 tps, lat 1896.119 ms stddev 347.269
+progress: 123.0 s, 284.0 tps, lat 2723.980 ms stddev 328.589
+progress: 124.0 s, 394.0 tps, lat 3732.158 ms stddev 315.411
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 2500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 715404
+latency average = 376.470 ms
+latency stddev = 263.250 ms
+tps = 5727.508128 (including connections establishing)
+tps = 5729.806809 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.000  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        52.632  BEGIN;
+        53.368  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        51.286  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        52.041  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        54.836  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        52.829  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        59.451  END;
+Time: 20210402114810, now running pgbench with c of:  + 3000
+progress: 8.6 s, 4.0 tps, lat 538.394 ms stddev 214.570
+progress: 9.0 s, 270.3 tps, lat 867.034 ms stddev 237.528
+progress: 10.0 s, 1761.0 tps, lat 1349.404 ms stddev 587.223
+progress: 11.0 s, 4143.0 tps, lat 1243.536 ms stddev 894.108
+progress: 12.0 s, 4723.9 tps, lat 689.358 ms stddev 450.806
+progress: 13.0 s, 4902.0 tps, lat 621.013 ms stddev 312.585
+progress: 14.0 s, 5485.1 tps, lat 569.641 ms stddev 287.710
+progress: 15.0 s, 5930.9 tps, lat 511.505 ms stddev 261.264
+progress: 16.0 s, 5946.1 tps, lat 508.035 ms stddev 252.938
+progress: 17.0 s, 6073.9 tps, lat 496.833 ms stddev 244.892
+progress: 18.0 s, 6057.0 tps, lat 499.664 ms stddev 245.365
+progress: 19.0 s, 6192.2 tps, lat 488.290 ms stddev 241.881
+progress: 20.0 s, 5851.4 tps, lat 500.738 ms stddev 242.074
+progress: 21.0 s, 6045.5 tps, lat 499.859 ms stddev 246.960
+progress: 22.0 s, 6112.1 tps, lat 496.525 ms stddev 247.313
+progress: 23.0 s, 6172.0 tps, lat 480.519 ms stddev 237.358
+progress: 24.0 s, 5902.0 tps, lat 496.580 ms stddev 242.741
+progress: 25.0 s, 4809.9 tps, lat 589.723 ms stddev 278.042
+progress: 26.0 s, 5162.1 tps, lat 607.305 ms stddev 304.066
+progress: 27.0 s, 6067.0 tps, lat 506.891 ms stddev 266.418
+progress: 28.0 s, 5904.1 tps, lat 512.795 ms stddev 252.494
+progress: 29.0 s, 6234.9 tps, lat 483.776 ms stddev 247.662
+progress: 30.0 s, 6142.9 tps, lat 489.863 ms stddev 244.325
+progress: 31.0 s, 6063.1 tps, lat 489.695 ms stddev 243.693
+progress: 32.0 s, 6195.0 tps, lat 492.272 ms stddev 246.214
+progress: 33.0 s, 6070.0 tps, lat 484.533 ms stddev 241.558
+progress: 34.0 s, 6137.0 tps, lat 487.240 ms stddev 250.352
+progress: 35.0 s, 6206.0 tps, lat 485.347 ms stddev 241.015
+progress: 36.0 s, 6177.0 tps, lat 494.926 ms stddev 245.429
+progress: 37.0 s, 6129.4 tps, lat 484.243 ms stddev 240.139
+progress: 38.0 s, 6014.8 tps, lat 494.426 ms stddev 236.877
+progress: 39.0 s, 6062.0 tps, lat 497.141 ms stddev 244.928
+progress: 40.0 s, 6147.4 tps, lat 491.446 ms stddev 244.281
+progress: 41.0 s, 6210.5 tps, lat 482.461 ms stddev 236.116
+progress: 42.0 s, 6024.5 tps, lat 498.266 ms stddev 249.943
+progress: 43.0 s, 6158.4 tps, lat 485.853 ms stddev 246.871
+progress: 44.0 s, 5917.0 tps, lat 501.522 ms stddev 246.509
+progress: 45.0 s, 6275.1 tps, lat 483.207 ms stddev 249.252
+progress: 46.0 s, 6171.3 tps, lat 488.736 ms stddev 242.978
+progress: 47.0 s, 6317.8 tps, lat 477.930 ms stddev 240.269
+progress: 48.0 s, 6170.9 tps, lat 483.307 ms stddev 235.577
+progress: 49.0 s, 6202.1 tps, lat 477.036 ms stddev 236.842
+progress: 50.0 s, 6159.0 tps, lat 493.245 ms stddev 247.373
+progress: 51.0 s, 6010.1 tps, lat 494.025 ms stddev 242.046
+progress: 52.0 s, 6071.8 tps, lat 494.407 ms stddev 243.847
+progress: 53.0 s, 6316.1 tps, lat 483.610 ms stddev 244.003
+progress: 54.0 s, 5979.9 tps, lat 484.206 ms stddev 232.690
+progress: 55.0 s, 4487.9 tps, lat 626.259 ms stddev 292.375
+progress: 56.0 s, 4915.1 tps, lat 620.319 ms stddev 317.021
+progress: 57.0 s, 5841.0 tps, lat 537.847 ms stddev 290.370
+progress: 58.0 s, 6109.1 tps, lat 503.680 ms stddev 252.378
+progress: 59.0 s, 6071.0 tps, lat 492.330 ms stddev 242.192
+progress: 60.0 s, 5975.0 tps, lat 500.962 ms stddev 246.726
+progress: 61.0 s, 5860.0 tps, lat 500.743 ms stddev 247.939
+progress: 62.0 s, 6052.8 tps, lat 505.058 ms stddev 252.130
+progress: 63.0 s, 6133.2 tps, lat 495.713 ms stddev 246.010
+progress: 64.0 s, 6091.0 tps, lat 487.164 ms stddev 239.834
+progress: 65.0 s, 6269.9 tps, lat 483.651 ms stddev 239.200
+progress: 66.0 s, 6217.1 tps, lat 482.790 ms stddev 235.280
+progress: 67.0 s, 6218.0 tps, lat 474.477 ms stddev 234.650
+progress: 68.0 s, 6098.4 tps, lat 495.657 ms stddev 247.178
+progress: 69.0 s, 6147.4 tps, lat 490.166 ms stddev 242.120
+progress: 70.0 s, 6146.2 tps, lat 489.790 ms stddev 245.830
+progress: 71.0 s, 6236.3 tps, lat 478.984 ms stddev 239.655
+progress: 72.0 s, 6155.1 tps, lat 488.843 ms stddev 240.364
+progress: 73.0 s, 6402.8 tps, lat 468.017 ms stddev 229.658
+progress: 74.0 s, 6161.2 tps, lat 486.727 ms stddev 238.051
+progress: 75.0 s, 6172.5 tps, lat 485.859 ms stddev 246.783
+progress: 76.0 s, 6235.1 tps, lat 478.237 ms stddev 240.776
+progress: 77.0 s, 6183.1 tps, lat 487.733 ms stddev 243.251
+progress: 78.0 s, 6332.7 tps, lat 475.876 ms stddev 238.000
+progress: 79.0 s, 6029.2 tps, lat 487.120 ms stddev 239.655
+progress: 80.0 s, 6033.8 tps, lat 495.240 ms stddev 241.038
+progress: 81.0 s, 6074.3 tps, lat 497.102 ms stddev 247.584
+progress: 82.0 s, 6029.7 tps, lat 500.214 ms stddev 247.614
+progress: 83.0 s, 6233.6 tps, lat 486.737 ms stddev 243.319
+progress: 84.0 s, 6201.9 tps, lat 478.579 ms stddev 234.993
+progress: 85.0 s, 5276.7 tps, lat 550.725 ms stddev 263.670
+progress: 86.0 s, 6182.0 tps, lat 502.411 ms stddev 262.297
+progress: 87.0 s, 6091.9 tps, lat 490.587 ms stddev 240.466
+progress: 88.0 s, 5760.1 tps, lat 499.337 ms stddev 245.786
+progress: 89.0 s, 4636.0 tps, lat 621.608 ms stddev 288.885
+progress: 90.0 s, 5171.3 tps, lat 602.332 ms stddev 305.136
+progress: 91.0 s, 6192.7 tps, lat 503.023 ms stddev 264.814
+progress: 92.0 s, 5978.2 tps, lat 498.905 ms stddev 244.415
+progress: 93.0 s, 6387.1 tps, lat 484.111 ms stddev 241.243
+progress: 94.0 s, 6207.8 tps, lat 479.687 ms stddev 235.574
+progress: 95.0 s, 6151.0 tps, lat 481.691 ms stddev 238.501
+progress: 96.0 s, 6204.4 tps, lat 486.750 ms stddev 243.674
+progress: 97.0 s, 6226.9 tps, lat 481.656 ms stddev 241.994
+progress: 98.0 s, 5875.6 tps, lat 508.362 ms stddev 245.265
+progress: 99.0 s, 6046.1 tps, lat 485.398 ms stddev 242.850
+progress: 100.0 s, 6173.2 tps, lat 500.345 ms stddev 244.420
+progress: 101.0 s, 6251.6 tps, lat 484.122 ms stddev 241.952
+progress: 102.0 s, 6288.1 tps, lat 469.360 ms stddev 234.413
+progress: 103.0 s, 6227.2 tps, lat 481.958 ms stddev 239.556
+progress: 104.0 s, 6239.8 tps, lat 484.169 ms stddev 240.041
+progress: 105.0 s, 6165.0 tps, lat 480.063 ms stddev 237.387
+progress: 106.0 s, 6203.0 tps, lat 491.166 ms stddev 245.539
+progress: 107.0 s, 6207.9 tps, lat 482.895 ms stddev 244.312
+progress: 108.0 s, 6213.4 tps, lat 476.049 ms stddev 242.135
+progress: 109.0 s, 6027.8 tps, lat 491.554 ms stddev 241.622
+progress: 110.0 s, 6327.0 tps, lat 488.163 ms stddev 242.056
+progress: 111.0 s, 6220.9 tps, lat 474.921 ms stddev 233.680
+progress: 112.0 s, 6197.9 tps, lat 489.177 ms stddev 243.311
+progress: 113.0 s, 5967.6 tps, lat 498.106 ms stddev 241.833
+progress: 114.0 s, 6181.4 tps, lat 483.709 ms stddev 238.543
+progress: 115.0 s, 5012.1 tps, lat 556.526 ms stddev 270.673
+progress: 116.0 s, 5160.0 tps, lat 603.130 ms stddev 302.508
+progress: 117.0 s, 6087.9 tps, lat 510.731 ms stddev 268.185
+progress: 118.0 s, 6145.2 tps, lat 486.435 ms stddev 245.146
+progress: 119.0 s, 5870.9 tps, lat 487.486 ms stddev 240.328
+progress: 120.0 s, 6276.3 tps, lat 510.201 ms stddev 258.832
+progress: 121.0 s, 356.0 tps, lat 799.059 ms stddev 388.050
+progress: 122.0 s, 244.0 tps, lat 1881.617 ms stddev 351.360
+progress: 123.0 s, 223.0 tps, lat 2868.892 ms stddev 395.329
+progress: 124.0 s, 232.0 tps, lat 3871.319 ms stddev 337.972
+progress: 125.0 s, 284.0 tps, lat 4845.411 ms stddev 401.766
+progress: 126.0 s, 252.0 tps, lat 5782.332 ms stddev 373.216
+progress: 127.0 s, 283.0 tps, lat 6746.287 ms stddev 345.177
+progress: 128.0 s, 225.0 tps, lat 7766.401 ms stddev 361.238
+progress: 129.0 s, 388.0 tps, lat 8721.057 ms stddev 355.676
+progress: 130.0 s, 442.0 tps, lat 9751.435 ms stddev 301.489
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 3000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 662893
+latency average = 531.605 ms
+latency stddev = 490.850 ms
+tps = 5095.219089 (including connections establishing)
+tps = 5097.704689 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.000  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        74.304  BEGIN;
+        74.980  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        71.669  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        73.923  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        78.856  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        74.330  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        83.525  END;
+Time: 20210402115020, now running pgbench with c of:  + 3500
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 3500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 0
+Time: 20210402115045, now running pgbench with c of:  + 4000
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 4000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 690514
+latency average = 159.252 ms
+latency stddev = 96.098 ms
+tps = 5673.826808 (including connections establishing)
+tps = 5675.603008 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.000  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        22.425  BEGIN;
+        22.476  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        21.369  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        21.327  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        22.087  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        23.458  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        26.089  END;
+Time: 20210402115255, now running pgbench with c of:  + 4500
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 4500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 864654
+latency average = 18.365 ms
+latency stddev = 24.131 ms
+tps = 7192.273743 (including connections establishing)
+tps = 7192.659123 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.000  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+         2.047  BEGIN;
+         3.097  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+         1.941  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+         2.016  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+         2.082  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+         2.247  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+         4.934  END;
+Time: 20210402115456, now running pgbench with c of:  + 5000
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+connection to database "pgtest" failed:
+Authentication with backend failed. Session will be closed.
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 5000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 0
+Time: 20210402115506, now running pgbench with c of:  + 5500
+connection to database "pgtest" failed:
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+Time: 20210402115520, now running pgbench with c of:  + 6000
+connection to database "pgtest" failed:
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.

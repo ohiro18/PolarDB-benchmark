@@ -1,0 +1,145 @@
+mysql> select
+    ->         s_name,
+    ->         count(*) as numwait
+    -> from
+    ->         supplier,
+    ->         lineitem l1,
+    ->         orders,
+    ->         nation
+    -> where
+    ->         s_suppkey = l1.l_suppkey
+    ->         and o_orderkey = l1.l_orderkey
+    ->         and o_orderstatus = 'F'
+    ->         and l1.l_receiptdate > l1.l_commitdate
+    ->         and exists (
+    ->                 select
+    ->                         *
+    ->                 from
+    ->                         lineitem l2
+    ->                 where
+    ->                         l2.l_orderkey = l1.l_orderkey
+    ->                         and l2.l_suppkey <> l1.l_suppkey
+    ->         )
+    ->         and not exists (
+    ->                 select
+    ->                         *
+    ->                 from
+    ->                         lineitem l3
+    ->                 where
+    ->                         l3.l_orderkey = l1.l_orderkey
+    ->                         and l3.l_suppkey <> l1.l_suppkey
+    ->                         and l3.l_receiptdate > l3.l_commitdate
+    ->         )
+    ->         and s_nationkey = n_nationkey
+    ->         and n_name = 'PERU'
+    -> group by
+    ->         s_name
+    -> order by
+    ->         numwait desc,
+    ->         s_name
+    -> limit 100;
++--------------------+---------+
+| s_name             | numwait |
++--------------------+---------+
+| Supplier#000983751 |      28 |
+| Supplier#000362668 |      24 |
+| Supplier#000560443 |      24 |
+| Supplier#000043128 |      23 |
+| Supplier#000169986 |      23 |
+| Supplier#000533735 |      23 |
+| Supplier#000573867 |      23 |
+| Supplier#000658652 |      23 |
+| Supplier#000683588 |      23 |
+| Supplier#000082300 |      22 |
+| Supplier#000096221 |      22 |
+| Supplier#000103587 |      22 |
+| Supplier#000168177 |      22 |
+| Supplier#000190786 |      22 |
+| Supplier#000346277 |      22 |
+| Supplier#000639296 |      22 |
+| Supplier#000692699 |      22 |
+| Supplier#000791738 |      22 |
+| Supplier#000837920 |      22 |
+| Supplier#000031566 |      21 |
+| Supplier#000034919 |      21 |
+| Supplier#000083453 |      21 |
+| Supplier#000148315 |      21 |
+| Supplier#000154991 |      21 |
+| Supplier#000226672 |      21 |
+| Supplier#000262412 |      21 |
+| Supplier#000276159 |      21 |
+| Supplier#000306666 |      21 |
+| Supplier#000316315 |      21 |
+| Supplier#000335461 |      21 |
+| Supplier#000357462 |      21 |
+| Supplier#000359026 |      21 |
+| Supplier#000390470 |      21 |
+| Supplier#000407860 |      21 |
+| Supplier#000439688 |      21 |
+| Supplier#000495531 |      21 |
+| Supplier#000498221 |      21 |
+| Supplier#000577386 |      21 |
+| Supplier#000619057 |      21 |
+| Supplier#000634420 |      21 |
+| Supplier#000650531 |      21 |
+| Supplier#000662253 |      21 |
+| Supplier#000671262 |      21 |
+| Supplier#000700385 |      21 |
+| Supplier#000718148 |      21 |
+| Supplier#000771212 |      21 |
+| Supplier#000863468 |      21 |
+| Supplier#000865414 |      21 |
+| Supplier#000896519 |      21 |
+| Supplier#000904325 |      21 |
+| Supplier#000915482 |      21 |
+| Supplier#000921974 |      21 |
+| Supplier#000939633 |      21 |
+| Supplier#000971500 |      21 |
+| Supplier#000977652 |      21 |
+| Supplier#000982874 |      21 |
+| Supplier#000000641 |      20 |
+| Supplier#000002809 |      20 |
+| Supplier#000020394 |      20 |
+| Supplier#000022487 |      20 |
+| Supplier#000022796 |      20 |
+| Supplier#000022879 |      20 |
+| Supplier#000029284 |      20 |
+| Supplier#000038064 |      20 |
+| Supplier#000040252 |      20 |
+| Supplier#000066366 |      20 |
+| Supplier#000077963 |      20 |
+| Supplier#000100483 |      20 |
+| Supplier#000109595 |      20 |
+| Supplier#000122607 |      20 |
+| Supplier#000160691 |      20 |
+| Supplier#000178080 |      20 |
+| Supplier#000182830 |      20 |
+| Supplier#000187089 |      20 |
+| Supplier#000206362 |      20 |
+| Supplier#000216654 |      20 |
+| Supplier#000230597 |      20 |
+| Supplier#000232787 |      20 |
+| Supplier#000257019 |      20 |
+| Supplier#000274356 |      20 |
+| Supplier#000275132 |      20 |
+| Supplier#000279581 |      20 |
+| Supplier#000283767 |      20 |
+| Supplier#000312144 |      20 |
+| Supplier#000317962 |      20 |
+| Supplier#000324303 |      20 |
+| Supplier#000325404 |      20 |
+| Supplier#000343202 |      20 |
+| Supplier#000343898 |      20 |
+| Supplier#000355732 |      20 |
+| Supplier#000357901 |      20 |
+| Supplier#000373557 |      20 |
+| Supplier#000383109 |      20 |
+| Supplier#000403526 |      20 |
+| Supplier#000409089 |      20 |
+| Supplier#000429517 |      20 |
+| Supplier#000439167 |      20 |
+| Supplier#000474917 |      20 |
+| Supplier#000507368 |      20 |
+| Supplier#000517229 |      20 |
++--------------------+---------+
+100 rows in set (22.83 sec)

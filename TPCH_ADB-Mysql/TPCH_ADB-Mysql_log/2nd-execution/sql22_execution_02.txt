@@ -1,0 +1,51 @@
+
+mysql> select
+    ->         cntrycode,
+    ->         count(*) as numcust,
+    ->         sum(c_acctbal) as totacctbal
+    -> from
+    ->         (
+    ->                 select
+    ->                         substring(c_phone from 1 for 2) as cntrycode,
+    ->                         c_acctbal
+    ->                 from
+    ->                         customer
+    ->                 where
+    ->                         substring(c_phone from 1 for 2) in
+    ->                                 ('24', '32', '17', '18', '12', '14', '22')
+    ->                         and c_acctbal > (
+    ->                                 select
+    ->                                         avg(c_acctbal)
+    ->                                 from
+    ->                                         customer
+    ->                                 where
+    ->                                         c_acctbal > 0.00
+    ->                                         and substring(c_phone from 1 for 2) in
+    ->                                                 ('24', '32', '17', '18', '12', '14', '22')
+    ->                         )
+    ->                         and not exists (
+    ->                                 select
+    ->                                         *
+    ->                                 from
+    ->                                         orders
+    ->                                 where
+    ->                                         o_custkey = c_custkey
+    ->                         )
+    ->         ) as custsale
+    -> group by
+    ->         cntrycode
+    -> order by
+    ->         cntrycode;
++-----------+---------+--------------+
+| cntrycode | numcust | totacctbal   |
++-----------+---------+--------------+
+| 12        |   90805 | 681136537.68 |
+| 14        |   91459 | 685826271.21 |
+| 17        |   91313 | 685025263.11 |
+| 18        |   91292 | 684588251.63 |
+| 22        |   90399 | 677402363.79 |
+| 24        |   90635 | 680033065.67 |
+| 32        |   90668 | 680459221.16 |
++-----------+---------+--------------+
+7 rows in set (4.15 sec)
+

@@ -1,0 +1,2 @@
+polar.mysql.x8.4xlarge 32core 256GB  
+由实例pc-0iw595o4721av8f38 降配到polar.mysql.x8.xlarge 8core 64GB 补测一下 threads=5500时是否成功

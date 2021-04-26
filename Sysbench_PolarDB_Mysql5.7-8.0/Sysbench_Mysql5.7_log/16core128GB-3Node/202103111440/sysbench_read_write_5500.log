@@ -1,0 +1,12 @@
+Time: 20210311144527, now running sysbench with thread of:  + 5500
+Running command: sysbench /usr/share/sysbench/oltp_read_write.lua --db-driver=mysql --mysql-host=pc-0iw90b069kp0j0iim.rwlb.japan.rds.aliyuncs.com --mysql-port=3306 --mysql-user=sbtest --mysql-password=Test1234 --mysql-db=sbtest --table-size=100000000 --tables=500 --events=0 --time=60 --db-ps-mode=disable --percentile=95 --report-interval=1 --threads=5500 run
+sysbench 1.0.18-ab7d582 (using bundled LuaJIT 2.1.0-beta3)
+
+Running the test with following options:
+Number of threads: 5500
+Report intermediate results every 1 second(s)
+Initializing random number generator from current time
+
+
+Initializing worker threads...
+

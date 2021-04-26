@@ -1,0 +1,1715 @@
+nohup: ignoring input
+***********************************************************************
+Time: 20210406181305, now running pgbench with c of:  + 500
+progress: 1.0 s, 2331.9 tps, lat 65.992 ms stddev 118.049
+progress: 2.0 s, 6381.0 tps, lat 90.364 ms stddev 192.860
+progress: 3.0 s, 6231.0 tps, lat 87.101 ms stddev 107.624
+progress: 4.0 s, 6710.0 tps, lat 59.479 ms stddev 104.620
+progress: 5.0 s, 6613.0 tps, lat 91.653 ms stddev 155.715
+progress: 6.0 s, 6953.0 tps, lat 71.705 ms stddev 45.491
+progress: 7.0 s, 6969.0 tps, lat 72.480 ms stddev 46.079
+progress: 8.0 s, 6815.0 tps, lat 72.872 ms stddev 44.092
+progress: 9.0 s, 7006.0 tps, lat 71.993 ms stddev 44.576
+progress: 10.0 s, 7054.0 tps, lat 70.533 ms stddev 42.809
+progress: 11.0 s, 6840.0 tps, lat 73.049 ms stddev 46.653
+progress: 12.0 s, 7162.0 tps, lat 69.632 ms stddev 43.387
+progress: 13.0 s, 7228.0 tps, lat 69.432 ms stddev 43.902
+progress: 14.0 s, 7160.0 tps, lat 69.678 ms stddev 42.505
+progress: 15.0 s, 7157.0 tps, lat 69.900 ms stddev 43.822
+progress: 16.0 s, 7217.0 tps, lat 69.213 ms stddev 43.828
+progress: 17.0 s, 7097.0 tps, lat 70.554 ms stddev 43.651
+progress: 18.0 s, 7191.0 tps, lat 69.361 ms stddev 43.121
+progress: 19.0 s, 7132.0 tps, lat 70.235 ms stddev 44.064
+progress: 20.0 s, 7024.0 tps, lat 71.014 ms stddev 43.130
+progress: 21.0 s, 7026.0 tps, lat 71.423 ms stddev 43.951
+progress: 22.0 s, 7112.0 tps, lat 70.066 ms stddev 43.773
+progress: 23.0 s, 7100.0 tps, lat 70.501 ms stddev 44.561
+progress: 24.0 s, 7021.0 tps, lat 71.250 ms stddev 43.823
+progress: 25.0 s, 6961.0 tps, lat 71.981 ms stddev 46.483
+progress: 26.0 s, 7095.0 tps, lat 70.309 ms stddev 43.418
+progress: 27.0 s, 7182.0 tps, lat 69.642 ms stddev 43.942
+progress: 28.0 s, 7111.0 tps, lat 70.314 ms stddev 43.664
+progress: 29.0 s, 7043.0 tps, lat 70.926 ms stddev 45.145
+progress: 30.0 s, 7001.0 tps, lat 71.636 ms stddev 47.283
+progress: 31.0 s, 6953.0 tps, lat 72.020 ms stddev 44.421
+progress: 32.0 s, 7104.0 tps, lat 70.356 ms stddev 43.073
+progress: 33.0 s, 6759.0 tps, lat 72.755 ms stddev 44.583
+progress: 34.0 s, 6512.0 tps, lat 77.222 ms stddev 47.469
+progress: 35.0 s, 7038.0 tps, lat 71.754 ms stddev 46.928
+progress: 36.0 s, 7103.0 tps, lat 70.216 ms stddev 43.527
+progress: 37.0 s, 7238.0 tps, lat 69.078 ms stddev 43.985
+progress: 38.0 s, 7115.0 tps, lat 70.322 ms stddev 44.616
+progress: 39.0 s, 7057.0 tps, lat 70.823 ms stddev 43.782
+progress: 40.0 s, 7069.0 tps, lat 70.891 ms stddev 43.866
+progress: 41.0 s, 7004.0 tps, lat 71.281 ms stddev 44.868
+progress: 42.0 s, 7250.0 tps, lat 68.729 ms stddev 43.575
+progress: 43.0 s, 7201.0 tps, lat 69.855 ms stddev 45.514
+progress: 44.0 s, 7311.0 tps, lat 68.234 ms stddev 42.849
+progress: 45.0 s, 7024.0 tps, lat 70.999 ms stddev 45.960
+progress: 46.0 s, 7206.0 tps, lat 69.604 ms stddev 43.826
+progress: 47.0 s, 7086.0 tps, lat 70.571 ms stddev 44.949
+progress: 48.0 s, 7309.0 tps, lat 68.346 ms stddev 43.216
+progress: 49.0 s, 7083.0 tps, lat 70.553 ms stddev 43.912
+progress: 50.0 s, 7243.0 tps, lat 69.116 ms stddev 43.467
+progress: 51.0 s, 7140.0 tps, lat 69.988 ms stddev 44.803
+progress: 52.0 s, 7138.0 tps, lat 70.066 ms stddev 43.882
+progress: 53.0 s, 7216.0 tps, lat 69.174 ms stddev 43.695
+progress: 54.0 s, 7246.0 tps, lat 69.101 ms stddev 43.706
+progress: 55.0 s, 7057.0 tps, lat 70.723 ms stddev 45.060
+progress: 56.0 s, 7155.0 tps, lat 69.537 ms stddev 43.917
+progress: 57.0 s, 7269.0 tps, lat 69.336 ms stddev 44.771
+progress: 58.0 s, 7166.0 tps, lat 69.558 ms stddev 43.076
+progress: 59.0 s, 7104.0 tps, lat 70.454 ms stddev 43.826
+progress: 60.0 s, 7102.0 tps, lat 70.460 ms stddev 43.912
+progress: 61.0 s, 6996.0 tps, lat 71.435 ms stddev 45.800
+progress: 62.0 s, 7230.0 tps, lat 69.162 ms stddev 42.979
+progress: 63.0 s, 6834.0 tps, lat 72.795 ms stddev 45.185
+progress: 64.0 s, 6436.0 tps, lat 75.917 ms stddev 48.213
+progress: 65.0 s, 7123.0 tps, lat 72.097 ms stddev 48.823
+progress: 66.0 s, 7356.0 tps, lat 68.128 ms stddev 43.581
+progress: 67.0 s, 7202.0 tps, lat 69.436 ms stddev 43.460
+progress: 68.0 s, 7076.0 tps, lat 70.465 ms stddev 44.156
+progress: 69.0 s, 7217.0 tps, lat 69.231 ms stddev 43.598
+progress: 70.0 s, 7282.0 tps, lat 69.400 ms stddev 43.203
+progress: 71.0 s, 7041.0 tps, lat 70.411 ms stddev 44.382
+progress: 72.0 s, 7313.0 tps, lat 68.459 ms stddev 43.698
+progress: 73.0 s, 7345.0 tps, lat 67.973 ms stddev 43.570
+progress: 74.0 s, 7011.0 tps, lat 71.292 ms stddev 46.547
+progress: 75.0 s, 7250.0 tps, lat 68.995 ms stddev 44.936
+progress: 76.0 s, 7300.0 tps, lat 68.348 ms stddev 43.607
+progress: 77.0 s, 7167.0 tps, lat 69.901 ms stddev 44.452
+progress: 78.0 s, 7293.0 tps, lat 68.646 ms stddev 43.556
+progress: 79.0 s, 7246.0 tps, lat 69.030 ms stddev 43.529
+progress: 80.0 s, 7219.0 tps, lat 69.113 ms stddev 43.254
+progress: 81.0 s, 7162.0 tps, lat 69.865 ms stddev 43.700
+progress: 82.0 s, 7386.0 tps, lat 67.618 ms stddev 43.439
+progress: 83.0 s, 7228.0 tps, lat 69.353 ms stddev 44.140
+progress: 84.0 s, 7147.0 tps, lat 69.651 ms stddev 46.095
+progress: 85.0 s, 7253.0 tps, lat 69.239 ms stddev 45.129
+progress: 86.0 s, 7277.0 tps, lat 68.595 ms stddev 43.055
+progress: 87.0 s, 7270.0 tps, lat 68.860 ms stddev 43.620
+progress: 88.0 s, 7305.0 tps, lat 68.175 ms stddev 42.822
+progress: 89.0 s, 7189.0 tps, lat 69.762 ms stddev 46.199
+progress: 90.0 s, 7137.0 tps, lat 69.911 ms stddev 43.767
+progress: 91.0 s, 7178.0 tps, lat 69.758 ms stddev 44.417
+progress: 92.0 s, 7335.0 tps, lat 68.134 ms stddev 43.768
+progress: 93.0 s, 6933.0 tps, lat 71.705 ms stddev 47.757
+progress: 94.0 s, 6609.0 tps, lat 75.912 ms stddev 47.560
+progress: 95.0 s, 7249.0 tps, lat 69.292 ms stddev 44.145
+progress: 96.0 s, 7194.0 tps, lat 69.358 ms stddev 43.356
+progress: 97.0 s, 7271.0 tps, lat 68.767 ms stddev 43.840
+progress: 98.0 s, 7248.0 tps, lat 69.012 ms stddev 43.813
+progress: 99.0 s, 7111.0 tps, lat 70.201 ms stddev 45.042
+progress: 100.0 s, 7228.0 tps, lat 69.310 ms stddev 43.643
+progress: 101.0 s, 7163.0 tps, lat 69.712 ms stddev 43.733
+progress: 102.0 s, 7228.0 tps, lat 68.955 ms stddev 43.711
+progress: 103.0 s, 7159.0 tps, lat 70.133 ms stddev 46.672
+progress: 104.0 s, 7250.0 tps, lat 68.990 ms stddev 43.011
+progress: 105.0 s, 7174.0 tps, lat 69.825 ms stddev 44.142
+progress: 106.0 s, 7372.0 tps, lat 67.660 ms stddev 42.702
+progress: 107.0 s, 7129.0 tps, lat 70.234 ms stddev 43.727
+progress: 108.0 s, 7250.0 tps, lat 68.646 ms stddev 43.343
+progress: 109.0 s, 7143.0 tps, lat 69.956 ms stddev 45.056
+progress: 110.0 s, 7161.0 tps, lat 70.147 ms stddev 44.688
+progress: 111.0 s, 7108.0 tps, lat 70.254 ms stddev 44.333
+progress: 112.0 s, 7254.0 tps, lat 68.897 ms stddev 43.786
+progress: 113.0 s, 7226.0 tps, lat 69.257 ms stddev 45.720
+progress: 114.0 s, 7273.0 tps, lat 68.773 ms stddev 43.752
+progress: 115.0 s, 7286.0 tps, lat 68.447 ms stddev 44.220
+progress: 116.0 s, 7354.0 tps, lat 68.024 ms stddev 44.694
+progress: 117.0 s, 7296.0 tps, lat 68.757 ms stddev 44.087
+progress: 118.0 s, 7308.0 tps, lat 68.306 ms stddev 42.926
+progress: 119.0 s, 7233.0 tps, lat 69.148 ms stddev 43.596
+progress: 120.0 s, 7316.3 tps, lat 68.348 ms stddev 43.790
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 850012
+latency average = 70.556 ms
+latency stddev = 51.801 ms
+tps = 7034.352300 (including connections establishing)
+tps = 7035.380615 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+         8.871  BEGIN;
+        11.265  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+         8.980  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+         9.304  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+         9.687  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+         9.756  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        12.647  END;
+***********************************************************************
+Time: 20210406181506, now running pgbench with c of:  + 1000
+progress: 1.2 s, 140.2 tps, lat 136.445 ms stddev 82.725
+progress: 2.0 s, 3810.3 tps, lat 288.312 ms stddev 189.872
+progress: 3.0 s, 5226.1 tps, lat 194.298 ms stddev 105.598
+progress: 4.0 s, 6050.0 tps, lat 167.918 ms stddev 101.160
+progress: 5.0 s, 6748.0 tps, lat 152.470 ms stddev 81.368
+progress: 6.0 s, 6356.0 tps, lat 151.764 ms stddev 81.944
+progress: 7.0 s, 6683.0 tps, lat 150.630 ms stddev 80.393
+progress: 8.0 s, 6653.0 tps, lat 149.727 ms stddev 79.727
+progress: 9.0 s, 6550.1 tps, lat 152.450 ms stddev 82.791
+progress: 10.0 s, 6505.0 tps, lat 153.713 ms stddev 83.456
+progress: 11.0 s, 6634.0 tps, lat 151.533 ms stddev 82.539
+progress: 12.0 s, 6705.0 tps, lat 149.307 ms stddev 79.567
+progress: 13.0 s, 6627.4 tps, lat 150.589 ms stddev 81.199
+progress: 14.0 s, 6690.6 tps, lat 149.721 ms stddev 80.938
+progress: 15.0 s, 6521.0 tps, lat 153.359 ms stddev 91.114
+progress: 16.0 s, 6672.2 tps, lat 150.097 ms stddev 80.564
+progress: 17.0 s, 6681.7 tps, lat 148.856 ms stddev 80.455
+progress: 18.0 s, 6703.1 tps, lat 149.248 ms stddev 78.983
+progress: 19.0 s, 6636.3 tps, lat 149.178 ms stddev 80.694
+progress: 20.0 s, 6598.9 tps, lat 153.651 ms stddev 82.974
+progress: 21.0 s, 6602.8 tps, lat 150.623 ms stddev 80.433
+progress: 22.0 s, 6627.2 tps, lat 151.752 ms stddev 79.612
+progress: 23.0 s, 6688.8 tps, lat 149.611 ms stddev 80.940
+progress: 24.0 s, 6662.1 tps, lat 149.689 ms stddev 79.550
+progress: 25.0 s, 6740.9 tps, lat 149.496 ms stddev 88.097
+progress: 26.0 s, 6658.3 tps, lat 148.873 ms stddev 79.919
+progress: 27.0 s, 6626.6 tps, lat 149.179 ms stddev 80.213
+progress: 28.0 s, 6801.1 tps, lat 149.339 ms stddev 79.687
+progress: 29.0 s, 6688.3 tps, lat 149.296 ms stddev 80.117
+progress: 30.0 s, 6520.6 tps, lat 152.934 ms stddev 81.667
+progress: 31.0 s, 6631.0 tps, lat 150.632 ms stddev 80.819
+progress: 32.0 s, 6725.0 tps, lat 148.298 ms stddev 79.578
+progress: 33.0 s, 5903.0 tps, lat 169.872 ms stddev 94.270
+progress: 34.0 s, 6201.0 tps, lat 162.068 ms stddev 88.192
+progress: 35.0 s, 6796.0 tps, lat 147.164 ms stddev 77.564
+progress: 36.0 s, 6563.0 tps, lat 150.170 ms stddev 94.753
+progress: 37.0 s, 6883.0 tps, lat 146.861 ms stddev 78.450
+progress: 38.0 s, 6707.9 tps, lat 148.293 ms stddev 79.191
+progress: 39.0 s, 6609.1 tps, lat 152.223 ms stddev 80.398
+progress: 40.0 s, 6603.4 tps, lat 150.935 ms stddev 80.679
+progress: 41.0 s, 6801.5 tps, lat 148.005 ms stddev 78.434
+progress: 42.0 s, 6714.1 tps, lat 147.353 ms stddev 79.361
+progress: 43.0 s, 6805.0 tps, lat 147.538 ms stddev 79.683
+progress: 44.0 s, 6733.9 tps, lat 148.928 ms stddev 80.179
+progress: 45.0 s, 6795.1 tps, lat 147.569 ms stddev 79.530
+progress: 46.0 s, 6685.9 tps, lat 149.459 ms stddev 84.057
+progress: 47.0 s, 6708.0 tps, lat 149.009 ms stddev 79.169
+progress: 48.0 s, 6649.0 tps, lat 149.981 ms stddev 80.458
+progress: 49.0 s, 6726.0 tps, lat 149.575 ms stddev 78.572
+progress: 50.0 s, 6612.0 tps, lat 151.007 ms stddev 79.144
+progress: 51.0 s, 6633.0 tps, lat 149.512 ms stddev 79.000
+progress: 52.0 s, 6712.0 tps, lat 149.734 ms stddev 79.971
+progress: 53.0 s, 6744.0 tps, lat 148.231 ms stddev 78.856
+progress: 54.0 s, 6789.1 tps, lat 148.031 ms stddev 80.548
+progress: 55.0 s, 6694.0 tps, lat 147.833 ms stddev 77.840
+progress: 56.0 s, 6732.0 tps, lat 149.144 ms stddev 79.364
+progress: 57.0 s, 6749.2 tps, lat 147.950 ms stddev 94.346
+progress: 58.0 s, 6768.7 tps, lat 148.129 ms stddev 79.804
+progress: 59.0 s, 6770.9 tps, lat 147.739 ms stddev 79.628
+progress: 60.0 s, 6679.0 tps, lat 149.770 ms stddev 79.992
+progress: 61.0 s, 6558.0 tps, lat 151.837 ms stddev 81.990
+progress: 62.0 s, 6769.0 tps, lat 148.213 ms stddev 78.078
+progress: 63.0 s, 6035.0 tps, lat 164.893 ms stddev 87.890
+progress: 64.0 s, 6165.0 tps, lat 161.977 ms stddev 87.549
+progress: 65.0 s, 6844.1 tps, lat 147.995 ms stddev 80.610
+progress: 66.0 s, 6750.9 tps, lat 147.559 ms stddev 78.849
+progress: 67.0 s, 6692.3 tps, lat 149.085 ms stddev 90.574
+progress: 68.0 s, 6724.1 tps, lat 148.695 ms stddev 78.507
+progress: 69.0 s, 6661.6 tps, lat 149.067 ms stddev 80.424
+progress: 70.0 s, 6625.9 tps, lat 151.123 ms stddev 80.685
+progress: 71.0 s, 6656.1 tps, lat 150.670 ms stddev 79.447
+progress: 72.0 s, 6773.0 tps, lat 148.225 ms stddev 77.753
+progress: 73.0 s, 6749.1 tps, lat 147.970 ms stddev 78.099
+progress: 74.0 s, 6804.8 tps, lat 147.228 ms stddev 79.988
+progress: 75.0 s, 6822.0 tps, lat 146.210 ms stddev 78.248
+progress: 76.0 s, 6691.0 tps, lat 149.131 ms stddev 79.401
+progress: 77.0 s, 6494.3 tps, lat 150.432 ms stddev 79.865
+progress: 78.0 s, 6752.7 tps, lat 151.279 ms stddev 85.839
+progress: 79.0 s, 6747.0 tps, lat 149.494 ms stddev 79.580
+progress: 80.0 s, 6585.0 tps, lat 150.765 ms stddev 82.961
+progress: 81.0 s, 6691.0 tps, lat 149.176 ms stddev 81.087
+progress: 82.0 s, 6857.0 tps, lat 146.786 ms stddev 77.635
+progress: 83.0 s, 6779.0 tps, lat 147.513 ms stddev 79.505
+progress: 84.0 s, 6644.0 tps, lat 150.537 ms stddev 79.639
+progress: 85.0 s, 6776.9 tps, lat 147.598 ms stddev 78.505
+progress: 86.0 s, 6837.1 tps, lat 145.613 ms stddev 80.135
+progress: 87.0 s, 6746.0 tps, lat 149.044 ms stddev 79.840
+progress: 88.0 s, 6729.0 tps, lat 147.586 ms stddev 93.978
+progress: 89.0 s, 6801.3 tps, lat 147.422 ms stddev 81.995
+progress: 90.0 s, 6625.7 tps, lat 150.703 ms stddev 79.342
+progress: 91.0 s, 6736.9 tps, lat 149.181 ms stddev 79.324
+progress: 92.0 s, 6798.1 tps, lat 147.047 ms stddev 79.432
+progress: 93.0 s, 6248.0 tps, lat 158.780 ms stddev 86.159
+progress: 94.0 s, 5991.0 tps, lat 167.990 ms stddev 90.770
+progress: 95.0 s, 6718.0 tps, lat 148.711 ms stddev 78.589
+progress: 96.0 s, 6822.4 tps, lat 146.637 ms stddev 82.171
+progress: 97.0 s, 6883.6 tps, lat 146.913 ms stddev 78.757
+progress: 98.0 s, 6744.0 tps, lat 144.903 ms stddev 85.480
+progress: 99.0 s, 6853.0 tps, lat 147.779 ms stddev 82.336
+progress: 100.0 s, 6658.0 tps, lat 149.828 ms stddev 79.925
+progress: 101.0 s, 6786.4 tps, lat 147.370 ms stddev 78.839
+progress: 102.0 s, 6857.6 tps, lat 146.367 ms stddev 78.770
+progress: 103.0 s, 6855.0 tps, lat 145.461 ms stddev 79.458
+progress: 104.0 s, 6811.0 tps, lat 147.095 ms stddev 78.923
+progress: 105.0 s, 6898.0 tps, lat 145.577 ms stddev 78.886
+progress: 106.0 s, 6746.1 tps, lat 146.635 ms stddev 77.425
+progress: 107.0 s, 6764.9 tps, lat 148.643 ms stddev 79.364
+progress: 108.0 s, 6704.0 tps, lat 148.494 ms stddev 80.106
+progress: 109.0 s, 6764.9 tps, lat 148.145 ms stddev 86.786
+progress: 110.0 s, 6682.1 tps, lat 149.522 ms stddev 80.324
+progress: 111.0 s, 6755.0 tps, lat 147.680 ms stddev 78.288
+progress: 112.0 s, 6817.4 tps, lat 147.235 ms stddev 81.372
+progress: 113.0 s, 6807.5 tps, lat 147.279 ms stddev 78.238
+progress: 114.0 s, 6722.4 tps, lat 149.552 ms stddev 80.143
+progress: 115.0 s, 6931.6 tps, lat 144.559 ms stddev 76.079
+progress: 116.0 s, 6797.9 tps, lat 146.714 ms stddev 80.503
+progress: 117.0 s, 6694.2 tps, lat 148.603 ms stddev 79.990
+progress: 118.0 s, 6935.8 tps, lat 144.289 ms stddev 76.844
+progress: 119.0 s, 6767.0 tps, lat 147.630 ms stddev 91.377
+progress: 120.0 s, 6791.2 tps, lat 146.842 ms stddev 78.685
+progress: 121.0 s, 660.0 tps, lat 553.780 ms stddev 317.849
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 1000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 790963
+latency average = 151.557 ms
+latency stddev = 90.152 ms
+tps = 6483.669232 (including connections establishing)
+tps = 6484.821602 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        20.401  BEGIN;
+        22.378  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        20.380  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        20.409  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        20.857  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        21.854  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        25.178  END;
+***********************************************************************
+Time: 20210406181708, now running pgbench with c of:  + 1500
+progress: 1.9 s, 147.9 tps, lat 202.020 ms stddev 128.559
+progress: 2.0 s, 80.7 tps, lat 267.934 ms stddev 154.772
+progress: 3.0 s, 3759.0 tps, lat 459.717 ms stddev 300.203
+progress: 4.0 s, 5339.0 tps, lat 289.147 ms stddev 156.310
+progress: 5.0 s, 6287.1 tps, lat 241.334 ms stddev 125.916
+progress: 6.0 s, 6416.3 tps, lat 234.189 ms stddev 120.279
+progress: 7.0 s, 6307.7 tps, lat 235.649 ms stddev 120.795
+progress: 8.0 s, 6303.0 tps, lat 238.672 ms stddev 123.137
+progress: 9.0 s, 6349.0 tps, lat 236.541 ms stddev 122.708
+progress: 10.0 s, 6343.0 tps, lat 236.039 ms stddev 121.808
+progress: 11.0 s, 6417.0 tps, lat 235.296 ms stddev 121.889
+progress: 12.0 s, 6296.1 tps, lat 236.619 ms stddev 127.121
+progress: 13.0 s, 6491.9 tps, lat 233.351 ms stddev 121.909
+progress: 14.0 s, 6453.3 tps, lat 232.250 ms stddev 120.167
+progress: 15.0 s, 6505.7 tps, lat 229.307 ms stddev 118.634
+progress: 16.0 s, 6452.0 tps, lat 233.468 ms stddev 124.656
+progress: 17.0 s, 6465.0 tps, lat 232.321 ms stddev 120.714
+progress: 18.0 s, 6233.8 tps, lat 240.619 ms stddev 125.210
+progress: 19.0 s, 6467.6 tps, lat 232.550 ms stddev 123.243
+progress: 20.0 s, 6444.6 tps, lat 231.392 ms stddev 121.975
+progress: 21.0 s, 6512.2 tps, lat 231.496 ms stddev 119.991
+progress: 22.0 s, 6426.8 tps, lat 233.382 ms stddev 122.025
+progress: 23.0 s, 6401.0 tps, lat 234.754 ms stddev 120.858
+progress: 24.0 s, 6447.0 tps, lat 230.971 ms stddev 121.866
+progress: 25.0 s, 6467.0 tps, lat 232.266 ms stddev 119.986
+progress: 26.0 s, 6457.0 tps, lat 232.649 ms stddev 121.423
+progress: 27.0 s, 6446.0 tps, lat 233.311 ms stddev 122.046
+progress: 28.0 s, 6283.2 tps, lat 238.310 ms stddev 123.759
+progress: 29.0 s, 6517.1 tps, lat 230.515 ms stddev 120.516
+progress: 30.0 s, 6537.7 tps, lat 230.532 ms stddev 123.851
+progress: 31.0 s, 5571.3 tps, lat 259.927 ms stddev 133.614
+progress: 32.0 s, 5656.6 tps, lat 269.380 ms stddev 142.682
+progress: 33.0 s, 6457.9 tps, lat 233.839 ms stddev 127.192
+progress: 34.0 s, 6303.0 tps, lat 238.113 ms stddev 121.626
+progress: 35.0 s, 6393.2 tps, lat 235.671 ms stddev 123.090
+progress: 36.0 s, 6462.9 tps, lat 231.796 ms stddev 121.513
+progress: 37.0 s, 6390.1 tps, lat 234.495 ms stddev 120.461
+progress: 38.0 s, 6404.8 tps, lat 234.583 ms stddev 121.751
+progress: 39.0 s, 6523.0 tps, lat 231.553 ms stddev 121.541
+progress: 40.0 s, 6446.1 tps, lat 229.545 ms stddev 119.212
+progress: 41.0 s, 6424.2 tps, lat 234.980 ms stddev 122.245
+progress: 42.0 s, 6492.6 tps, lat 229.952 ms stddev 122.047
+progress: 43.0 s, 6478.3 tps, lat 231.078 ms stddev 122.821
+progress: 44.0 s, 6492.8 tps, lat 231.424 ms stddev 120.206
+progress: 45.0 s, 6275.0 tps, lat 239.769 ms stddev 128.236
+progress: 46.0 s, 6454.0 tps, lat 232.783 ms stddev 119.375
+progress: 47.0 s, 6437.9 tps, lat 233.170 ms stddev 121.914
+progress: 48.0 s, 6258.2 tps, lat 235.685 ms stddev 120.366
+progress: 49.0 s, 6490.0 tps, lat 236.503 ms stddev 127.777
+progress: 50.0 s, 6442.0 tps, lat 229.234 ms stddev 120.971
+progress: 51.0 s, 6448.2 tps, lat 232.464 ms stddev 121.158
+progress: 52.0 s, 6578.8 tps, lat 231.753 ms stddev 121.635
+progress: 53.0 s, 6562.0 tps, lat 226.834 ms stddev 118.107
+progress: 54.0 s, 6520.0 tps, lat 231.067 ms stddev 118.959
+progress: 55.0 s, 6372.0 tps, lat 229.882 ms stddev 119.705
+progress: 56.0 s, 6562.0 tps, lat 232.848 ms stddev 121.677
+progress: 57.0 s, 6439.9 tps, lat 232.971 ms stddev 119.156
+progress: 58.0 s, 6486.1 tps, lat 232.011 ms stddev 122.229
+progress: 59.0 s, 6475.3 tps, lat 232.029 ms stddev 120.252
+progress: 60.0 s, 6461.9 tps, lat 231.205 ms stddev 120.682
+progress: 61.0 s, 5693.8 tps, lat 258.861 ms stddev 133.405
+progress: 62.0 s, 5459.0 tps, lat 273.398 ms stddev 142.788
+progress: 63.0 s, 6502.0 tps, lat 237.309 ms stddev 130.427
+progress: 64.0 s, 6436.0 tps, lat 231.019 ms stddev 120.281
+progress: 65.0 s, 6483.0 tps, lat 231.566 ms stddev 122.281
+progress: 66.0 s, 6267.8 tps, lat 236.615 ms stddev 124.490
+progress: 67.0 s, 6592.2 tps, lat 229.914 ms stddev 121.419
+progress: 68.0 s, 6416.1 tps, lat 234.857 ms stddev 121.431
+progress: 69.0 s, 6591.0 tps, lat 228.207 ms stddev 119.025
+progress: 70.0 s, 6528.0 tps, lat 230.027 ms stddev 122.225
+progress: 71.0 s, 6469.0 tps, lat 231.250 ms stddev 119.529
+progress: 72.0 s, 6613.0 tps, lat 226.909 ms stddev 118.129
+progress: 73.0 s, 6457.0 tps, lat 230.483 ms stddev 122.626
+progress: 74.0 s, 6506.0 tps, lat 231.836 ms stddev 120.467
+progress: 75.0 s, 6494.0 tps, lat 231.527 ms stddev 119.199
+progress: 76.0 s, 6455.9 tps, lat 231.072 ms stddev 121.064
+progress: 77.0 s, 6380.1 tps, lat 236.756 ms stddev 124.641
+progress: 78.0 s, 6504.0 tps, lat 229.864 ms stddev 119.237
+progress: 79.0 s, 6301.9 tps, lat 235.615 ms stddev 126.352
+progress: 80.0 s, 6414.1 tps, lat 235.257 ms stddev 123.564
+progress: 81.0 s, 3310.8 tps, lat 238.097 ms stddev 129.097
+progress: 82.0 s, 2894.1 tps, lat 754.061 ms stddev 607.439
+progress: 83.0 s, 5956.0 tps, lat 256.635 ms stddev 192.619
+progress: 84.0 s, 6588.0 tps, lat 228.898 ms stddev 120.012
+progress: 85.0 s, 6287.0 tps, lat 235.784 ms stddev 125.235
+progress: 86.0 s, 6330.0 tps, lat 236.827 ms stddev 128.724
+progress: 87.0 s, 6243.0 tps, lat 241.455 ms stddev 128.296
+progress: 88.0 s, 6512.8 tps, lat 231.434 ms stddev 124.683
+progress: 89.0 s, 5760.2 tps, lat 241.252 ms stddev 135.868
+progress: 90.0 s, 6668.9 tps, lat 242.459 ms stddev 140.326
+progress: 91.0 s, 5766.1 tps, lat 257.242 ms stddev 136.154
+progress: 92.0 s, 5519.3 tps, lat 265.522 ms stddev 138.301
+progress: 93.0 s, 6535.9 tps, lat 238.187 ms stddev 127.721
+progress: 94.0 s, 6701.8 tps, lat 222.856 ms stddev 118.424
+progress: 95.0 s, 6565.1 tps, lat 228.463 ms stddev 117.001
+progress: 96.0 s, 6564.9 tps, lat 228.795 ms stddev 117.129
+progress: 97.0 s, 6489.0 tps, lat 231.378 ms stddev 122.039
+progress: 98.0 s, 6502.0 tps, lat 228.660 ms stddev 119.356
+progress: 99.0 s, 6533.0 tps, lat 230.005 ms stddev 122.394
+progress: 100.0 s, 6487.0 tps, lat 233.748 ms stddev 129.861
+progress: 101.0 s, 6593.0 tps, lat 226.860 ms stddev 117.328
+progress: 102.0 s, 6598.0 tps, lat 225.821 ms stddev 117.017
+progress: 103.0 s, 6559.9 tps, lat 228.556 ms stddev 121.189
+progress: 104.0 s, 6671.1 tps, lat 225.549 ms stddev 117.132
+progress: 105.0 s, 6630.0 tps, lat 226.035 ms stddev 118.713
+progress: 106.0 s, 6563.0 tps, lat 228.025 ms stddev 119.741
+progress: 107.0 s, 6704.5 tps, lat 224.731 ms stddev 117.407
+progress: 108.0 s, 6581.7 tps, lat 227.846 ms stddev 119.525
+progress: 109.0 s, 6588.2 tps, lat 227.577 ms stddev 119.924
+progress: 110.0 s, 6556.7 tps, lat 227.676 ms stddev 117.777
+progress: 111.0 s, 6615.8 tps, lat 228.405 ms stddev 117.589
+progress: 112.0 s, 6601.1 tps, lat 224.917 ms stddev 119.092
+progress: 113.0 s, 6724.0 tps, lat 225.558 ms stddev 119.663
+progress: 114.0 s, 6653.1 tps, lat 224.727 ms stddev 118.054
+progress: 115.0 s, 6556.0 tps, lat 227.458 ms stddev 118.127
+progress: 116.0 s, 6631.0 tps, lat 227.618 ms stddev 120.723
+progress: 117.0 s, 6516.0 tps, lat 228.884 ms stddev 116.435
+progress: 118.0 s, 6573.0 tps, lat 229.476 ms stddev 119.324
+progress: 119.0 s, 6468.9 tps, lat 231.178 ms stddev 119.872
+progress: 120.0 s, 6755.5 tps, lat 223.852 ms stddev 118.491
+progress: 121.0 s, 592.0 tps, lat 619.188 ms stddev 301.849
+progress: 122.0 s, 389.0 tps, lat 1706.802 ms stddev 268.949
+progress: 123.0 s, 420.0 tps, lat 2672.973 ms stddev 300.905
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 1500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 749295
+latency average = 240.037 ms
+latency stddev = 156.330 ms
+tps = 6062.020448 (including connections establishing)
+tps = 6063.182904 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        33.213  BEGIN;
+        35.033  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        32.581  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        32.793  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        33.996  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        33.717  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        38.554  END;
+***********************************************************************
+Time: 20210406181911, now running pgbench with c of:  + 2000
+progress: 2.4 s, 130.5 tps, lat 124.284 ms stddev 158.830
+progress: 3.0 s, 1208.5 tps, lat 583.587 ms stddev 269.395
+progress: 4.0 s, 4421.9 tps, lat 639.189 ms stddev 439.363
+progress: 5.0 s, 5110.8 tps, lat 393.568 ms stddev 210.709
+progress: 6.0 s, 5788.0 tps, lat 358.323 ms stddev 191.402
+progress: 7.0 s, 6077.0 tps, lat 330.885 ms stddev 169.877
+progress: 8.0 s, 6075.2 tps, lat 329.865 ms stddev 169.948
+progress: 9.0 s, 6000.8 tps, lat 334.304 ms stddev 171.797
+progress: 10.0 s, 6223.1 tps, lat 320.863 ms stddev 165.242
+progress: 11.0 s, 6117.9 tps, lat 324.299 ms stddev 164.971
+progress: 12.0 s, 6248.0 tps, lat 324.117 ms stddev 168.718
+progress: 13.0 s, 6158.0 tps, lat 321.800 ms stddev 167.163
+progress: 14.0 s, 6152.0 tps, lat 326.795 ms stddev 169.706
+progress: 15.0 s, 6165.1 tps, lat 324.388 ms stddev 166.392
+progress: 16.0 s, 6204.9 tps, lat 323.382 ms stddev 163.440
+progress: 17.0 s, 6193.0 tps, lat 324.149 ms stddev 167.293
+progress: 18.0 s, 6199.0 tps, lat 319.843 ms stddev 165.300
+progress: 19.0 s, 6071.2 tps, lat 327.420 ms stddev 169.633
+progress: 20.0 s, 6069.8 tps, lat 330.975 ms stddev 171.990
+progress: 21.0 s, 6237.0 tps, lat 320.262 ms stddev 169.382
+progress: 22.0 s, 6293.0 tps, lat 319.573 ms stddev 166.526
+progress: 23.0 s, 6365.0 tps, lat 314.763 ms stddev 162.412
+progress: 24.0 s, 6176.0 tps, lat 323.992 ms stddev 162.020
+progress: 25.0 s, 6176.0 tps, lat 321.048 ms stddev 167.056
+progress: 26.0 s, 6382.0 tps, lat 315.113 ms stddev 163.352
+progress: 27.0 s, 5481.0 tps, lat 352.558 ms stddev 177.186
+progress: 28.0 s, 5480.0 tps, lat 361.781 ms stddev 189.075
+progress: 29.0 s, 4623.3 tps, lat 365.105 ms stddev 196.464
+progress: 30.0 s, 1186.3 tps, lat 1176.438 ms stddev 416.419
+progress: 31.0 s, 6113.3 tps, lat 489.872 ms stddev 460.417
+progress: 32.0 s, 6406.3 tps, lat 313.397 ms stddev 163.251
+progress: 33.0 s, 6371.0 tps, lat 315.203 ms stddev 162.027
+progress: 34.0 s, 6173.0 tps, lat 319.275 ms stddev 165.382
+progress: 35.0 s, 6337.0 tps, lat 319.323 ms stddev 167.905
+progress: 36.0 s, 6242.0 tps, lat 318.264 ms stddev 166.296
+progress: 37.0 s, 6168.0 tps, lat 324.197 ms stddev 169.167
+progress: 38.0 s, 6295.4 tps, lat 321.565 ms stddev 167.756
+progress: 39.0 s, 6058.7 tps, lat 319.475 ms stddev 160.394
+progress: 40.0 s, 6400.9 tps, lat 319.856 ms stddev 167.938
+progress: 41.0 s, 6303.0 tps, lat 318.868 ms stddev 165.346
+progress: 42.0 s, 6202.0 tps, lat 320.338 ms stddev 168.227
+progress: 43.0 s, 6326.9 tps, lat 318.637 ms stddev 167.134
+progress: 44.0 s, 6164.1 tps, lat 320.294 ms stddev 166.561
+progress: 45.0 s, 6278.0 tps, lat 322.542 ms stddev 169.291
+progress: 46.0 s, 6280.0 tps, lat 316.108 ms stddev 159.852
+progress: 47.0 s, 6348.4 tps, lat 315.964 ms stddev 163.547
+progress: 48.0 s, 6305.7 tps, lat 317.734 ms stddev 164.622
+progress: 49.0 s, 6286.9 tps, lat 315.773 ms stddev 162.789
+progress: 50.0 s, 6098.0 tps, lat 321.626 ms stddev 165.444
+progress: 51.0 s, 6406.0 tps, lat 320.156 ms stddev 169.299
+progress: 52.0 s, 6450.0 tps, lat 311.874 ms stddev 161.812
+progress: 53.0 s, 6153.0 tps, lat 319.721 ms stddev 164.604
+progress: 54.0 s, 6245.2 tps, lat 323.765 ms stddev 165.030
+progress: 55.0 s, 6278.7 tps, lat 320.287 ms stddev 166.801
+progress: 56.0 s, 6394.1 tps, lat 313.923 ms stddev 161.004
+progress: 57.0 s, 5560.0 tps, lat 347.100 ms stddev 177.373
+progress: 58.0 s, 5778.1 tps, lat 355.836 ms stddev 189.258
+progress: 59.0 s, 5965.9 tps, lat 323.238 ms stddev 167.526
+progress: 60.0 s, 5829.0 tps, lat 352.445 ms stddev 189.352
+progress: 61.0 s, 6329.9 tps, lat 316.736 ms stddev 167.022
+progress: 62.0 s, 6264.1 tps, lat 322.451 ms stddev 166.602
+progress: 63.0 s, 6237.0 tps, lat 317.599 ms stddev 165.351
+progress: 64.0 s, 6295.8 tps, lat 316.414 ms stddev 164.333
+progress: 65.0 s, 6309.2 tps, lat 318.659 ms stddev 165.358
+progress: 66.0 s, 6358.0 tps, lat 315.857 ms stddev 157.794
+progress: 67.0 s, 6356.0 tps, lat 315.201 ms stddev 161.661
+progress: 68.0 s, 6273.1 tps, lat 318.545 ms stddev 169.597
+progress: 69.0 s, 6269.9 tps, lat 318.159 ms stddev 165.081
+progress: 70.0 s, 6221.0 tps, lat 322.355 ms stddev 163.126
+progress: 71.0 s, 6339.0 tps, lat 315.545 ms stddev 162.089
+progress: 72.0 s, 6365.2 tps, lat 312.627 ms stddev 160.413
+progress: 73.0 s, 6259.7 tps, lat 320.918 ms stddev 163.815
+progress: 74.0 s, 6330.3 tps, lat 317.683 ms stddev 168.523
+progress: 75.0 s, 6377.7 tps, lat 310.360 ms stddev 160.657
+progress: 76.0 s, 6366.9 tps, lat 311.316 ms stddev 162.147
+progress: 77.0 s, 6432.2 tps, lat 318.474 ms stddev 162.901
+progress: 78.0 s, 6258.1 tps, lat 313.372 ms stddev 159.349
+progress: 79.0 s, 6259.0 tps, lat 324.166 ms stddev 169.410
+progress: 80.0 s, 6368.1 tps, lat 312.906 ms stddev 165.725
+progress: 81.0 s, 6363.0 tps, lat 313.278 ms stddev 162.053
+progress: 82.0 s, 6058.4 tps, lat 326.488 ms stddev 168.257
+progress: 83.0 s, 6320.5 tps, lat 319.529 ms stddev 164.947
+progress: 84.0 s, 6120.2 tps, lat 327.894 ms stddev 169.101
+progress: 85.0 s, 6268.6 tps, lat 315.931 ms stddev 159.822
+progress: 86.0 s, 6407.7 tps, lat 315.531 ms stddev 164.896
+progress: 87.0 s, 5538.6 tps, lat 350.178 ms stddev 176.913
+progress: 88.0 s, 5539.1 tps, lat 355.189 ms stddev 187.910
+progress: 89.0 s, 5754.1 tps, lat 362.859 ms stddev 193.331
+progress: 90.0 s, 6460.9 tps, lat 312.684 ms stddev 160.513
+progress: 91.0 s, 6111.0 tps, lat 322.966 ms stddev 165.309
+progress: 92.0 s, 6360.0 tps, lat 315.323 ms stddev 165.472
+progress: 93.0 s, 6412.0 tps, lat 310.957 ms stddev 160.470
+progress: 94.0 s, 6233.0 tps, lat 322.490 ms stddev 168.373
+progress: 95.0 s, 6169.0 tps, lat 323.255 ms stddev 165.966
+progress: 96.0 s, 6352.1 tps, lat 314.378 ms stddev 164.183
+progress: 97.0 s, 6301.9 tps, lat 314.648 ms stddev 165.381
+progress: 98.0 s, 6319.0 tps, lat 320.558 ms stddev 169.502
+progress: 99.0 s, 6332.0 tps, lat 315.614 ms stddev 163.587
+progress: 100.0 s, 6307.0 tps, lat 315.687 ms stddev 163.518
+progress: 101.0 s, 6323.0 tps, lat 317.416 ms stddev 166.086
+progress: 102.0 s, 6201.9 tps, lat 323.048 ms stddev 168.069
+progress: 103.0 s, 6299.1 tps, lat 317.298 ms stddev 165.950
+progress: 104.0 s, 6198.0 tps, lat 316.912 ms stddev 168.553
+progress: 105.0 s, 6236.0 tps, lat 327.436 ms stddev 170.384
+progress: 106.0 s, 6186.0 tps, lat 316.670 ms stddev 159.472
+progress: 107.0 s, 6412.0 tps, lat 319.188 ms stddev 163.115
+progress: 108.0 s, 6392.0 tps, lat 311.247 ms stddev 162.778
+progress: 109.0 s, 6248.9 tps, lat 317.471 ms stddev 159.470
+progress: 110.0 s, 6484.9 tps, lat 312.876 ms stddev 160.990
+progress: 111.0 s, 6264.0 tps, lat 313.329 ms stddev 164.114
+progress: 112.0 s, 6296.0 tps, lat 321.347 ms stddev 166.006
+progress: 113.0 s, 6333.3 tps, lat 314.787 ms stddev 161.194
+progress: 114.0 s, 6285.8 tps, lat 317.487 ms stddev 165.524
+progress: 115.0 s, 6173.0 tps, lat 324.779 ms stddev 170.941
+progress: 116.0 s, 6361.0 tps, lat 318.161 ms stddev 167.811
+progress: 117.0 s, 5404.1 tps, lat 345.565 ms stddev 172.660
+progress: 118.0 s, 5370.9 tps, lat 373.766 ms stddev 192.737
+progress: 119.0 s, 5878.4 tps, lat 356.613 ms stddev 193.873
+progress: 120.0 s, 6461.7 tps, lat 310.691 ms stddev 162.580
+progress: 121.0 s, 501.0 tps, lat 705.358 ms stddev 355.997
+progress: 122.0 s, 392.0 tps, lat 1721.466 ms stddev 331.058
+progress: 123.0 s, 383.0 tps, lat 2747.790 ms stddev 324.781
+progress: 124.0 s, 674.0 tps, lat 3565.312 ms stddev 271.625
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 2000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 718727
+latency average = 334.035 ms
+latency stddev = 220.630 ms
+tps = 5786.799129 (including connections establishing)
+tps = 5787.865381 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        46.920  BEGIN;
+        47.249  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        45.487  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        46.224  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        48.133  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        46.556  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        53.270  END;
+***********************************************************************
+Time: 20210406182116, now running pgbench with c of:  + 2500
+progress: 5.8 s, 84.5 tps, lat 256.143 ms stddev 265.575
+progress: 6.0 s, 754.6 tps, lat 671.323 ms stddev 282.841
+progress: 7.0 s, 2960.2 tps, lat 1000.510 ms stddev 531.192
+progress: 8.0 s, 4755.8 tps, lat 618.658 ms stddev 467.902
+progress: 9.0 s, 5055.2 tps, lat 507.101 ms stddev 266.473
+progress: 10.0 s, 5540.0 tps, lat 461.876 ms stddev 242.009
+progress: 11.0 s, 5787.8 tps, lat 432.548 ms stddev 225.810
+progress: 12.0 s, 6197.0 tps, lat 414.726 ms stddev 213.994
+progress: 13.0 s, 5863.0 tps, lat 418.864 ms stddev 215.839
+progress: 14.0 s, 6041.9 tps, lat 418.395 ms stddev 213.429
+progress: 15.0 s, 5711.2 tps, lat 427.395 ms stddev 216.329
+progress: 16.0 s, 5815.9 tps, lat 432.820 ms stddev 224.167
+progress: 17.0 s, 5831.8 tps, lat 431.440 ms stddev 219.707
+progress: 18.0 s, 6012.9 tps, lat 418.482 ms stddev 218.677
+progress: 19.0 s, 6031.2 tps, lat 411.514 ms stddev 211.627
+progress: 20.0 s, 5984.4 tps, lat 417.316 ms stddev 219.055
+progress: 21.0 s, 5866.7 tps, lat 423.683 ms stddev 218.272
+progress: 22.0 s, 6082.1 tps, lat 415.318 ms stddev 215.941
+progress: 23.0 s, 5012.9 tps, lat 470.609 ms stddev 230.997
+progress: 24.0 s, 5430.1 tps, lat 478.903 ms stddev 257.249
+progress: 25.0 s, 6081.0 tps, lat 416.019 ms stddev 217.343
+progress: 26.0 s, 6137.9 tps, lat 409.132 ms stddev 210.670
+progress: 27.0 s, 5951.1 tps, lat 417.963 ms stddev 215.551
+progress: 28.0 s, 6059.9 tps, lat 414.919 ms stddev 207.814
+progress: 29.0 s, 5992.0 tps, lat 416.296 ms stddev 210.308
+progress: 30.0 s, 5847.0 tps, lat 421.649 ms stddev 213.468
+progress: 31.0 s, 6165.9 tps, lat 415.731 ms stddev 211.819
+progress: 32.0 s, 6037.1 tps, lat 414.364 ms stddev 205.354
+progress: 33.0 s, 6074.0 tps, lat 411.822 ms stddev 211.132
+progress: 34.0 s, 5938.9 tps, lat 415.529 ms stddev 209.129
+progress: 35.0 s, 5899.1 tps, lat 423.010 ms stddev 215.619
+progress: 36.0 s, 5936.9 tps, lat 423.198 ms stddev 216.533
+progress: 37.0 s, 6075.0 tps, lat 410.349 ms stddev 209.366
+progress: 38.0 s, 6055.1 tps, lat 416.566 ms stddev 214.675
+progress: 39.0 s, 5930.0 tps, lat 423.064 ms stddev 209.208
+progress: 40.0 s, 6077.1 tps, lat 408.207 ms stddev 210.028
+progress: 41.0 s, 5974.9 tps, lat 414.760 ms stddev 211.716
+progress: 42.0 s, 6146.8 tps, lat 412.489 ms stddev 212.999
+progress: 43.0 s, 6071.0 tps, lat 410.619 ms stddev 207.869
+progress: 44.0 s, 6079.1 tps, lat 409.682 ms stddev 209.608
+progress: 45.0 s, 6111.4 tps, lat 411.068 ms stddev 213.099
+progress: 46.0 s, 6202.5 tps, lat 402.866 ms stddev 205.073
+progress: 47.0 s, 6123.5 tps, lat 409.799 ms stddev 205.797
+progress: 48.0 s, 6035.5 tps, lat 409.821 ms stddev 207.924
+progress: 49.0 s, 6011.1 tps, lat 418.798 ms stddev 212.939
+progress: 50.0 s, 5972.3 tps, lat 417.611 ms stddev 214.237
+progress: 51.0 s, 6022.0 tps, lat 416.457 ms stddev 207.679
+progress: 52.0 s, 6061.7 tps, lat 406.118 ms stddev 205.505
+progress: 53.0 s, 5244.0 tps, lat 469.069 ms stddev 230.980
+progress: 54.0 s, 5087.4 tps, lat 480.036 ms stddev 242.035
+progress: 55.0 s, 5755.8 tps, lat 456.534 ms stddev 244.061
+progress: 56.0 s, 6058.7 tps, lat 412.058 ms stddev 210.914
+progress: 57.0 s, 6165.0 tps, lat 409.475 ms stddev 209.983
+progress: 58.0 s, 6075.1 tps, lat 409.304 ms stddev 209.763
+progress: 59.0 s, 5906.0 tps, lat 421.045 ms stddev 216.752
+progress: 60.0 s, 6108.1 tps, lat 408.315 ms stddev 211.369
+progress: 61.0 s, 6093.9 tps, lat 416.631 ms stddev 212.888
+progress: 62.0 s, 5964.4 tps, lat 409.928 ms stddev 209.748
+progress: 63.0 s, 6358.6 tps, lat 402.502 ms stddev 209.157
+progress: 64.0 s, 6185.0 tps, lat 403.963 ms stddev 203.866
+progress: 65.0 s, 6029.2 tps, lat 406.389 ms stddev 205.927
+progress: 66.0 s, 6164.5 tps, lat 412.196 ms stddev 213.009
+progress: 67.0 s, 6121.1 tps, lat 402.182 ms stddev 205.814
+progress: 68.0 s, 6201.1 tps, lat 405.593 ms stddev 210.954
+progress: 69.0 s, 6013.9 tps, lat 416.391 ms stddev 212.421
+progress: 70.0 s, 6066.3 tps, lat 409.296 ms stddev 208.306
+progress: 71.0 s, 6179.7 tps, lat 406.958 ms stddev 211.032
+progress: 72.0 s, 6152.1 tps, lat 406.588 ms stddev 211.315
+progress: 73.0 s, 5970.9 tps, lat 414.821 ms stddev 213.416
+progress: 74.0 s, 5975.0 tps, lat 416.162 ms stddev 206.859
+progress: 75.0 s, 6140.0 tps, lat 417.997 ms stddev 207.817
+progress: 76.0 s, 6034.9 tps, lat 409.834 ms stddev 210.127
+progress: 77.0 s, 6150.1 tps, lat 404.435 ms stddev 210.329
+progress: 78.0 s, 6121.8 tps, lat 409.574 ms stddev 212.467
+progress: 79.0 s, 5990.2 tps, lat 415.267 ms stddev 212.004
+progress: 80.0 s, 6123.8 tps, lat 412.883 ms stddev 211.709
+progress: 81.0 s, 5980.2 tps, lat 413.554 ms stddev 212.073
+progress: 82.0 s, 6165.9 tps, lat 404.250 ms stddev 209.396
+progress: 83.0 s, 5300.2 tps, lat 465.686 ms stddev 230.525
+progress: 84.0 s, 5105.8 tps, lat 475.099 ms stddev 242.933
+progress: 85.0 s, 5485.0 tps, lat 472.292 ms stddev 247.932
+progress: 86.0 s, 6000.1 tps, lat 419.101 ms stddev 218.895
+progress: 87.0 s, 6215.9 tps, lat 405.125 ms stddev 210.750
+progress: 88.0 s, 6372.0 tps, lat 391.832 ms stddev 201.932
+progress: 89.0 s, 6050.5 tps, lat 412.909 ms stddev 206.538
+progress: 90.0 s, 6016.5 tps, lat 413.870 ms stddev 214.325
+progress: 91.0 s, 6208.1 tps, lat 400.355 ms stddev 211.415
+progress: 92.0 s, 6078.9 tps, lat 413.582 ms stddev 208.928
+progress: 93.0 s, 6104.2 tps, lat 414.073 ms stddev 212.374
+progress: 94.0 s, 6182.9 tps, lat 404.264 ms stddev 206.592
+progress: 95.0 s, 6172.0 tps, lat 402.192 ms stddev 207.095
+progress: 96.0 s, 6085.9 tps, lat 413.369 ms stddev 207.272
+progress: 97.0 s, 5913.4 tps, lat 423.135 ms stddev 208.978
+progress: 98.0 s, 6112.9 tps, lat 407.827 ms stddev 209.287
+progress: 99.0 s, 6205.6 tps, lat 402.474 ms stddev 209.934
+progress: 100.0 s, 6072.2 tps, lat 413.665 ms stddev 211.105
+progress: 101.0 s, 6375.3 tps, lat 391.683 ms stddev 199.310
+progress: 102.0 s, 6073.7 tps, lat 410.720 ms stddev 206.422
+progress: 103.0 s, 6238.0 tps, lat 402.864 ms stddev 205.858
+progress: 104.0 s, 6265.0 tps, lat 398.947 ms stddev 205.165
+progress: 105.0 s, 6105.5 tps, lat 404.491 ms stddev 205.033
+progress: 106.0 s, 6060.6 tps, lat 411.674 ms stddev 209.680
+progress: 107.0 s, 6110.0 tps, lat 412.463 ms stddev 214.140
+progress: 108.0 s, 6001.9 tps, lat 413.659 ms stddev 212.087
+progress: 109.0 s, 5978.1 tps, lat 417.905 ms stddev 217.672
+progress: 110.0 s, 6158.0 tps, lat 411.717 ms stddev 212.866
+progress: 111.0 s, 6038.9 tps, lat 408.464 ms stddev 211.695
+progress: 112.0 s, 5971.4 tps, lat 415.888 ms stddev 215.208
+progress: 113.0 s, 5085.7 tps, lat 471.791 ms stddev 245.398
+progress: 114.0 s, 5496.3 tps, lat 470.085 ms stddev 256.119
+progress: 115.0 s, 6056.0 tps, lat 420.610 ms stddev 223.158
+progress: 116.0 s, 6248.7 tps, lat 402.583 ms stddev 209.822
+progress: 117.0 s, 6087.0 tps, lat 406.113 ms stddev 205.225
+progress: 118.0 s, 5999.4 tps, lat 417.981 ms stddev 217.839
+progress: 119.0 s, 6120.6 tps, lat 410.751 ms stddev 211.688
+progress: 120.0 s, 5985.3 tps, lat 421.557 ms stddev 212.500
+progress: 121.0 s, 414.0 tps, lat 747.439 ms stddev 381.880
+progress: 122.0 s, 392.0 tps, lat 1891.730 ms stddev 344.736
+progress: 123.0 s, 305.0 tps, lat 2792.606 ms stddev 363.064
+progress: 124.0 s, 326.0 tps, lat 3877.493 ms stddev 337.318
+progress: 125.0 s, 264.0 tps, lat 4792.393 ms stddev 311.324
+progress: 126.0 s, 386.0 tps, lat 5825.739 ms stddev 315.719
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 2500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 680912
+latency average = 434.231 ms
+latency stddev = 325.647 ms
+tps = 5378.927669 (including connections establishing)
+tps = 5381.010126 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        61.011  BEGIN;
+        60.656  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        59.100  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        60.152  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        63.352  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        60.042  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        69.650  END;
+***********************************************************************
+Time: 20210406182323, now running pgbench with c of:  + 3000
+progress: 7.7 s, 76.5 tps, lat 519.148 ms stddev 346.003
+progress: 8.0 s, 1406.9 tps, lat 1010.970 ms stddev 422.602
+progress: 9.0 s, 3568.2 tps, lat 1266.537 ms stddev 705.907
+progress: 10.0 s, 4543.0 tps, lat 758.223 ms stddev 573.713
+progress: 11.0 s, 4788.8 tps, lat 639.305 ms stddev 341.548
+progress: 12.0 s, 5215.0 tps, lat 599.953 ms stddev 309.706
+progress: 13.0 s, 5662.0 tps, lat 540.203 ms stddev 282.276
+progress: 14.0 s, 5776.0 tps, lat 519.224 ms stddev 266.433
+progress: 15.0 s, 5737.0 tps, lat 530.635 ms stddev 273.588
+progress: 16.0 s, 4934.0 tps, lat 560.671 ms stddev 280.485
+progress: 17.0 s, 4943.0 tps, lat 612.310 ms stddev 312.585
+progress: 18.0 s, 4636.0 tps, lat 638.646 ms stddev 319.798
+progress: 19.0 s, 5485.2 tps, lat 579.556 ms stddev 310.579
+progress: 20.0 s, 5930.4 tps, lat 516.964 ms stddev 269.928
+progress: 21.0 s, 5736.3 tps, lat 519.472 ms stddev 262.640
+progress: 22.0 s, 5756.1 tps, lat 520.043 ms stddev 266.090
+progress: 23.0 s, 5783.4 tps, lat 514.311 ms stddev 267.492
+progress: 24.0 s, 5855.5 tps, lat 519.127 ms stddev 272.067
+progress: 25.0 s, 5782.1 tps, lat 516.417 ms stddev 264.719
+progress: 26.0 s, 5734.0 tps, lat 520.386 ms stddev 269.380
+progress: 27.0 s, 6063.0 tps, lat 504.064 ms stddev 255.988
+progress: 28.0 s, 5778.0 tps, lat 513.156 ms stddev 255.654
+progress: 29.0 s, 5762.0 tps, lat 519.569 ms stddev 258.959
+progress: 30.0 s, 5904.9 tps, lat 516.305 ms stddev 265.485
+progress: 31.0 s, 5822.0 tps, lat 509.615 ms stddev 262.059
+progress: 32.0 s, 5892.9 tps, lat 512.173 ms stddev 263.826
+progress: 33.0 s, 5746.2 tps, lat 517.985 ms stddev 261.285
+progress: 34.0 s, 5704.0 tps, lat 522.800 ms stddev 262.473
+progress: 35.0 s, 5856.9 tps, lat 517.812 ms stddev 263.250
+progress: 36.0 s, 5830.1 tps, lat 514.415 ms stddev 259.188
+progress: 37.0 s, 5963.0 tps, lat 508.123 ms stddev 260.807
+progress: 38.0 s, 5859.1 tps, lat 510.319 ms stddev 259.293
+progress: 39.0 s, 5812.0 tps, lat 511.447 ms stddev 255.513
+progress: 40.0 s, 5885.9 tps, lat 505.356 ms stddev 259.140
+progress: 41.0 s, 5833.0 tps, lat 518.596 ms stddev 264.289
+progress: 42.0 s, 5879.9 tps, lat 507.906 ms stddev 261.244
+progress: 43.0 s, 5799.1 tps, lat 519.426 ms stddev 264.102
+progress: 44.0 s, 5908.2 tps, lat 517.150 ms stddev 262.019
+progress: 45.0 s, 5804.1 tps, lat 510.467 ms stddev 255.990
+progress: 46.0 s, 4996.7 tps, lat 550.727 ms stddev 276.365
+progress: 47.0 s, 4887.0 tps, lat 631.252 ms stddev 317.181
+progress: 48.0 s, 5775.0 tps, lat 550.185 ms stddev 291.998
+progress: 49.0 s, 5801.9 tps, lat 510.255 ms stddev 257.532
+progress: 50.0 s, 5807.9 tps, lat 519.786 ms stddev 261.410
+progress: 51.0 s, 6006.4 tps, lat 503.532 ms stddev 258.868
+progress: 52.0 s, 6052.5 tps, lat 490.986 ms stddev 250.014
+progress: 53.0 s, 5701.2 tps, lat 515.810 ms stddev 257.831
+progress: 54.0 s, 5938.0 tps, lat 515.645 ms stddev 266.544
+progress: 55.0 s, 6041.0 tps, lat 499.046 ms stddev 255.412
+progress: 56.0 s, 5872.0 tps, lat 496.616 ms stddev 254.281
+progress: 57.0 s, 5682.4 tps, lat 538.902 ms stddev 273.171
+progress: 58.0 s, 5978.6 tps, lat 508.151 ms stddev 262.153
+progress: 59.0 s, 5904.0 tps, lat 502.008 ms stddev 253.191
+progress: 60.0 s, 5742.0 tps, lat 517.456 ms stddev 255.262
+progress: 61.0 s, 5919.0 tps, lat 506.664 ms stddev 257.622
+progress: 62.0 s, 5908.9 tps, lat 510.426 ms stddev 255.962
+progress: 63.0 s, 5900.1 tps, lat 509.840 ms stddev 257.768
+progress: 64.0 s, 5613.9 tps, lat 518.820 ms stddev 260.204
+progress: 65.0 s, 5873.9 tps, lat 526.391 ms stddev 270.967
+progress: 66.0 s, 5951.2 tps, lat 506.465 ms stddev 258.685
+progress: 67.0 s, 5946.4 tps, lat 500.621 ms stddev 258.761
+progress: 68.0 s, 6016.5 tps, lat 503.399 ms stddev 254.695
+progress: 69.0 s, 5887.1 tps, lat 509.091 ms stddev 252.648
+progress: 70.0 s, 5768.0 tps, lat 521.417 ms stddev 265.085
+progress: 71.0 s, 5956.9 tps, lat 503.967 ms stddev 255.737
+progress: 72.0 s, 5894.1 tps, lat 508.135 ms stddev 260.514
+progress: 73.0 s, 5815.2 tps, lat 508.653 ms stddev 258.395
+progress: 74.0 s, 5723.8 tps, lat 522.797 ms stddev 260.830
+progress: 75.0 s, 5646.4 tps, lat 525.737 ms stddev 266.429
+progress: 76.0 s, 5286.6 tps, lat 548.143 ms stddev 269.505
+progress: 77.0 s, 4931.0 tps, lat 596.214 ms stddev 303.451
+progress: 78.0 s, 4875.3 tps, lat 624.365 ms stddev 319.320
+progress: 79.0 s, 5656.9 tps, lat 559.295 ms stddev 303.815
+progress: 80.0 s, 5918.8 tps, lat 501.933 ms stddev 260.940
+progress: 81.0 s, 5853.2 tps, lat 522.132 ms stddev 267.128
+progress: 82.0 s, 6037.9 tps, lat 498.765 ms stddev 256.755
+progress: 83.0 s, 5918.9 tps, lat 500.489 ms stddev 248.899
+progress: 84.0 s, 5823.1 tps, lat 515.688 ms stddev 262.496
+progress: 85.0 s, 6192.9 tps, lat 493.692 ms stddev 263.092
+progress: 86.0 s, 5810.1 tps, lat 505.084 ms stddev 253.776
+progress: 87.0 s, 6021.3 tps, lat 504.575 ms stddev 263.569
+progress: 88.0 s, 5983.7 tps, lat 503.465 ms stddev 258.381
+progress: 89.0 s, 6025.1 tps, lat 492.578 ms stddev 253.148
+progress: 90.0 s, 5768.9 tps, lat 514.624 ms stddev 260.689
+progress: 91.0 s, 5840.0 tps, lat 522.892 ms stddev 270.175
+progress: 92.0 s, 5916.0 tps, lat 499.151 ms stddev 253.410
+progress: 93.0 s, 5659.9 tps, lat 534.963 ms stddev 265.636
+progress: 94.0 s, 5958.1 tps, lat 501.513 ms stddev 252.768
+progress: 95.0 s, 6064.0 tps, lat 504.595 ms stddev 256.147
+progress: 96.0 s, 5928.0 tps, lat 498.436 ms stddev 253.897
+progress: 97.0 s, 5914.3 tps, lat 504.982 ms stddev 257.851
+progress: 98.0 s, 5919.8 tps, lat 512.693 ms stddev 261.666
+progress: 99.0 s, 5812.8 tps, lat 501.629 ms stddev 263.477
+progress: 100.0 s, 6041.1 tps, lat 510.653 ms stddev 264.667
+progress: 101.0 s, 5906.0 tps, lat 505.639 ms stddev 257.991
+progress: 102.0 s, 5992.3 tps, lat 501.842 ms stddev 251.388
+progress: 103.0 s, 6042.3 tps, lat 501.639 ms stddev 251.359
+progress: 104.0 s, 5888.3 tps, lat 502.359 ms stddev 254.622
+progress: 105.0 s, 6131.0 tps, lat 495.040 ms stddev 254.882
+progress: 106.0 s, 5298.9 tps, lat 527.689 ms stddev 259.934
+progress: 107.0 s, 5041.2 tps, lat 602.749 ms stddev 300.239
+progress: 108.0 s, 5528.3 tps, lat 563.770 ms stddev 290.396
+progress: 109.0 s, 5862.7 tps, lat 509.652 ms stddev 262.852
+progress: 110.0 s, 5935.9 tps, lat 512.034 ms stddev 260.923
+progress: 111.0 s, 5689.9 tps, lat 513.146 ms stddev 262.671
+progress: 112.0 s, 5730.1 tps, lat 523.060 ms stddev 266.169
+progress: 113.0 s, 5794.1 tps, lat 523.643 ms stddev 271.281
+progress: 114.0 s, 5936.9 tps, lat 515.714 ms stddev 263.088
+progress: 115.0 s, 5829.1 tps, lat 505.345 ms stddev 253.967
+progress: 116.0 s, 5984.7 tps, lat 505.982 ms stddev 254.041
+progress: 117.0 s, 5898.2 tps, lat 507.966 ms stddev 260.011
+progress: 118.0 s, 5890.1 tps, lat 505.438 ms stddev 250.017
+progress: 119.0 s, 5840.3 tps, lat 517.013 ms stddev 265.484
+progress: 120.0 s, 5932.8 tps, lat 506.999 ms stddev 260.629
+progress: 121.0 s, 444.0 tps, lat 855.895 ms stddev 420.512
+progress: 122.0 s, 285.0 tps, lat 1895.268 ms stddev 367.841
+progress: 123.0 s, 295.0 tps, lat 2959.479 ms stddev 374.297
+progress: 124.0 s, 260.0 tps, lat 3990.430 ms stddev 358.884
+progress: 125.0 s, 151.0 tps, lat 4824.304 ms stddev 413.134
+progress: 126.0 s, 255.0 tps, lat 5884.264 ms stddev 327.931
+progress: 127.0 s, 329.0 tps, lat 6892.111 ms stddev 344.705
+progress: 128.0 s, 320.0 tps, lat 7819.135 ms stddev 339.267
+progress: 129.0 s, 129.0 tps, lat 8728.896 ms stddev 365.430
+progress: 130.0 s, 117.0 tps, lat 9755.284 ms stddev 274.867
+progress: 131.0 s, 113.0 tps, lat 10932.522 ms stddev 316.715
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 3000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 646306
+latency average = 550.634 ms
+latency stddev = 506.873 ms
+tps = 4907.687162 (including connections establishing)
+tps = 4909.627680 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        77.442  BEGIN;
+        76.293  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        74.614  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        76.274  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        81.789  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        76.040  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        87.882  END;
+***********************************************************************
+Time: 20210406182535, now running pgbench with c of:  + 3500
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+progress: 15.4 s, 182.1 tps, lat 167.714 ms stddev 296.326
+progress: 16.0 s, 2441.3 tps, lat 1117.960 ms stddev 530.402
+progress: 17.0 s, 4733.5 tps, lat 794.196 ms stddev 639.952
+progress: 18.0 s, 4894.4 tps, lat 518.332 ms stddev 269.869
+progress: 19.0 s, 5495.9 tps, lat 481.000 ms stddev 258.009
+progress: 20.0 s, 6138.5 tps, lat 419.341 ms stddev 215.840
+progress: 21.0 s, 6054.5 tps, lat 410.262 ms stddev 210.727
+progress: 22.0 s, 6137.0 tps, lat 414.277 ms stddev 208.616
+progress: 23.0 s, 5930.8 tps, lat 416.961 ms stddev 209.399
+progress: 24.0 s, 5979.6 tps, lat 426.516 ms stddev 214.732
+progress: 25.0 s, 6119.6 tps, lat 411.606 ms stddev 212.523
+progress: 26.0 s, 6073.4 tps, lat 413.196 ms stddev 210.420
+progress: 27.0 s, 6173.4 tps, lat 413.495 ms stddev 211.118
+progress: 28.0 s, 5990.2 tps, lat 418.928 ms stddev 212.781
+progress: 29.0 s, 6091.0 tps, lat 417.172 ms stddev 223.126
+progress: 30.0 s, 6120.8 tps, lat 408.544 ms stddev 211.707
+progress: 31.0 s, 5909.9 tps, lat 423.192 ms stddev 212.777
+progress: 32.0 s, 6217.6 tps, lat 412.830 ms stddev 213.126
+progress: 33.0 s, 6051.6 tps, lat 414.378 ms stddev 209.268
+progress: 34.0 s, 5386.8 tps, lat 442.306 ms stddev 215.291
+progress: 35.0 s, 4970.2 tps, lat 511.110 ms stddev 251.571
+progress: 36.0 s, 6087.0 tps, lat 430.174 ms stddev 226.743
+progress: 37.0 s, 6217.0 tps, lat 411.384 ms stddev 212.085
+progress: 38.0 s, 6002.0 tps, lat 415.505 ms stddev 213.188
+progress: 39.0 s, 6293.4 tps, lat 401.559 ms stddev 208.852
+progress: 40.0 s, 6164.6 tps, lat 407.735 ms stddev 204.872
+progress: 41.0 s, 5943.4 tps, lat 416.446 ms stddev 210.613
+progress: 42.0 s, 6313.8 tps, lat 408.566 ms stddev 209.344
+progress: 43.0 s, 6124.7 tps, lat 407.872 ms stddev 204.261
+progress: 44.0 s, 6093.1 tps, lat 413.743 ms stddev 213.145
+progress: 45.0 s, 6117.5 tps, lat 412.101 ms stddev 210.836
+progress: 46.0 s, 6105.3 tps, lat 412.146 ms stddev 206.374
+progress: 47.0 s, 6090.2 tps, lat 414.431 ms stddev 213.098
+progress: 48.0 s, 6105.0 tps, lat 414.009 ms stddev 212.291
+progress: 49.0 s, 6163.9 tps, lat 408.752 ms stddev 207.087
+progress: 50.0 s, 6102.4 tps, lat 409.140 ms stddev 209.748
+progress: 51.0 s, 6155.7 tps, lat 412.123 ms stddev 210.802
+progress: 52.0 s, 6071.0 tps, lat 407.610 ms stddev 211.703
+progress: 53.0 s, 6101.0 tps, lat 420.751 ms stddev 218.280
+progress: 54.0 s, 6004.5 tps, lat 414.788 ms stddev 213.096
+progress: 55.0 s, 6180.9 tps, lat 414.330 ms stddev 213.854
+progress: 56.0 s, 6226.1 tps, lat 403.110 ms stddev 202.589
+progress: 57.0 s, 5966.6 tps, lat 420.335 ms stddev 214.437
+progress: 58.0 s, 6061.8 tps, lat 417.009 ms stddev 212.355
+progress: 59.0 s, 6155.1 tps, lat 408.088 ms stddev 208.795
+progress: 60.0 s, 6011.8 tps, lat 419.178 ms stddev 214.042
+progress: 61.0 s, 6050.0 tps, lat 411.489 ms stddev 208.157
+progress: 62.0 s, 6192.2 tps, lat 415.067 ms stddev 207.486
+progress: 63.0 s, 5978.0 tps, lat 413.885 ms stddev 214.005
+progress: 64.0 s, 5526.4 tps, lat 437.648 ms stddev 220.133
+progress: 65.0 s, 5471.6 tps, lat 467.659 ms stddev 243.348
+progress: 66.0 s, 5025.0 tps, lat 496.765 ms stddev 256.281
+progress: 67.0 s, 6005.0 tps, lat 442.845 ms stddev 236.571
+progress: 68.0 s, 6193.2 tps, lat 405.424 ms stddev 208.724
+progress: 69.0 s, 6027.8 tps, lat 415.919 ms stddev 208.113
+progress: 70.0 s, 5961.9 tps, lat 417.378 ms stddev 213.025
+progress: 71.0 s, 6008.1 tps, lat 419.561 ms stddev 211.708
+progress: 72.0 s, 6234.9 tps, lat 408.002 ms stddev 210.313
+progress: 73.0 s, 6206.0 tps, lat 409.797 ms stddev 207.219
+progress: 74.0 s, 6126.0 tps, lat 411.278 ms stddev 210.054
+progress: 75.0 s, 6239.0 tps, lat 402.538 ms stddev 206.722
+progress: 76.0 s, 6058.5 tps, lat 412.654 ms stddev 209.565
+progress: 77.0 s, 6241.5 tps, lat 409.449 ms stddev 211.183
+progress: 78.0 s, 6187.4 tps, lat 404.824 ms stddev 204.516
+progress: 79.0 s, 6187.4 tps, lat 405.619 ms stddev 209.412
+progress: 80.0 s, 6020.6 tps, lat 417.113 ms stddev 211.630
+progress: 81.0 s, 5872.9 tps, lat 433.557 ms stddev 213.588
+progress: 82.0 s, 6222.7 tps, lat 405.071 ms stddev 206.823
+progress: 83.0 s, 5993.1 tps, lat 415.314 ms stddev 210.500
+progress: 84.0 s, 6153.0 tps, lat 414.081 ms stddev 215.883
+progress: 85.0 s, 6072.0 tps, lat 410.284 ms stddev 211.771
+progress: 86.0 s, 6077.7 tps, lat 413.145 ms stddev 214.824
+progress: 87.0 s, 6049.5 tps, lat 425.620 ms stddev 219.446
+progress: 88.0 s, 6033.6 tps, lat 409.233 ms stddev 204.797
+progress: 89.0 s, 6134.2 tps, lat 413.329 ms stddev 210.504
+progress: 90.0 s, 5943.9 tps, lat 421.217 ms stddev 218.160
+progress: 91.0 s, 6117.0 tps, lat 415.108 ms stddev 210.271
+progress: 92.0 s, 6087.0 tps, lat 413.912 ms stddev 209.592
+progress: 93.0 s, 5907.0 tps, lat 424.252 ms stddev 213.312
+progress: 94.0 s, 5461.0 tps, lat 444.177 ms stddev 221.176
+progress: 95.0 s, 5076.0 tps, lat 498.937 ms stddev 249.091
+progress: 96.0 s, 6141.7 tps, lat 429.167 ms stddev 229.585
+progress: 97.0 s, 5890.7 tps, lat 422.524 ms stddev 213.639
+progress: 98.0 s, 6138.6 tps, lat 409.440 ms stddev 209.661
+progress: 99.0 s, 6036.2 tps, lat 420.319 ms stddev 213.928
+progress: 100.0 s, 6002.7 tps, lat 415.888 ms stddev 213.423
+progress: 101.0 s, 6002.0 tps, lat 417.974 ms stddev 213.032
+progress: 102.0 s, 6055.9 tps, lat 421.124 ms stddev 214.840
+progress: 103.0 s, 6024.6 tps, lat 418.835 ms stddev 212.401
+progress: 104.0 s, 5933.5 tps, lat 419.743 ms stddev 214.520
+progress: 105.0 s, 6148.1 tps, lat 413.417 ms stddev 208.824
+progress: 106.0 s, 6163.8 tps, lat 412.292 ms stddev 209.822
+progress: 107.0 s, 6228.2 tps, lat 410.677 ms stddev 212.813
+progress: 108.0 s, 6050.0 tps, lat 409.760 ms stddev 204.646
+progress: 109.0 s, 6120.3 tps, lat 411.935 ms stddev 212.509
+progress: 110.0 s, 6098.7 tps, lat 413.551 ms stddev 212.946
+progress: 111.0 s, 6037.0 tps, lat 414.074 ms stddev 207.604
+progress: 112.0 s, 6037.4 tps, lat 418.004 ms stddev 213.932
+progress: 113.0 s, 6155.7 tps, lat 413.606 ms stddev 211.380
+progress: 114.0 s, 5978.9 tps, lat 413.240 ms stddev 210.496
+progress: 115.0 s, 6125.3 tps, lat 414.730 ms stddev 214.103
+progress: 116.0 s, 6128.5 tps, lat 415.070 ms stddev 210.978
+progress: 117.0 s, 6125.6 tps, lat 405.854 ms stddev 205.019
+progress: 118.0 s, 6050.6 tps, lat 416.529 ms stddev 210.131
+progress: 119.0 s, 6097.0 tps, lat 413.698 ms stddev 209.004
+progress: 120.0 s, 6139.3 tps, lat 412.242 ms stddev 209.678
+progress: 121.0 s, 420.0 tps, lat 719.498 ms stddev 369.156
+progress: 122.0 s, 355.0 tps, lat 1844.687 ms stddev 364.725
+progress: 123.0 s, 338.0 tps, lat 2775.514 ms stddev 334.735
+progress: 124.0 s, 284.0 tps, lat 3788.465 ms stddev 315.721
+progress: 125.0 s, 197.0 tps, lat 4733.646 ms stddev 307.293
+progress: 126.0 s, 402.0 tps, lat 5756.151 ms stddev 309.060
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 3500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 631178
+latency average = 436.156 ms
+latency stddev = 342.456 ms
+tps = 4981.619948 (including connections establishing)
+tps = 4984.432799 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        61.976  BEGIN;
+        60.502  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        59.222  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        60.239  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        63.705  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        60.228  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        70.037  END;
+***********************************************************************
+Time: 20210406182742, now running pgbench with c of:  + 4000
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 4000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 616646
+latency average = 484.472 ms
+latency stddev = 387.801 ms
+tps = 4833.932284 (including connections establishing)
+tps = 4836.174609 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        68.182  BEGIN;
+        67.361  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        65.754  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        67.293  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        71.663  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        66.692  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        77.271  END;
+***********************************************************************
+Time: 20210406182949, now running pgbench with c of:  + 4500
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+progress: 18.4 s, 136.6 tps, lat 342.738 ms stddev 324.698
+progress: 19.0 s, 3040.3 tps, lat 962.893 ms stddev 560.141
+progress: 20.0 s, 4406.2 tps, lat 672.859 ms stddev 524.803
+progress: 21.0 s, 4657.7 tps, lat 522.826 ms stddev 279.052
+progress: 22.0 s, 5767.6 tps, lat 428.134 ms stddev 234.601
+progress: 23.0 s, 6024.8 tps, lat 388.420 ms stddev 198.613
+progress: 24.0 s, 6029.3 tps, lat 384.997 ms stddev 201.086
+progress: 25.0 s, 6023.1 tps, lat 394.813 ms stddev 207.593
+progress: 26.0 s, 6199.8 tps, lat 370.804 ms stddev 192.996
+progress: 27.0 s, 6011.2 tps, lat 392.686 ms stddev 197.172
+progress: 28.0 s, 6126.4 tps, lat 382.117 ms stddev 196.269
+progress: 29.0 s, 6223.9 tps, lat 374.682 ms stddev 191.843
+progress: 30.0 s, 6125.1 tps, lat 386.090 ms stddev 200.812
+progress: 31.0 s, 6110.5 tps, lat 378.236 ms stddev 189.506
+progress: 32.0 s, 6154.0 tps, lat 381.568 ms stddev 198.930
+progress: 33.0 s, 5997.8 tps, lat 388.276 ms stddev 198.530
+progress: 34.0 s, 6088.4 tps, lat 384.621 ms stddev 198.982
+progress: 35.0 s, 6390.4 tps, lat 375.370 ms stddev 195.771
+progress: 36.0 s, 6031.5 tps, lat 372.964 ms stddev 189.565
+progress: 37.0 s, 6033.0 tps, lat 394.564 ms stddev 199.211
+progress: 38.0 s, 6109.0 tps, lat 385.016 ms stddev 198.297
+progress: 39.0 s, 6113.1 tps, lat 381.170 ms stddev 195.797
+progress: 40.0 s, 6149.2 tps, lat 380.305 ms stddev 195.097
+progress: 41.0 s, 6243.2 tps, lat 377.886 ms stddev 193.517
+progress: 42.0 s, 6366.9 tps, lat 366.315 ms stddev 189.530
+progress: 43.0 s, 6176.3 tps, lat 380.981 ms stddev 193.661
+progress: 44.0 s, 6055.6 tps, lat 383.023 ms stddev 191.170
+progress: 45.0 s, 6342.8 tps, lat 371.450 ms stddev 195.765
+progress: 46.0 s, 6162.4 tps, lat 369.631 ms stddev 187.483
+progress: 47.0 s, 6046.0 tps, lat 395.250 ms stddev 207.483
+progress: 48.0 s, 6384.1 tps, lat 371.005 ms stddev 195.462
+progress: 49.0 s, 6198.4 tps, lat 368.491 ms stddev 187.202
+progress: 50.0 s, 5267.4 tps, lat 442.922 ms stddev 225.367
+progress: 51.0 s, 5601.7 tps, lat 408.288 ms stddev 208.446
+progress: 52.0 s, 5371.0 tps, lat 440.635 ms stddev 225.897
+progress: 53.0 s, 6132.8 tps, lat 388.758 ms stddev 202.042
+progress: 54.0 s, 6144.6 tps, lat 379.219 ms stddev 192.256
+progress: 55.0 s, 6345.1 tps, lat 373.804 ms stddev 195.753
+progress: 56.0 s, 6167.7 tps, lat 378.348 ms stddev 191.594
+progress: 57.0 s, 6094.6 tps, lat 382.576 ms stddev 197.354
+progress: 58.0 s, 6290.7 tps, lat 373.203 ms stddev 197.152
+progress: 59.0 s, 6307.0 tps, lat 370.442 ms stddev 188.517
+progress: 60.0 s, 6185.1 tps, lat 377.412 ms stddev 194.626
+progress: 61.0 s, 6219.5 tps, lat 374.319 ms stddev 188.521
+progress: 62.0 s, 6155.8 tps, lat 378.402 ms stddev 195.297
+progress: 63.0 s, 6043.7 tps, lat 388.958 ms stddev 200.768
+progress: 64.0 s, 6190.9 tps, lat 383.006 ms stddev 197.739
+progress: 65.0 s, 6148.6 tps, lat 376.918 ms stddev 191.855
+progress: 66.0 s, 6138.5 tps, lat 380.305 ms stddev 197.891
+progress: 67.0 s, 6107.3 tps, lat 381.474 ms stddev 195.193
+progress: 68.0 s, 6356.1 tps, lat 371.467 ms stddev 190.912
+progress: 69.0 s, 6090.5 tps, lat 381.898 ms stddev 195.348
+progress: 70.0 s, 6157.5 tps, lat 385.101 ms stddev 199.226
+progress: 71.0 s, 6230.5 tps, lat 370.233 ms stddev 193.722
+progress: 72.0 s, 6182.1 tps, lat 381.874 ms stddev 193.563
+progress: 73.0 s, 6059.0 tps, lat 382.084 ms stddev 193.047
+progress: 74.0 s, 6268.0 tps, lat 377.442 ms stddev 194.636
+progress: 75.0 s, 5999.5 tps, lat 386.694 ms stddev 197.393
+progress: 76.0 s, 6116.0 tps, lat 385.196 ms stddev 194.332
+progress: 77.0 s, 6007.4 tps, lat 386.331 ms stddev 194.395
+progress: 78.0 s, 6003.6 tps, lat 394.172 ms stddev 200.844
+progress: 79.0 s, 6179.0 tps, lat 377.743 ms stddev 195.123
+progress: 80.0 s, 5154.1 tps, lat 431.118 ms stddev 214.239
+progress: 81.0 s, 5657.9 tps, lat 425.549 ms stddev 226.809
+progress: 82.0 s, 6312.2 tps, lat 381.148 ms stddev 201.265
+progress: 83.0 s, 6027.0 tps, lat 383.639 ms stddev 195.224
+progress: 84.0 s, 6310.3 tps, lat 373.549 ms stddev 192.022
+progress: 85.0 s, 6097.5 tps, lat 382.583 ms stddev 197.397
+progress: 86.0 s, 6079.8 tps, lat 379.163 ms stddev 196.324
+progress: 87.0 s, 6189.6 tps, lat 382.334 ms stddev 194.357
+progress: 88.0 s, 6085.6 tps, lat 381.514 ms stddev 200.354
+progress: 89.0 s, 6284.5 tps, lat 379.477 ms stddev 195.097
+progress: 90.0 s, 6276.4 tps, lat 373.457 ms stddev 190.261
+progress: 91.0 s, 6166.5 tps, lat 372.913 ms stddev 190.814
+progress: 92.0 s, 6160.3 tps, lat 381.218 ms stddev 196.164
+progress: 93.0 s, 6113.5 tps, lat 382.621 ms stddev 193.504
+progress: 94.0 s, 6361.0 tps, lat 371.337 ms stddev 191.493
+progress: 95.0 s, 5909.0 tps, lat 389.046 ms stddev 197.224
+progress: 96.0 s, 6194.8 tps, lat 383.162 ms stddev 196.967
+progress: 97.0 s, 6221.9 tps, lat 373.320 ms stddev 194.917
+progress: 98.0 s, 6086.0 tps, lat 385.928 ms stddev 199.065
+progress: 99.0 s, 6180.8 tps, lat 382.700 ms stddev 198.546
+progress: 100.0 s, 6278.2 tps, lat 370.683 ms stddev 192.543
+progress: 101.0 s, 6214.6 tps, lat 375.209 ms stddev 191.210
+progress: 102.0 s, 6027.5 tps, lat 387.545 ms stddev 197.126
+progress: 103.0 s, 6401.0 tps, lat 366.948 ms stddev 197.284
+progress: 104.0 s, 6161.4 tps, lat 381.089 ms stddev 191.561
+progress: 105.0 s, 6188.1 tps, lat 378.581 ms stddev 193.796
+progress: 106.0 s, 6326.8 tps, lat 368.813 ms stddev 190.400
+progress: 107.0 s, 5909.3 tps, lat 388.208 ms stddev 196.621
+progress: 108.0 s, 5975.8 tps, lat 392.150 ms stddev 197.254
+progress: 109.0 s, 6306.6 tps, lat 377.538 ms stddev 200.937
+progress: 110.0 s, 5340.1 tps, lat 425.296 ms stddev 216.017
+progress: 111.0 s, 5396.3 tps, lat 430.057 ms stddev 219.758
+progress: 112.0 s, 5307.7 tps, lat 450.243 ms stddev 236.898
+progress: 113.0 s, 6388.3 tps, lat 378.201 ms stddev 203.244
+progress: 114.0 s, 6145.1 tps, lat 373.705 ms stddev 189.623
+progress: 115.0 s, 6182.7 tps, lat 379.598 ms stddev 195.354
+progress: 116.0 s, 6422.7 tps, lat 367.594 ms stddev 194.646
+progress: 117.0 s, 6041.2 tps, lat 380.365 ms stddev 188.833
+progress: 118.0 s, 5960.8 tps, lat 390.789 ms stddev 200.153
+progress: 119.0 s, 6164.1 tps, lat 382.049 ms stddev 193.413
+progress: 120.0 s, 6344.3 tps, lat 368.080 ms stddev 191.733
+progress: 121.0 s, 475.0 tps, lat 783.486 ms stddev 369.700
+progress: 122.0 s, 351.0 tps, lat 1838.664 ms stddev 329.236
+progress: 123.0 s, 253.0 tps, lat 2902.912 ms stddev 355.460
+progress: 124.0 s, 300.0 tps, lat 3802.397 ms stddev 326.000
+progress: 125.0 s, 721.0 tps, lat 4763.830 ms stddev 305.332
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 4500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 619369
+latency average = 399.565 ms
+latency stddev = 293.956 ms
+tps = 4927.616742 (including connections establishing)
+tps = 4929.531621 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        56.953  BEGIN;
+        55.433  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        54.531  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        55.198  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        58.450  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        55.471  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        63.302  END;
+***********************************************************************
+Time: 20210406183155, now running pgbench with c of:  + 5000
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+progress: 16.4 s, 17.3 tps, lat 407.131 ms stddev 245.807
+progress: 17.0 s, 1428.8 tps, lat 857.662 ms stddev 375.542
+progress: 18.0 s, 3878.2 tps, lat 1064.592 ms stddev 645.481
+progress: 19.0 s, 4800.9 tps, lat 645.502 ms stddev 435.844
+progress: 20.0 s, 4836.2 tps, lat 575.326 ms stddev 293.999
+progress: 21.0 s, 5515.7 tps, lat 524.283 ms stddev 276.623
+progress: 22.0 s, 5862.6 tps, lat 492.014 ms stddev 251.630
+progress: 23.0 s, 5880.4 tps, lat 476.606 ms stddev 238.818
+progress: 24.0 s, 5831.0 tps, lat 477.615 ms stddev 241.786
+progress: 25.0 s, 5735.6 tps, lat 492.752 ms stddev 254.255
+progress: 26.0 s, 5885.9 tps, lat 477.556 ms stddev 243.394
+progress: 27.0 s, 5990.4 tps, lat 471.142 ms stddev 235.020
+progress: 28.0 s, 5861.2 tps, lat 470.295 ms stddev 232.873
+progress: 29.0 s, 5843.4 tps, lat 479.122 ms stddev 236.592
+progress: 30.0 s, 6107.0 tps, lat 464.074 ms stddev 239.306
+progress: 31.0 s, 5891.4 tps, lat 467.006 ms stddev 236.181
+progress: 32.0 s, 5806.6 tps, lat 483.468 ms stddev 246.842
+progress: 33.0 s, 5870.9 tps, lat 477.295 ms stddev 238.696
+progress: 34.0 s, 6023.2 tps, lat 464.718 ms stddev 235.650
+progress: 35.0 s, 6030.5 tps, lat 469.540 ms stddev 241.429
+progress: 36.0 s, 6003.0 tps, lat 465.692 ms stddev 237.075
+progress: 37.0 s, 6054.8 tps, lat 459.363 ms stddev 233.231
+progress: 38.0 s, 5863.5 tps, lat 470.431 ms stddev 237.712
+progress: 39.0 s, 5881.0 tps, lat 483.782 ms stddev 240.842
+progress: 40.0 s, 6080.2 tps, lat 462.785 ms stddev 236.581
+progress: 41.0 s, 6084.5 tps, lat 456.082 ms stddev 229.139
+progress: 42.0 s, 5936.2 tps, lat 468.331 ms stddev 238.518
+progress: 43.0 s, 5867.1 tps, lat 484.654 ms stddev 247.756
+progress: 44.0 s, 5425.7 tps, lat 487.129 ms stddev 243.671
+progress: 45.0 s, 4941.0 tps, lat 561.573 ms stddev 281.115
+progress: 46.0 s, 5780.8 tps, lat 515.565 ms stddev 281.172
+progress: 47.0 s, 6167.8 tps, lat 460.204 ms stddev 237.912
+progress: 48.0 s, 6113.0 tps, lat 454.258 ms stddev 225.420
+progress: 49.0 s, 5833.4 tps, lat 474.208 ms stddev 240.926
+progress: 50.0 s, 6069.5 tps, lat 464.416 ms stddev 238.831
+progress: 51.0 s, 5819.7 tps, lat 476.773 ms stddev 233.117
+progress: 52.0 s, 6009.8 tps, lat 469.997 ms stddev 236.671
+progress: 53.0 s, 6137.5 tps, lat 462.932 ms stddev 234.004
+progress: 54.0 s, 6089.7 tps, lat 452.191 ms stddev 223.555
+progress: 55.0 s, 6024.9 tps, lat 466.226 ms stddev 233.678
+progress: 56.0 s, 5765.5 tps, lat 480.370 ms stddev 238.960
+progress: 57.0 s, 6193.9 tps, lat 460.310 ms stddev 234.796
+progress: 58.0 s, 5844.8 tps, lat 465.003 ms stddev 231.159
+progress: 59.0 s, 5990.1 tps, lat 476.169 ms stddev 245.091
+progress: 60.0 s, 6187.9 tps, lat 459.813 ms stddev 237.293
+progress: 61.0 s, 5810.9 tps, lat 467.118 ms stddev 233.910
+progress: 62.0 s, 5749.3 tps, lat 482.852 ms stddev 243.997
+progress: 63.0 s, 5963.8 tps, lat 484.075 ms stddev 246.943
+progress: 64.0 s, 6038.4 tps, lat 459.632 ms stddev 233.122
+progress: 65.0 s, 6066.5 tps, lat 462.345 ms stddev 234.312
+progress: 66.0 s, 6015.5 tps, lat 471.210 ms stddev 232.489
+progress: 67.0 s, 5978.0 tps, lat 458.647 ms stddev 231.790
+progress: 68.0 s, 5803.5 tps, lat 476.102 ms stddev 243.675
+progress: 69.0 s, 5781.0 tps, lat 480.251 ms stddev 245.469
+progress: 70.0 s, 6028.0 tps, lat 476.687 ms stddev 243.473
+progress: 71.0 s, 5801.0 tps, lat 475.018 ms stddev 242.484
+progress: 72.0 s, 5798.9 tps, lat 480.000 ms stddev 249.267
+progress: 73.0 s, 5980.4 tps, lat 485.944 ms stddev 251.654
+progress: 74.0 s, 5214.1 tps, lat 491.953 ms stddev 240.354
+progress: 75.0 s, 5805.5 tps, lat 512.150 ms stddev 267.209
+progress: 76.0 s, 5372.0 tps, lat 495.721 ms stddev 246.969
+progress: 77.0 s, 5146.0 tps, lat 550.289 ms stddev 273.957
+progress: 78.0 s, 5710.5 tps, lat 514.077 ms stddev 272.331
+progress: 79.0 s, 5985.4 tps, lat 469.644 ms stddev 243.862
+progress: 80.0 s, 6116.6 tps, lat 456.085 ms stddev 233.707
+progress: 81.0 s, 5965.1 tps, lat 468.404 ms stddev 232.792
+progress: 82.0 s, 5910.8 tps, lat 469.903 ms stddev 236.912
+progress: 83.0 s, 5989.2 tps, lat 475.200 ms stddev 243.909
+progress: 84.0 s, 5981.6 tps, lat 461.090 ms stddev 232.742
+progress: 85.0 s, 5948.0 tps, lat 471.746 ms stddev 238.707
+progress: 86.0 s, 6034.4 tps, lat 466.459 ms stddev 235.935
+progress: 87.0 s, 5966.9 tps, lat 469.411 ms stddev 239.953
+progress: 88.0 s, 5931.4 tps, lat 467.706 ms stddev 240.791
+progress: 89.0 s, 6156.7 tps, lat 463.622 ms stddev 238.621
+progress: 90.0 s, 5967.0 tps, lat 462.136 ms stddev 238.224
+progress: 91.0 s, 5832.7 tps, lat 473.199 ms stddev 243.224
+progress: 92.0 s, 5973.2 tps, lat 479.042 ms stddev 252.369
+progress: 93.0 s, 6168.9 tps, lat 458.488 ms stddev 234.667
+progress: 94.0 s, 5922.5 tps, lat 468.094 ms stddev 237.255
+progress: 95.0 s, 6014.5 tps, lat 463.819 ms stddev 238.842
+progress: 96.0 s, 6118.4 tps, lat 461.055 ms stddev 236.932
+progress: 97.0 s, 5908.5 tps, lat 466.365 ms stddev 230.829
+progress: 98.0 s, 5789.4 tps, lat 480.330 ms stddev 244.036
+progress: 99.0 s, 6089.6 tps, lat 471.130 ms stddev 238.427
+progress: 100.0 s, 5923.0 tps, lat 461.866 ms stddev 237.578
+progress: 101.0 s, 5889.9 tps, lat 474.800 ms stddev 247.943
+progress: 102.0 s, 5873.5 tps, lat 488.248 ms stddev 256.462
+progress: 103.0 s, 5935.0 tps, lat 466.224 ms stddev 240.665
+progress: 104.0 s, 5296.0 tps, lat 499.390 ms stddev 248.184
+progress: 105.0 s, 4719.4 tps, lat 589.929 ms stddev 304.461
+progress: 106.0 s, 5919.6 tps, lat 504.296 ms stddev 279.255
+progress: 107.0 s, 6023.6 tps, lat 463.030 ms stddev 239.716
+progress: 108.0 s, 5892.1 tps, lat 472.471 ms stddev 238.105
+progress: 109.0 s, 6186.9 tps, lat 456.230 ms stddev 240.821
+progress: 110.0 s, 5946.1 tps, lat 472.605 ms stddev 243.537
+progress: 111.0 s, 5848.7 tps, lat 472.340 ms stddev 240.231
+progress: 112.0 s, 6163.5 tps, lat 464.721 ms stddev 239.537
+progress: 113.0 s, 6149.7 tps, lat 453.757 ms stddev 227.375
+progress: 114.0 s, 6020.4 tps, lat 458.540 ms stddev 238.388
+progress: 115.0 s, 5941.1 tps, lat 472.895 ms stddev 242.996
+progress: 116.0 s, 6029.5 tps, lat 461.720 ms stddev 238.056
+progress: 117.0 s, 6033.7 tps, lat 464.364 ms stddev 235.608
+progress: 118.0 s, 5754.6 tps, lat 471.737 ms stddev 237.869
+progress: 119.0 s, 6088.1 tps, lat 477.521 ms stddev 252.202
+progress: 120.0 s, 5957.1 tps, lat 463.395 ms stddev 235.992
+progress: 121.0 s, 470.0 tps, lat 866.615 ms stddev 398.283
+progress: 122.0 s, 271.0 tps, lat 1933.276 ms stddev 388.963
+progress: 123.0 s, 299.0 tps, lat 2813.725 ms stddev 363.357
+progress: 124.0 s, 294.0 tps, lat 3805.825 ms stddev 354.811
+progress: 125.0 s, 221.0 tps, lat 4817.145 ms stddev 346.399
+progress: 126.0 s, 414.0 tps, lat 5653.764 ms stddev 271.716
+progress: 127.0 s, 222.0 tps, lat 6711.141 ms stddev 327.511
+progress: 128.0 s, 261.0 tps, lat 7786.668 ms stddev 352.729
+progress: 129.0 s, 221.0 tps, lat 8733.500 ms stddev 327.516
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 5000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 607191
+latency average = 500.725 ms
+latency stddev = 424.431 ms
+tps = 4667.398672 (including connections establishing)
+tps = 4668.947175 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.001  \set delta random(-5000, 5000)
+        70.304  BEGIN;
+        69.501  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        67.638  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        69.197  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        73.768  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        68.751  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        81.294  END;
+***********************************************************************
+Time: 20210406183405, now running pgbench with c of:  + 5500
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+progress: 25.6 s, 94.5 tps, lat 186.196 ms stddev 220.288
+progress: 26.0 s, 3630.6 tps, lat 641.991 ms stddev 459.807
+progress: 27.0 s, 4788.9 tps, lat 463.677 ms stddev 413.676
+progress: 28.0 s, 5644.2 tps, lat 314.855 ms stddev 162.909
+progress: 29.0 s, 6421.9 tps, lat 280.189 ms stddev 149.175
+progress: 30.0 s, 6497.0 tps, lat 270.936 ms stddev 139.109
+progress: 31.0 s, 6401.8 tps, lat 272.504 ms stddev 139.707
+progress: 32.0 s, 6549.2 tps, lat 272.886 ms stddev 144.171
+progress: 33.0 s, 5998.0 tps, lat 282.093 ms stddev 143.797
+progress: 34.0 s, 5491.0 tps, lat 327.687 ms stddev 172.115
+progress: 35.0 s, 6323.1 tps, lat 281.511 ms stddev 149.904
+progress: 36.0 s, 6729.6 tps, lat 261.596 ms stddev 137.049
+progress: 37.0 s, 6488.4 tps, lat 270.285 ms stddev 136.343
+progress: 38.0 s, 6328.8 tps, lat 277.749 ms stddev 141.836
+progress: 39.0 s, 6667.3 tps, lat 262.989 ms stddev 136.868
+progress: 40.0 s, 6361.7 tps, lat 275.407 ms stddev 143.533
+progress: 41.0 s, 6471.1 tps, lat 275.673 ms stddev 144.975
+progress: 42.0 s, 6545.1 tps, lat 267.440 ms stddev 138.704
+progress: 43.0 s, 6565.0 tps, lat 267.676 ms stddev 138.368
+progress: 44.0 s, 6516.8 tps, lat 269.608 ms stddev 140.165
+progress: 45.0 s, 6688.9 tps, lat 265.245 ms stddev 138.817
+progress: 46.0 s, 6514.9 tps, lat 269.289 ms stddev 135.397
+progress: 47.0 s, 6383.0 tps, lat 274.128 ms stddev 138.470
+progress: 48.0 s, 6535.6 tps, lat 270.838 ms stddev 140.864
+progress: 49.0 s, 6426.4 tps, lat 272.267 ms stddev 138.267
+progress: 50.0 s, 6414.3 tps, lat 276.527 ms stddev 144.129
+progress: 51.0 s, 6475.5 tps, lat 271.896 ms stddev 142.300
+progress: 52.0 s, 6606.0 tps, lat 265.093 ms stddev 136.572
+progress: 53.0 s, 6446.5 tps, lat 272.706 ms stddev 137.954
+progress: 54.0 s, 6473.1 tps, lat 275.300 ms stddev 144.518
+progress: 55.0 s, 6714.3 tps, lat 261.784 ms stddev 134.890
+progress: 56.0 s, 6421.1 tps, lat 272.961 ms stddev 141.784
+progress: 57.0 s, 6457.5 tps, lat 271.156 ms stddev 140.473
+progress: 58.0 s, 6646.4 tps, lat 266.365 ms stddev 139.204
+progress: 59.0 s, 6393.5 tps, lat 275.901 ms stddev 144.023
+progress: 60.0 s, 6439.8 tps, lat 269.934 ms stddev 139.866
+progress: 61.0 s, 6490.3 tps, lat 269.932 ms stddev 139.133
+progress: 62.0 s, 6459.5 tps, lat 276.946 ms stddev 145.463
+progress: 63.0 s, 5946.3 tps, lat 284.987 ms stddev 145.760
+progress: 64.0 s, 6231.9 tps, lat 292.363 ms stddev 157.468
+progress: 65.0 s, 6429.3 tps, lat 269.654 ms stddev 140.423
+progress: 66.0 s, 5796.9 tps, lat 297.621 ms stddev 155.017
+progress: 67.0 s, 5792.9 tps, lat 312.416 ms stddev 167.443
+progress: 68.0 s, 6690.9 tps, lat 263.324 ms stddev 136.489
+progress: 69.0 s, 6535.1 tps, lat 270.923 ms stddev 141.840
+progress: 70.0 s, 6402.5 tps, lat 273.953 ms stddev 141.336
+progress: 71.0 s, 6573.7 tps, lat 267.919 ms stddev 138.822
+progress: 72.0 s, 6366.4 tps, lat 273.896 ms stddev 146.044
+progress: 73.0 s, 6501.4 tps, lat 271.792 ms stddev 141.309
+progress: 74.0 s, 6642.2 tps, lat 265.833 ms stddev 140.092
+progress: 75.0 s, 6573.7 tps, lat 267.837 ms stddev 136.693
+progress: 76.0 s, 6477.1 tps, lat 270.232 ms stddev 143.349
+progress: 77.0 s, 6675.1 tps, lat 268.015 ms stddev 139.827
+progress: 78.0 s, 6316.0 tps, lat 273.684 ms stddev 140.649
+progress: 79.0 s, 6397.8 tps, lat 273.144 ms stddev 142.340
+progress: 80.0 s, 6484.9 tps, lat 274.200 ms stddev 140.115
+progress: 81.0 s, 6343.2 tps, lat 278.015 ms stddev 143.181
+progress: 82.0 s, 6332.0 tps, lat 275.618 ms stddev 143.992
+progress: 83.0 s, 6501.9 tps, lat 271.765 ms stddev 140.704
+progress: 84.0 s, 6521.2 tps, lat 269.110 ms stddev 137.917
+progress: 85.0 s, 6491.5 tps, lat 271.264 ms stddev 137.174
+progress: 86.0 s, 6613.3 tps, lat 269.545 ms stddev 140.207
+progress: 87.0 s, 6693.2 tps, lat 260.825 ms stddev 137.179
+progress: 88.0 s, 6441.1 tps, lat 275.094 ms stddev 143.800
+progress: 89.0 s, 6272.9 tps, lat 279.767 ms stddev 144.167
+progress: 90.0 s, 6617.1 tps, lat 264.581 ms stddev 134.715
+progress: 91.0 s, 6347.9 tps, lat 276.839 ms stddev 143.293
+progress: 92.0 s, 6304.6 tps, lat 280.965 ms stddev 142.531
+progress: 93.0 s, 6154.3 tps, lat 273.691 ms stddev 140.817
+progress: 94.0 s, 5464.1 tps, lat 322.747 ms stddev 164.035
+progress: 95.0 s, 6311.7 tps, lat 288.210 ms stddev 154.414
+progress: 96.0 s, 6600.9 tps, lat 270.433 ms stddev 138.335
+progress: 97.0 s, 6525.5 tps, lat 265.515 ms stddev 135.213
+progress: 98.0 s, 6556.9 tps, lat 269.693 ms stddev 136.823
+progress: 99.0 s, 6327.0 tps, lat 273.942 ms stddev 141.621
+progress: 100.0 s, 6622.6 tps, lat 271.781 ms stddev 138.182
+progress: 101.0 s, 6319.1 tps, lat 276.304 ms stddev 142.339
+progress: 102.0 s, 6442.4 tps, lat 271.758 ms stddev 144.119
+progress: 103.0 s, 6538.4 tps, lat 272.003 ms stddev 141.566
+progress: 104.0 s, 6472.6 tps, lat 270.159 ms stddev 138.869
+progress: 105.0 s, 6494.9 tps, lat 271.238 ms stddev 139.367
+progress: 106.0 s, 6617.1 tps, lat 266.117 ms stddev 139.276
+progress: 107.0 s, 6401.8 tps, lat 273.702 ms stddev 142.787
+progress: 108.0 s, 6448.1 tps, lat 273.480 ms stddev 141.244
+progress: 109.0 s, 6626.1 tps, lat 267.702 ms stddev 138.691
+progress: 110.0 s, 6436.6 tps, lat 270.391 ms stddev 139.945
+progress: 111.0 s, 6303.2 tps, lat 279.810 ms stddev 144.748
+progress: 112.0 s, 6437.3 tps, lat 273.083 ms stddev 143.366
+progress: 113.0 s, 6357.9 tps, lat 276.320 ms stddev 141.623
+progress: 114.0 s, 6384.9 tps, lat 279.758 ms stddev 143.910
+progress: 115.0 s, 6478.1 tps, lat 270.753 ms stddev 140.445
+progress: 116.0 s, 6518.5 tps, lat 270.387 ms stddev 140.337
+progress: 117.0 s, 6437.0 tps, lat 270.969 ms stddev 142.465
+progress: 118.0 s, 6437.9 tps, lat 273.850 ms stddev 143.123
+progress: 119.0 s, 6439.4 tps, lat 273.217 ms stddev 139.034
+progress: 120.0 s, 6419.0 tps, lat 273.035 ms stddev 140.196
+progress: 121.0 s, 564.0 tps, lat 684.166 ms stddev 316.230
+progress: 122.0 s, 486.0 tps, lat 1716.913 ms stddev 277.573
+progress: 123.0 s, 653.0 tps, lat 2602.848 ms stddev 236.034
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 5500
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 607360
+latency average = 280.669 ms
+latency stddev = 177.150 ms
+tps = 4926.575297 (including connections establishing)
+tps = 4927.987114 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        40.347  BEGIN;
+        39.255  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        38.217  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        38.751  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        40.255  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        39.192  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        44.519  END;
+***********************************************************************
+Time: 20210406183609, now running pgbench with c of:  + 6000
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+connection to database "pgtest" failed:
+FATAL:  remaining connection slots are reserved for non-replication superuser connections
+progress: 20.8 s, 40.4 tps, lat 492.066 ms stddev 335.368
+progress: 21.0 s, 1543.6 tps, lat 810.620 ms stddev 363.761
+progress: 22.0 s, 3939.2 tps, lat 891.987 ms stddev 583.758
+progress: 23.0 s, 4887.4 tps, lat 508.128 ms stddev 310.415
+progress: 24.0 s, 5198.2 tps, lat 475.017 ms stddev 251.796
+progress: 25.0 s, 6122.7 tps, lat 406.323 ms stddev 213.963
+progress: 26.0 s, 5903.4 tps, lat 400.393 ms stddev 202.076
+progress: 27.0 s, 6010.7 tps, lat 399.869 ms stddev 208.171
+progress: 28.0 s, 5783.0 tps, lat 404.659 ms stddev 205.346
+progress: 29.0 s, 5782.7 tps, lat 425.237 ms stddev 221.846
+progress: 30.0 s, 6067.5 tps, lat 397.780 ms stddev 204.160
+progress: 31.0 s, 5469.7 tps, lat 423.914 ms stddev 211.542
+progress: 32.0 s, 5338.4 tps, lat 452.048 ms stddev 234.557
+progress: 33.0 s, 6173.6 tps, lat 403.985 ms stddev 214.694
+progress: 34.0 s, 5859.1 tps, lat 402.512 ms stddev 205.736
+progress: 35.0 s, 6297.0 tps, lat 387.214 ms stddev 202.841
+progress: 36.0 s, 6071.8 tps, lat 394.885 ms stddev 199.422
+progress: 37.0 s, 5987.3 tps, lat 392.923 ms stddev 196.611
+progress: 38.0 s, 6276.6 tps, lat 393.999 ms stddev 206.206
+progress: 39.0 s, 6274.2 tps, lat 380.759 ms stddev 191.172
+progress: 40.0 s, 6205.4 tps, lat 383.227 ms stddev 194.794
+progress: 41.0 s, 6037.3 tps, lat 397.690 ms stddev 202.316
+progress: 42.0 s, 6304.0 tps, lat 379.250 ms stddev 197.809
+progress: 43.0 s, 6252.5 tps, lat 389.692 ms stddev 197.226
+progress: 44.0 s, 6157.2 tps, lat 385.965 ms stddev 199.573
+progress: 45.0 s, 6299.3 tps, lat 377.819 ms stddev 195.756
+progress: 46.0 s, 6018.6 tps, lat 397.209 ms stddev 203.916
+progress: 47.0 s, 6235.0 tps, lat 388.911 ms stddev 198.751
+progress: 48.0 s, 6261.8 tps, lat 385.065 ms stddev 199.106
+progress: 49.0 s, 6105.6 tps, lat 389.393 ms stddev 199.085
+progress: 50.0 s, 6201.3 tps, lat 387.864 ms stddev 199.999
+progress: 51.0 s, 6459.0 tps, lat 380.737 ms stddev 193.010
+progress: 52.0 s, 5975.6 tps, lat 392.030 ms stddev 199.106
+progress: 53.0 s, 6181.3 tps, lat 390.233 ms stddev 202.035
+progress: 54.0 s, 6214.1 tps, lat 385.236 ms stddev 200.850
+progress: 55.0 s, 6077.7 tps, lat 392.610 ms stddev 199.524
+progress: 56.0 s, 5987.0 tps, lat 400.279 ms stddev 202.879
+progress: 57.0 s, 6328.4 tps, lat 384.705 ms stddev 202.785
+progress: 58.0 s, 5676.3 tps, lat 400.509 ms stddev 197.766
+progress: 59.0 s, 5027.7 tps, lat 474.174 ms stddev 246.960
+progress: 60.0 s, 5904.5 tps, lat 423.921 ms stddev 226.731
+progress: 61.0 s, 6237.0 tps, lat 390.491 ms stddev 202.829
+progress: 62.0 s, 6083.0 tps, lat 389.353 ms stddev 196.156
+progress: 63.0 s, 6142.7 tps, lat 389.372 ms stddev 198.396
+progress: 64.0 s, 6256.4 tps, lat 389.640 ms stddev 198.374
+progress: 65.0 s, 6015.9 tps, lat 391.828 ms stddev 197.562
+progress: 66.0 s, 6154.5 tps, lat 396.330 ms stddev 203.166
+progress: 67.0 s, 6189.1 tps, lat 386.752 ms stddev 200.756
+progress: 68.0 s, 6070.5 tps, lat 394.373 ms stddev 199.060
+progress: 69.0 s, 6077.5 tps, lat 393.575 ms stddev 204.940
+progress: 70.0 s, 6201.5 tps, lat 388.663 ms stddev 198.996
+progress: 71.0 s, 5926.4 tps, lat 397.819 ms stddev 202.771
+progress: 72.0 s, 5940.8 tps, lat 409.658 ms stddev 210.787
+progress: 73.0 s, 6109.2 tps, lat 390.421 ms stddev 199.898
+progress: 74.0 s, 6149.8 tps, lat 390.929 ms stddev 200.678
+progress: 75.0 s, 6036.0 tps, lat 400.528 ms stddev 207.067
+progress: 76.0 s, 6072.6 tps, lat 393.538 ms stddev 203.063
+progress: 77.0 s, 6287.7 tps, lat 382.803 ms stddev 197.501
+progress: 78.0 s, 6105.8 tps, lat 392.088 ms stddev 199.482
+progress: 79.0 s, 6090.2 tps, lat 394.142 ms stddev 202.842
+progress: 80.0 s, 6224.8 tps, lat 385.442 ms stddev 195.166
+progress: 81.0 s, 6245.7 tps, lat 389.078 ms stddev 197.474
+progress: 82.0 s, 6016.0 tps, lat 393.566 ms stddev 198.701
+progress: 83.0 s, 5970.0 tps, lat 402.887 ms stddev 201.621
+progress: 84.0 s, 6276.7 tps, lat 389.446 ms stddev 198.347
+progress: 85.0 s, 6003.3 tps, lat 390.376 ms stddev 200.141
+progress: 86.0 s, 6113.0 tps, lat 397.525 ms stddev 203.526
+progress: 87.0 s, 6098.4 tps, lat 388.786 ms stddev 200.179
+progress: 88.0 s, 5719.0 tps, lat 403.344 ms stddev 200.916
+progress: 89.0 s, 5130.1 tps, lat 464.587 ms stddev 236.153
+progress: 90.0 s, 6050.0 tps, lat 415.227 ms stddev 224.973
+progress: 91.0 s, 6199.9 tps, lat 390.113 ms stddev 199.361
+progress: 92.0 s, 6112.5 tps, lat 388.015 ms stddev 194.720
+progress: 93.0 s, 6245.8 tps, lat 392.723 ms stddev 201.428
+progress: 94.0 s, 6168.6 tps, lat 384.412 ms stddev 197.945
+progress: 95.0 s, 6067.0 tps, lat 391.995 ms stddev 202.156
+progress: 96.0 s, 6119.4 tps, lat 394.990 ms stddev 201.297
+progress: 97.0 s, 6219.1 tps, lat 384.036 ms stddev 201.303
+progress: 98.0 s, 6212.1 tps, lat 391.204 ms stddev 199.578
+progress: 99.0 s, 6090.3 tps, lat 391.370 ms stddev 202.056
+progress: 100.0 s, 6245.0 tps, lat 383.598 ms stddev 196.058
+progress: 101.0 s, 6031.0 tps, lat 396.096 ms stddev 202.444
+progress: 102.0 s, 6116.2 tps, lat 394.712 ms stddev 208.386
+progress: 103.0 s, 6303.3 tps, lat 383.570 ms stddev 197.911
+progress: 104.0 s, 6170.6 tps, lat 386.528 ms stddev 196.293
+progress: 105.0 s, 6171.0 tps, lat 388.138 ms stddev 199.662
+progress: 106.0 s, 6143.4 tps, lat 392.361 ms stddev 204.452
+progress: 107.0 s, 6115.3 tps, lat 390.209 ms stddev 198.876
+progress: 108.0 s, 6152.1 tps, lat 390.211 ms stddev 199.459
+progress: 109.0 s, 6196.2 tps, lat 389.912 ms stddev 198.760
+progress: 110.0 s, 6200.2 tps, lat 392.527 ms stddev 195.036
+progress: 111.0 s, 6018.6 tps, lat 387.860 ms stddev 199.094
+progress: 112.0 s, 6257.8 tps, lat 393.104 ms stddev 202.755
+progress: 113.0 s, 5927.2 tps, lat 394.831 ms stddev 197.087
+progress: 114.0 s, 5909.4 tps, lat 409.953 ms stddev 207.062
+progress: 115.0 s, 6058.3 tps, lat 397.072 ms stddev 206.309
+progress: 116.0 s, 6034.4 tps, lat 395.472 ms stddev 201.537
+progress: 117.0 s, 5770.5 tps, lat 404.145 ms stddev 200.081
+progress: 118.0 s, 5757.9 tps, lat 414.394 ms stddev 207.103
+progress: 119.0 s, 5898.4 tps, lat 422.066 ms stddev 220.617
+progress: 120.0 s, 6121.3 tps, lat 392.278 ms stddev 202.080
+progress: 121.0 s, 499.0 tps, lat 818.109 ms stddev 386.797
+progress: 122.0 s, 246.0 tps, lat 1905.944 ms stddev 342.561
+progress: 123.0 s, 365.0 tps, lat 2804.973 ms stddev 311.018
+progress: 124.0 s, 294.0 tps, lat 3723.540 ms stddev 330.156
+progress: 125.0 s, 391.0 tps, lat 4699.936 ms stddev 302.074
+progress: 126.0 s, 507.0 tps, lat 5682.834 ms stddev 317.222
+transaction type: ./rw.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 6000
+number of threads: 25
+duration: 120 s
+number of transactions actually processed: 599932
+latency average = 413.283 ms
+latency stddev = 312.280 ms
+tps = 4746.595498 (including connections establishing)
+tps = 4747.817183 (excluding connections establishing)
+statement latencies in milliseconds:
+         0.001  \set aid random_gaussian(1, :range, 10.0)
+         0.001  \set bid random(1, 1 * :scale)
+         0.000  \set tid random(1, 10 * :scale)
+         0.000  \set delta random(-5000, 5000)
+        58.721  BEGIN;
+        56.929  UPDATE pgbench_accounts SET abalance = abalance + :delta WHERE aid = :aid;
+        56.469  SELECT abalance FROM pgbench_accounts WHERE aid = :aid;
+        57.190  UPDATE pgbench_tellers SET tbalance = tbalance + :delta WHERE tid = :tid;
+        60.652  UPDATE pgbench_branches SET bbalance = bbalance + :delta WHERE bid = :bid;
+        57.256  INSERT INTO pgbench_history (tid, bid, aid, delta, mtime) VALUES (:tid, :bid, :aid, :delta, CURRENT_TIMESTAMP);
+        65.875  END;
